@@ -1,0 +1,6 @@
+厨房电器	chu'fang'dian'qi	0
+燃气灶	ran'qi'zao	0
+容声厨卫	rong'sheng'chu'wei	0
+三件套	san'jian'tao	0
+吸油烟机	xi'you'yan'ji	0
+消毒柜	xiao'du'gui	0

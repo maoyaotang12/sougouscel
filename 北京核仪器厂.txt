@@ -1,0 +1,15 @@
+棒控棒位	bang'kong'bang'wei	0
+北京核仪器厂	bei'jing'he'yi'qi'chang	0
+定标器	ding'biao'qi	0
+堆内测量	dui'nei'ce'liang	0
+堆外测量	dui'wai'ce'liang	0
+符合与反符合	fu'he'yu'fan'fu'he	0
+辐射	fu'she	0
+核测	he'ce	0
+核辐射	he'fu'she	0
+计数器	ji'shu'qi	0
+脉冲	mai'chong	0
+驱动机构	qu'dong'ji'gou	0
+中核北京核仪器厂	zhong'he'bei'jing'he'yi'qi'chang	0
+中子通量	zhong'zi'tong'liang	0
+中子注量率	zhong'zi'zhu'liang'lv	0

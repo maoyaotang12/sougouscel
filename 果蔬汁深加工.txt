@@ -1,0 +1,5 @@
+发酵果汁	fa'jiao'guo'zhi	0
+非浓缩汁	fei'nong'suo'zhi	0
+浓缩汁	nong'suo'zhi	0
+调配果汁	tiao'pei'guo'zhi	0
+鲜榨果汁	xian'zha'guo'zhi	0

@@ -1,0 +1,5 @@
+次方	ci'fang	0
+方程	fang'cheng	0
+函数	han'shu	0
+立方	li'fang	0
+平方	ping'fang	0

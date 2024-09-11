@@ -1,0 +1,12 @@
+安生部	an'sheng'bu	0
+安生二部	an'sheng'er'bu	0
+包头第一热电厂	bao'tou'di'yi're'dian'chang	0
+包一电厂	bao'yi'dian'chang	0
+电气检修队	dian'qi'jian'xiu'dui	0
+锅炉检修队	guo'lu'jian'xiu'dui	0
+检修部	jian'xiu'bu	0
+检修分部	jian'xiu'fen'bu	0
+汽机检修队	qi'ji'jian'xiu'dui	0
+热工检修队	re'gong'jian'xiu'dui	0
+运行部	yun'xing'bu	0
+运行二部	yun'xing'er'bu	0

@@ -1,0 +1,9 @@
+法炎	fa'yan	0
+鬼阶	gui'jie	0
+皇城	huang'cheng	0
+岚城	lan'cheng	0
+李翠花	li'cui'hua	0
+命炎	ming'yan	0
+诺诺斋	nuo'nuo'zhai	0
+武炎	wu'yan	0
+炎技	yan'ji	0

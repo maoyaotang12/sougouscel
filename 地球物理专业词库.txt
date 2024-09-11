@@ -1,0 +1,6 @@
+反射波	fan'she'bo	0
+费马最小时间	fei'ma'zui'xiao'shi'jian	0
+费马最小时间定律	fei'ma'zui'xiao'shi'jian'ding'lv	0
+斯奈尔定律	si'nai'er'ding'lv	0
+折射波	zhe'she'bo	0
+最小时间	zui'xiao'shi'jian	0

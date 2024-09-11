@@ -1,0 +1,12 @@
+皮草工坊	pi'cao'gong'fang	0
+旗舰店	qi'jian'dian	0
+乾祥	qian'xiang	0
+乾祥服饰	qian'xiang'fu'shi	0
+乾祥服饰旗舰店	qian'xiang'fu'shi'qi'jian'dian	0
+乾祥旗舰店	qian'xiang'qi'jian'dian	0
+炎焱妖	yan'yan'yao	0
+炎焱妖服饰	yan'yan'yao'fu'shi	0
+伊诺莎	yi'nuo'sha	0
+伊诺莎服饰	yi'nuo'sha'fu'shi	0
+伊诺莎服饰旗舰店	yi'nuo'sha'fu'shi'qi'jian'dian	0
+伊诺莎旗舰店	yi'nuo'sha'qi'jian'dian	0

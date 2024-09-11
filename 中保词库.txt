@@ -1,0 +1,13 @@
+标书费	biao'shu'fei	0
+定州香江巴黎印象二期	ding'zhou'xiang'jiang'ba'li'yin'xiang'er'qi	0
+付银行手续费	fu'yin'hang'shou'xu'fei	0
+工程款	gong'cheng'kuan	0
+涞源御湖翰苑项目	lai'yuan'yu'hu'han'yuan'xiang'mu	0
+米兰花园	mi'lan'hua'yuan	0
+收往来款	shou'wang'lai'kuan	0
+肃宁中央公馆	su'ning'zhong'yang'gong'guan	0
+唐县国防路	tang'xian'guo'fang'lu	0
+投标保证金	tou'biao'bao'zheng'jin	0
+项目借款	xiang'mu'jie'kuan	0
+有限责任公司	you'xian'ze'ren'gong'si	0
+转往来款	zhuan'wang'lai'kuan	0

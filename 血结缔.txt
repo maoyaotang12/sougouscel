@@ -1,0 +1,5 @@
+病血小板	bing'xue'xiao'ban	0
+超时疤痕	chao'shi'ba'hen	0
+无效伤	wu'xiao'shang	0
+血结缔	xue'jie'di	0
+血凝酸	xue'ning'suan	0

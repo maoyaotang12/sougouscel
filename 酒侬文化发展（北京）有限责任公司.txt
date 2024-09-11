@@ -1,0 +1,5 @@
+白酒	bai'jiu	0
+红酒	hong'jiu	0
+酒浓	jiu'nong	0
+葡萄酒	pu'tao'jiu	0
+洋酒	yang'jiu	0

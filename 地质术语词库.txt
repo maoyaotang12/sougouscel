@@ -1,0 +1,5 @@
+补给径流排泄	bu'gei'jing'liu'pai'xie	0
+非均质性	fei'jun'zhi'xing	0
+含水层	han'shui'ceng	0
+埋深	mai'shen	0
+涌水量	yong'shui'liang	0

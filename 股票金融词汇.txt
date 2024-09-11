@@ -1,0 +1,15 @@
+筹码分布	chou'ma'fen'bu	0
+大股东	da'gu'dong	0
+股价	gu'jia	0
+股票	gu'piao	0
+股票价格	gu'piao'jia'ge	0
+股票软件	gu'piao'ruan'jian	0
+股市	gu'shi	0
+行情	hang'qing	0
+基本分析	ji'ben'fen'xi	0
+基本面	ji'ben'mian	0
+技术分析	ji'shu'fen'xi	0
+排序	pai'xu	0
+市盈率	shi'ying'lv	0
+收益率	shou'yi'lv	0
+指标	zhi'biao	0

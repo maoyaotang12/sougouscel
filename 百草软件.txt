@@ -1,0 +1,5 @@
+电话	dian'hua	0
+电脑	dian'nao	0
+短信	duan'xin	0
+手机	shou'ji	0
+微信	wei'xin	0

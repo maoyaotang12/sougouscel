@@ -1,0 +1,5 @@
+反滤层	fan'lv'ceng	0
+浆砌块石	jiang'qi'kuai'shi	0
+毛石混凝土	mao'shi'hun'ning'tu	0
+泥质砂岩	ni'zhi'sha'yan	0
+羊脚碾	yang'jiao'nian	0

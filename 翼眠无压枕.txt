@@ -1,0 +1,5 @@
+无压枕	wu'ya'zhen	0
+翼眠	yi'mian	0
+翼眠无压枕	yi'mian'wu'ya'zhen	0
+翼眠枕	yi'mian'zhen	0
+翼眠枕头	yi'mian'zhen'tou	0

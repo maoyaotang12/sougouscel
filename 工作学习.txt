@@ -1,0 +1,5 @@
+测井技术	ce'jing'ji'shu	0
+测井解释	ce'jing'jie'shi	0
+测井连井对比	ce'jing'lian'jing'dui'bi	0
+地震连井剖面	di'zhen'lian'jing'pou'mian	0
+振幅变化率	zhen'fu'bian'hua'lv	0

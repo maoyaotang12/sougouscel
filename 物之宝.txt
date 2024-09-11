@@ -1,0 +1,6 @@
+顺仁物之宝	shun'ren'wu'zhi'bao	0
+物之宝	wu'zhi'bao	0
+物之宝肥料	wu'zhi'bao'fei'liao	0
+物之宝改良剂	wu'zhi'bao'gai'liang'ji	0
+物之宝叶面肥	wu'zhi'bao'ye'mian'fei	0
+物之宝专用肥	wu'zhi'bao'zhuan'yong'fei	0

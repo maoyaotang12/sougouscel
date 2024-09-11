@@ -1,0 +1,16 @@
+奥摩	ao'mo	0
+白狼	bai'lang	0
+保卫者	bao'wei'zhe	0
+刀锋	dao'feng	0
+海豹突击队	hai'bao'tu'ji'dui	0
+雷豹	lei'bao	0
+雷霆	lei'ting	0
+猎狐者	lie'hu'zhe	0
+灵狐者	ling'hu'zhe	0
+曼陀罗	man'tuo'luo	0
+潘多拉	pan'duo'la	0
+潜伏者	qian'fu'zhe	0
+赛斯	sai'si	0
+斯沃特	si'wo'te	0
+斯沃特精英	si'wo'te'jing'ying	0
+夜玫瑰	ye'mei'gui	0

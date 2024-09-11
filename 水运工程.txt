@@ -1,0 +1,11 @@
+波浪反射	bo'lang'fan'she	0
+波浪绕射	bo'lang'rao'she	0
+波浪周期	bo'lang'zhou'qi	0
+海岸工程	hai'an'gong'cheng	0
+护岸	hu'an	0
+护坡	hu'po	0
+浅堤	qian'di	0
+浅水变形	qian'shui'bian'xing	0
+数学模型	shu'xue'mo'xing	0
+通航条件	tong'hang'tiao'jian	0
+物理模型	wu'li'mo'xing	0

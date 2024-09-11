@@ -1,0 +1,6 @@
+风景	feng'jing	0
+购物	gou'wu	0
+旅游	lv'you	0
+日常	ri'chang	0
+思考	si'kao	0
+休闲	xiu'xian	0

@@ -1,0 +1,7 @@
+成语俗语	cheng'yu'su'yu	0
+电脑品牌	dian'nao'pin'pai	0
+高频短语	gao'pin'duan'yu	0
+交通地名	jiao'tong'di'ming	0
+热词	re'ci	0
+网络用语	wang'luo'yong'yu	0
+字词典	zi'ci'dian	0

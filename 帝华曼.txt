@@ -1,0 +1,7 @@
+帝华曼	di'hua'man	0
+精品男装	jing'pin'nan'zhuang	0
+男装	nan'zhuang	0
+商务休闲男装	shang'wu'xiu'xian'nan'zhuang	0
+休闲	xiu'xian	0
+羊绒衫	yang'rong'shan	0
+羽绒服	yu'rong'fu	0

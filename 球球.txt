@@ -1,0 +1,9 @@
+补球	bu'qiu	0
+分身	fen'shen	0
+合球	he'qiu	0
+合作	he'zuo	0
+吐球	tu'qiu	0
+右上	you'shang	0
+扎刺	zha'ci	0
+战队	zhan'dui	0
+中吐	zhong'tu	0

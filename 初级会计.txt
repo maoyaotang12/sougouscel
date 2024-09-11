@@ -1,0 +1,6 @@
+初级会计证	chu'ji'kuai'ji'zheng	0
+从业资格证书	cong'ye'zi'ge'zheng'shu	0
+会计	kuai'ji	0
+会计电算化	kuai'ji'dian'suan'hua	0
+会计实务	kuai'ji'shi'wu	0
+会计原理	kuai'ji'yuan'li	0

@@ -1,0 +1,5 @@
+定制旅行	ding'zhi'lv'xing	0
+旅游	lv'you	0
+特色网站	te'se'wang'zhan	0
+有人家民宿	you'ren'jia'min'su	0
+住宿	zhu'su	0

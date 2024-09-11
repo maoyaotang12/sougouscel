@@ -1,0 +1,10 @@
+维特丝发胶	wei'te'si'fa'jiao	0
+维特丝发蜡	wei'te'si'fa'la	0
+维特丝发泥	wei'te'si'fa'ni	0
+维特丝发油	wei'te'si'fa'you	0
+维特丝护发素	wei'te'si'hu'fa'su	0
+维特丝沐浴露	wei'te'si'mu'yu'lu	0
+维特丝洗发水	wei'te'si'xi'fa'shui	0
+维特丝啫喱	wei'te'si'ze'li	0
+维特丝啫喱膏	wei'te'si'ze'li'gao	0
+维特丝啫喱水	wei'te'si'zhe'li'shui	0

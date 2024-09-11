@@ -1,0 +1,11 @@
+阿拉斯加马拉密犬	a'la'si'jia'ma'la'mi'quan	0
+阿拉斯加马拉缪特犬	a'la'si'jia'ma'la'miu'te'quan	0
+阿拉斯加雪橇犬	a'la'si'jia'xue'qiao'quan	0
+大型犬	da'xing'quan	0
+短毛阿拉斯加	duan'mao'a'la'si'jia	0
+短毛阿拉斯加雪橇犬	duan'mao'a'la'si'jia'xue'qiao'quan	0
+短毛标准阿拉斯加	duan'mao'biao'zhun'a'la'si'jia	0
+短毛正常毛质阿拉斯加	duan'mao'zheng'chang'mao'zhi'a'la'si'jia	0
+福犬	fu'quan	0
+西伯利亚哈士奇	xi'bo'li'ya'ha'shi'qi	0
+雪橇犬	xue'qiao'quan	0

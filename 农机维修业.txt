@@ -1,0 +1,7 @@
+进配件	jin'pei'jian	0
+离合总成	li'he'zong'cheng	0
+离合座	li'he'zuo	0
+卖配件	mai'pei'jian	0
+刹车线	sha'che'xian	0
+压盘总成	ya'pan'zong'cheng	0
+油门线	you'men'xian	0

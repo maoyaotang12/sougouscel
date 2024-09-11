@@ -1,0 +1,14 @@
+触发	chu'fa	0
+触发线	chu'fa'xian	0
+锤子	chui'zi	0
+海皇	hai'huang	0
+海皇跳	hai'huang'tiao	0
+红鲨	hong'sha	0
+火枪噬魂	huo'qiang'shi'hun	0
+鸡炮	ji'pao	0
+尖端	jian'duan	0
+尖端跳	jian'duan'tiao	0
+卡搜狗	ka'sou'gou	0
+输出汪	shu'chu'wang	0
+用尖端炸上去	yong'jian'duan'zha'shang'qu	0
+斩魂镰刀	zhan'hun'lian'dao	0

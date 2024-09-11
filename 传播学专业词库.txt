@@ -1,0 +1,17 @@
+场域	chang'yu	0
+传播学	chuan'bo'xue	0
+第三人效果	di'san'ren'xiao'guo	0
+第一人效果	di'yi'ren'xiao'guo	0
+涵化理论	han'hua'li'lun	0
+霍夫兰	huo'fu'lan	0
+框架理论	kuang'jia'li'lun	0
+李普曼	li'pu'man	0
+罗杰斯	luo'jie'si	0
+麦奎尔	mai'kui'er	0
+魔弹论	mo'dan'lun	0
+施拉姆	shi'la'mu	0
+数字鸿沟	shu'zi'hong'gou	0
+议程互设	yi'cheng'hu'she	0
+议程设置	yi'cheng'she'zhi	0
+舆论	yu'lun	0
+知沟	zhi'gou	0

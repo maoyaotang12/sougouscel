@@ -1,0 +1,5 @@
+合格词条数目不得小为确保	he'ge'ci'tiao'shu'mu'bu'de'xiao'wei'que'bao	0
+确保文本中无字幕拼将被过滤	que'bao'wen'ben'zhong'wu'zi'mu'pin'jiang'bei'guo'lv	0
+如需注音请在单个汉字后	ru'xu'zhu'yin'qing'zai'dan'ge'han'zi'hou	0
+上传文本格式为一行一	shang'chuan'wen'ben'ge'shi'wei'yi'hang'yi	0
+为确保词条质量请勿上传单字	wei'que'bao'ci'tiao'zhi'liang'qing'wu'shang'chuan'dan'zi	0

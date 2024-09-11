@@ -1,0 +1,7 @@
+打荷	da'he	0
+点心	dian'xin	0
+炉头	lu'tou	0
+上什	shang'shen	0
+烧腊	shao'la	0
+水台	shui'tai	0
+砧板	zhen'ban	0

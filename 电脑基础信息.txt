@@ -1,0 +1,5 @@
+电脑基础信息	dian'nao'ji'chu'xin'xi	0
+教学文本	jiao'xue'wen'ben	0
+休闲运动	xiu'xian'yun'dong	0
+医学大全	yi'xue'da'quan	0
+自然科学	zi'ran'ke'xue	0

@@ -1,0 +1,9 @@
+车载式晃车仪	che'zai'shi'huang'che'yi	0
+动检车	dong'jian'che	0
+轨控	gui'kong	0
+三角坑	san'jiao'keng	0
+水平	shui'ping	0
+右高低	you'gao'di	0
+右轨向	you'gui'xiang	0
+左高低	zuo'gao'di	0
+左轨向	zuo'gui'xiang	0

@@ -1,0 +1,6 @@
+苯乙烯	ben'yi'xi	0
+干气制乙苯	gan'qi'zhi'yi'ben	0
+换热器	huan're'qi	0
+精馏	jing'liu	0
+塔器	ta'qi	0
+乙苯	yi'ben	0

@@ -1,0 +1,7 @@
+动物	dong'wu	0
+空气	kong'qi	0
+美景	mei'jing	0
+泉水	quan'shui	0
+生态	sheng'tai	0
+雾水	wu'shui	0
+自然	zi'ran	0

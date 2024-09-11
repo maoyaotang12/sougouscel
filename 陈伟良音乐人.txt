@@ -1,0 +1,5 @@
+陈伟良	chen'wei'liang	0
+陈伟良歌手	chen'wei'liang'ge'shou	0
+陈伟良音乐人	chen'wei'liang'yin'yue'ren	0
+歌手陈伟良	ge'shou'chen'wei'liang	0
+音乐人陈伟良	yin'yue'ren'chen'wei'liang	0

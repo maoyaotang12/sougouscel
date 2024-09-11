@@ -1,0 +1,7 @@
+火力发电	huo'li'fa'dian	0
+汽轮机	qi'lun'ji	0
+热电偶	re'dian'ou	0
+热力电厂	re'li'dian'chang	0
+双金属温度计	shuang'jin'shu'wen'du'ji	0
+压力变送器	ya'li'bian'song'qi	0
+压力表	ya'li'biao	0

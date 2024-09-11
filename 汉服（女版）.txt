@@ -1,0 +1,8 @@
+袄裙	ao'qun	0
+半袖	ban'xiu	0
+褙子	bei'zi	0
+短曲裾	duan'qu'ju	0
+对襟襦裙	dui'jin'ru'qun	0
+交领襦裙	jiao'ling'ru'qun	0
+齐胸襦裙	qi'xiong'ru'qun	0
+曲裾	qu'ju	0

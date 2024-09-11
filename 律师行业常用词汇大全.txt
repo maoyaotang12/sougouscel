@@ -1,0 +1,9 @@
+法规	fa'gui	0
+法律	fa'lv	0
+律师	lv'shi	0
+民商	min'shang	0
+省高级人民法院	sheng'gao'ji'ren'min'fa'yuan	0
+市中级人民法院	shi'zhong'ji'ren'min'fa'yuan	0
+司法	si'fa	0
+司法解释	si'fa'jie'shi	0
+最高人民法院	zui'gao'ren'min'fa'yuan	0

@@ -1,0 +1,5 @@
+肠道水疗仪	chang'dao'shui'liao'yi	0
+脉冲磁治疗仪	mai'chong'ci'zhi'liao'yi	0
+生物反馈治疗仪	sheng'wu'fan'kui'zhi'liao'yi	0
+胃肠动力治疗仪	wei'chang'dong'li'zhi'liao'yi	0
+熏蒸仪	xun'zheng'yi	0

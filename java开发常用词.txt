@@ -1,0 +1,5 @@
+变量	bian'liang	0
+常量	chang'liang	0
+构造器	gou'zao'qi	0
+函数	han'shu	0
+数据库	shu'ju'ku	0

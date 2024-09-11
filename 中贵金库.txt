@@ -1,0 +1,5 @@
+中贵金库	zhong'gui'jin'ku	0
+中贵金库保管箱	zhong'gui'jin'ku'bao'guan'xiang	0
+中贵金库保管箱租赁	zhong'gui'jin'ku'bao'guan'xiang'zu'lin	0
+中贵金库保险箱	zhong'gui'jin'ku'bao'xian'xiang	0
+中贵金库保险箱租赁	zhong'gui'jin'ku'bao'xian'xiang'zu'lin	0

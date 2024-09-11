@@ -1,0 +1,6 @@
+桂枝汤	gui'zhi'tang	0
+六味地黄丸	liu'wei'di'huang'wan	0
+麻黄汤	ma'huang'tang	0
+小柴胡汤	xiao'chai'hu'tang	0
+小青龙汤	xiao'qing'long'tang	0
+左金丸	zuo'jin'wan	0

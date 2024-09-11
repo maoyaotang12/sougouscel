@@ -1,0 +1,6 @@
+白茅茶	bai'mao'cha	0
+白茅根鸡内金	bai'mao'gen'ji'nei'jin	0
+鸡内金茶	ji'nei'jin'cha	0
+鸡内金粉	ji'nei'jin'fen	0
+茅根茶	mao'gen'cha	0
+茅根鸡内金茶	mao'gen'ji'nei'jin'cha	0

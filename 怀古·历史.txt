@@ -1,0 +1,7 @@
+两晋时期	liang'jin'shi'qi	0
+明清时代	ming'qing'shi'dai	0
+南北朝	nan'bei'chao	0
+秦汉时期	qin'han'shi'qi	0
+三国时期	san'guo'shi'qi	0
+宋元文明	song'yuan'wen'ming	0
+隋唐盛世	sui'tang'sheng'shi	0

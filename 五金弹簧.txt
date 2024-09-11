@@ -1,0 +1,12 @@
+板弹簧	ban'tan'huang	0
+碟形弹簧	die'xing'tan'huang	0
+复位	fu'wei	0
+缓和冲击	huan'he'chong'ji	0
+环形弹簧	huan'xing'tan'huang	0
+机件	ji'jian	0
+截锥涡卷弹	jie'zhui'wo'juan'dan	0
+金属弹簧	jin'shu'tan'huang	0
+磷青铜	lin'qing'tong	0
+弹性势能	tan'xing'shi'neng	0
+贮蓄	zhu'xu	0
+自动淬火炉	zi'dong'cui'huo'lu	0

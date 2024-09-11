@@ -1,0 +1,6 @@
+进箱	jin'xiang	0
+上房	shang'fang	0
+生化模式	sheng'hua'mo'shi	0
+生化沙	sheng'hua'sha	0
+生化沙漠	sheng'hua'sha'mo	0
+生化幽灵	sheng'hua'you'ling	0

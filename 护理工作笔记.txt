@@ -1,0 +1,12 @@
+长期医嘱	chang'qi'yi'zhu	0
+长嘱	chang'zhu	0
+口护	kou'hu	0
+口腔护理	kou'qiang'hu'li	0
+临时医嘱	lin'shi'yi'zhu	0
+临嘱	lin'zhu	0
+尿道口护理	niao'dao'kou'hu'li	0
+尿护	niao'hu	0
+气插	qi'cha	0
+气管插管	qi'guan'cha'guan	0
+气管切开	qi'guan'qie'kai	0
+气切	qi'qie	0

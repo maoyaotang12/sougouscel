@@ -1,0 +1,9 @@
+薄层	bao'ceng	0
+粗晶大理岩	cu'jing'da'li'yan	0
+厚层	hou'ceng	0
+巨厚层	ju'hou'ceng	0
+块层	kuai'ceng	0
+纹层	wen'ceng	0
+细晶大理岩	xi'jing'da'li'yan	0
+细砾岩	xi'li'yan	0
+中层	zhong'ceng	0

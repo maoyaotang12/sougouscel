@@ -1,0 +1,5 @@
+安装工程造价	an'zhuang'gong'cheng'zao'jia	0
+建筑工程造价	jian'zhu'gong'cheng'zao'jia	0
+市政工程造价	shi'zheng'gong'cheng'zao'jia	0
+园林景观工程造价	yuan'lin'jing'guan'gong'cheng'zao'jia	0
+装饰装修工程造价	zhuang'shi'zhuang'xiu'gong'cheng'zao'jia	0

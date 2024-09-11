@@ -1,0 +1,5 @@
+类型参数列表	lei'xing'can'shu'lie'biao	0
+人工智慧语言	ren'gong'zhi'hui'yu'yan	0
+日志文件系统	ri'zhi'wen'jian'xi'tong	0
+图层内容选项	tu'ceng'nei'rong'xuan'xiang	0
+自动文件分类	zi'dong'wen'jian'fen'lei	0

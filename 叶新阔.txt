@@ -1,0 +1,7 @@
+编辑	bian'ji	0
+电视	dian'shi	0
+广播	guang'bo	0
+记者	ji'zhe	0
+摄像	she'xiang	0
+摄影	she'ying	0
+新闻	xin'wen	0

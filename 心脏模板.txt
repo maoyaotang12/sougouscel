@@ -1,0 +1,6 @@
+二尖瓣返流	er'jian'ban'fan'liu	0
+三尖瓣返流	san'jian'ban'fan'liu	0
+室间隔增厚	shi'jian'ge'zeng'hou	0
+主动脉瓣返流	zhu'dong'mai'ban'fan'liu	0
+主动脉增宽	zhu'dong'mai'zeng'kuan	0
+左心室左心房右心室右心房扩大	zuo'xin'shi'zuo'xin'fang'you'xin'shi'you'xin'fang'kuo'da	0

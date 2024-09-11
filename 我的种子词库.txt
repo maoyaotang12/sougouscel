@@ -1,0 +1,5 @@
+国丰号	guo'feng'hao	0
+沪旱	hu'han	0
+金优	jin'you	0
+中旱	zhong'han	0
+中优	zhong'you	0

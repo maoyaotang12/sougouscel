@@ -1,0 +1,7 @@
+化学	hua'xue	0
+醛基	quan'ji	0
+羧基	suo'ji	0
+焰色反应	yan'se'fan'ying	0
+颜色	yan'shai	0
+有机物	you'ji'wu	0
+酯基	zhi'ji	0

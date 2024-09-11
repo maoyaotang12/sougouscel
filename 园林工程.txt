@@ -1,0 +1,5 @@
+级配碎石	ji'pei'sui'shi	0
+水泥砂浆	shui'ni'sha'jiang	0
+塑胶地垫	su'jiao'di'dian	0
+预制混凝土	yu'zhi'hun'ning'tu	0
+砖砌筑	zhuan'qi'zhu	0

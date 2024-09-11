@@ -1,0 +1,5 @@
+肠道细菌	chang'dao'xi'jun	0
+乳酸菌	ru'suan'jun	0
+乳制品	ru'zhi'pin	0
+微生物	wei'sheng'wu	0
+益生菌	yi'sheng'jun	0

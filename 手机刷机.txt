@@ -1,0 +1,10 @@
+第一屏	di'yi'ping	0
+定屏	ding'ping	0
+关机	guan'ji	0
+解锁	jie'suo	0
+开机按键	kai'ji'an'jian	0
+开机动画	kai'ji'dong'hua	0
+驱动	qu'dong	0
+三个按键一起按	san'ge'an'jian'yi'qi'an	0
+刷机	shua'ji	0
+音量上与音量下	yin'liang'shang'yu'yin'liang'xia	0

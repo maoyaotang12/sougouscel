@@ -1,0 +1,5 @@
+頸部捻挫	jing'bu'nian'cuo	0
+右肩関節捻挫	you'jian'wan'jie'nian'cuo	0
+右膝関節捻挫	you'xi'wan'jie'nian'cuo	0
+左肩関節捻挫	zuo'jian'wan'jie'nian'cuo	0
+左膝関節捻挫	zuo'xi'wan'jie'nian'cuo	0

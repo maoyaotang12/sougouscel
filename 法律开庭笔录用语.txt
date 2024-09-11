@@ -1,0 +1,9 @@
+被告	bei'gao	0
+被上诉人	bei'shang'su'ren	0
+上诉人	shang'su'ren	0
+事实不清适用法律不正确	shi'shi'bu'qing'shi'yong'fa'lv'bu'zheng'que	0
+原告	yuan'gao	0
+证据	zheng'ju	0
+证据不予认可	zheng'ju'bu'yu'ren'ke	0
+证据不足以证实	zheng'ju'bu'zu'yi'zheng'shi	0
+证实	zheng'shi	0

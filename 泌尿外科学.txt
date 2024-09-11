@@ -1,0 +1,5 @@
+经尿道膀胱肿瘤电切术	jing'niao'dao'pang'guang'zhong'liu'dian'qie'shu	0
+经尿道前列腺电切术	jing'niao'dao'qian'lie'xian'dian'qie'shu	0
+经皮肾镜取石术	jing'pi'shen'jing'qu'shi'shu	0
+气压弹道碎石术	qi'ya'dan'dao'sui'shi'shu	0
+输尿管镜检查术	shu'niao'guan'jing'jian'cha'shu	0

@@ -1,0 +1,5 @@
+室内环保	shi'nei'huan'bao	0
+室内环境	shi'nei'huan'jing	0
+室内环境保护	shi'nei'huan'jing'bao'hu	0
+室内空气	shi'nei'kong'qi	0
+室内空气净化治理	shi'nei'kong'qi'jing'hua'zhi'li	0

@@ -1,0 +1,6 @@
+病历	bing'li	0
+病历夹	bing'li'jia	0
+口袋	kou'dai	0
+文献	wen'xian	0
+医口袋	yi'kou'dai	0
+医学文献	yi'xue'wen'xian	0

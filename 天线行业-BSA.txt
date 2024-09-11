@@ -1,0 +1,14 @@
+瓣宽	ban'kuan	0
+波束宽度	bo'shu'kuan'du	0
+第一上旁瓣	di'yi'shang'pang'ban	0
+反射板	fan'she'ban	0
+方向图	fang'xiang'tu	0
+极化	ji'hua	0
+交叉极化	jiao'cha'ji'hua	0
+馈线	kui'xian	0
+零点填充	ling'dian'tian'chong	0
+上旁瓣	shang'pang'ban	0
+网络	wang'luo	0
+折弯边	zhe'wan'bian	0
+阵子	zhen'zi	0
+主馈线	zhu'kui'xian	0

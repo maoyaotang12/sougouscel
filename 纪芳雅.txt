@@ -1,0 +1,5 @@
+美容	mei'rong	0
+品牌	pin'pai	0
+其他	qi'ta	0
+日常服务	ri'chang'fu'wu	0
+养生	yang'sheng	0

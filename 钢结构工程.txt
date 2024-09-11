@@ -1,0 +1,7 @@
+抗拉极限	kang'la'ji'xian	0
+孔位偏差	kong'wei'pian'cha	0
+螺栓	luo'shuan	0
+铆钉	mao'ding	0
+屈服极限	qu'fu'ji'xian	0
+弹性极限	tan'xing'ji'xian	0
+型钢	xing'gang	0

@@ -1,0 +1,9 @@
+艾斯伯格综合征	ai'si'bo'ge'zong'he'zheng	0
+儿童孤独症	er'tong'gu'du'zheng	0
+儿童期瓦解障碍	er'tong'qi'wa'jie'zhang'ai	0
+非典型孤独症	fei'dian'xing'gu'du'zheng	0
+高功能孤独症	gao'gong'neng'gu'du'zheng	0
+孤独症自闭症谱系障碍	gu'du'zheng'zi'bi'zheng'pu'xi'zhang'ai	0
+卡纳氏孤独症	ka'na'shi'gu'du'zheng	0
+未特定的广泛发育障碍	wei'te'ding'de'guang'fan'fa'yu'zhang'ai	0
+早期婴儿孤独症	zao'qi'ying'er'gu'du'zheng	0

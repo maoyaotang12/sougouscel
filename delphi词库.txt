@@ -1,0 +1,5 @@
+按钮	an'niu	0
+标签	biao'qian	0
+窗体	chuang'ti	0
+列表框	lie'biao'kuang	0
+文本框	wen'ben'kuang	0

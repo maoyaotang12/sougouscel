@@ -1,0 +1,11 @@
+白树高地	bai'shu'gao'di	0
+多贝雪山	duo'bei'xue'shan	0
+梅尔医院	mei'er'yi'yuan	0
+密斯卡大学	mi'si'ka'da'xue	0
+秋日森林	qiu'ri'sen'lin	0
+沙石堡	sha'shi'bao	0
+营地	ying'di	0
+营地福利箱	ying'di'fu'li'xiang	0
+佣兵营地	yong'bing'ying'di	0
+远星城	yuan'xing'cheng	0
+远星高中	yuan'xing'gao'zhong	0

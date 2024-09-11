@@ -1,0 +1,5 @@
+鲸探号	jing'tan'hao	0
+鲸探号秘制牛杂	jing'tan'hao'mi'zhi'niu'za	0
+鲸探号牛筋丸	jing'tan'hao'niu'jin'wan	0
+鲸探号牛肉丸	jing'tan'hao'niu'rou'wan	0
+鲸探号食品	jing'tan'hao'shi'pin	0

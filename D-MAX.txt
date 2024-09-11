@@ -1,0 +1,5 @@
+车型	che'xing	0
+改装	gai'zhuang	0
+皮卡	pi'ka	0
+汽车	qi'che	0
+实用	shi'yong	0

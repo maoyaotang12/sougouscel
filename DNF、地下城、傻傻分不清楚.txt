@@ -1,0 +1,7 @@
+搬砖	ban'zhuan	0
+负重	fu'zhong	0
+魔剑	mo'jian	0
+墨竹	mo'zhu	0
+武器	wu'qi	0
+装扮	zhuang'ban	0
+装备	zhuang'bei	0

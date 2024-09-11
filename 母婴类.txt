@@ -1,0 +1,11 @@
+宝宝模特	bao'bao'mo'te	0
+宝宝身高体重参照表	bao'bao'shen'gao'ti'zhong'can'zhao'biao	0
+宝宝体重秤	bao'bao'ti'zhong'cheng	0
+宝贝衣橱	bao'bei'yi'chu	0
+促销车	cu'xiao'che	0
+儿童模特	er'tong'mo'te	0
+母婴童	mu'ying'tong	0
+休息凳	xiu'xi'deng	0
+摇摇马	yao'yao'ma	0
+孕婴童	yun'ying'tong	0
+纸尿裤	zhi'niao'ku	0

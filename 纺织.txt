@@ -1,0 +1,6 @@
+甲经	jia'jing	0
+甲纬	jia'wei	0
+经纱	jing'sha	0
+纬纱	wei'sha	0
+乙经	yi'jing	0
+乙纬	yi'wei	0

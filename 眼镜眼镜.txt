@@ -1,0 +1,5 @@
+反辐射眼镜	fan'fu'she'yan'jing	0
+仿辐射眼镜	fang'fu'she'yan'jing	0
+放辐射眼镜	fang'fu'she'yan'jing	0
+防辐射眼镜	fang'fu'she'yan'jing	0
+眼镜	yan'jing	0

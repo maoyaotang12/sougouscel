@@ -1,0 +1,5 @@
+帅太橱柜	shuai'tai'chu'gui	0
+帅太电器	shuai'tai'dian'qi	0
+帅太净水器	shuai'tai'jing'shui'qi	0
+帅太热水器	shuai'tai're'shui'qi	0
+帅太衣柜	shuai'tai'yi'gui	0

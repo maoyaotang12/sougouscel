@@ -1,0 +1,10 @@
+摆摊	bai'tan	0
+副本	fu'ben	0
+绝招	jue'zhao	0
+卡怪	ka'guai	0
+开红	kai'hong	0
+属性	shu'xing	0
+武功	wu'gong	0
+洗恶	xi'e	0
+真武器	zhen'wu'qi	0
+装备	zhuang'bei	0

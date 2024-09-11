@@ -1,0 +1,6 @@
+关羽	guan'yu	0
+黄忠	huang'zhong	0
+刘备	liu'bei	0
+马超	ma'chao	0
+张飞	zhang'fei	0
+赵云	zhao'yun	0

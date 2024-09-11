@@ -1,0 +1,5 @@
+绮莱伊	qi'lai'yi	0
+绮莱伊化妆品	qi'lai'yi'hua'zhuang'pin	0
+绮莱伊眉笔	qi'lai'yi'mei'bi	0
+绮莱伊文创彩妆	qi'lai'yi'wen'chuang'cai'zhuang	0
+文创彩妆	wen'chuang'cai'zhuang	0

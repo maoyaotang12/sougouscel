@@ -1,0 +1,10 @@
+别墅设计	bie'shu'she'ji	0
+别墅装修	bie'shu'zhuang'xiu	0
+纯设计	chun'she'ji	0
+纯施工	chun'shi'gong	0
+独立设计	du'li'she'ji	0
+独立设计师	du'li'she'ji'shi	0
+独立施工	du'li'shi'gong	0
+卢森装饰	lu'sen'zhuang'shi	0
+室内设计	shi'nei'she'ji	0
+无忧施工	wu'you'shi'gong	0

@@ -1,0 +1,6 @@
+反射率	fan'she'lv	0
+光纤光谱仪	guang'xian'guang'pu'yi	0
+近红外光谱仪	jin'hong'wai'guang'pu'yi	0
+可见光	ke'jian'guang	0
+透射率	tou'she'lv	0
+吸光度	xi'guang'du	0

@@ -1,0 +1,8 @@
+净水器	jing'shui'qi	0
+净水器厂家	jing'shui'qi'chang'jia	0
+净水器品牌	jing'shui'qi'pin'pai	0
+开水器	kai'shui'qi	0
+滤中滤	lv'zhong'lv	0
+滤中滤开水器	lv'zhong'lv'kai'shui'qi	0
+怡盛源	yi'sheng'yuan	0
+怡盛源净水器	yi'sheng'yuan'jing'shui'qi	0

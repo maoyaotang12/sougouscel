@@ -1,0 +1,5 @@
+操作系统	cao'zuo'xi'tong	0
+程序设计	cheng'xu'she'ji	0
+多媒体技术	duo'mei'ti'ji'shu	0
+软件工程	ruan'jian'gong'cheng	0
+数据库系统原理与技术	shu'ju'ku'xi'tong'yuan'li'yu'ji'shu	0

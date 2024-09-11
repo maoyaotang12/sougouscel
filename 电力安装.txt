@@ -1,0 +1,8 @@
+电缆终端头	dian'lan'zhong'duan'tou	0
+非预应力杆	fei'yu'ying'li'gan	0
+架空绝缘导线	jia'kong'jue'yuan'dao'xian	0
+交流避雷器	jiao'liu'bi'lei'qi	0
+交流盘形悬式瓷绝缘子	jiao'liu'pan'xing'xuan'shi'ci'jue'yuan'zi	0
+接地短路故障指示器	jie'di'duan'lu'gu'zhang'zhi'shi'qi	0
+进户线墙上支铁	jin'hu'xian'qiang'shang'zhi'tie	0
+线路角铁横担	xian'lu'jiao'tie'heng'dan	0

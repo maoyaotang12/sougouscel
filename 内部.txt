@@ -1,0 +1,5 @@
+磁盘	ci'pan	0
+存储器	cun'chu'qi	0
+电子管	dian'zi'guan	0
+散热片	san're'pian	0
+硬盘	ying'pan	0

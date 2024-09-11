@@ -1,0 +1,16 @@
+裁剪	cai'jian	0
+成衣	cheng'yi	0
+放码	fang'ma	0
+服装效果图	fu'zhuang'xiao'guo'tu	0
+款式平面图	kuan'shi'ping'mian'tu	0
+款式组合图	kuan'shi'zu'he'tu	0
+流行趋势	liu'xing'qu'shi	0
+排料	pai'liao	0
+设计	she'ji	0
+市场调研	shi'chang'diao'yan	0
+时装画	shi'zhuang'hua	0
+推板	tui'ban	0
+样衣	yang'yi	0
+制板	zhi'ban	0
+制图	zhi'tu	0
+制作	zhi'zuo	0

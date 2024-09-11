@@ -1,0 +1,5 @@
+巴氏大熊猫	ba'shi'da'xiong'mao	0
+大毛丝鼠	da'mao'si'shu	0
+非洲蹄兔	fei'zhou'ti'tu	0
+南美兔鼠	nan'mei'tu'shu	0
+中新兔鼠	zhong'xin'tu'shu	0

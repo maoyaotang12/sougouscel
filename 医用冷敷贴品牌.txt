@@ -1,0 +1,6 @@
+广州良药师	guang'zhou'liang'yao'shi	0
+冷敷贴	leng'fu'tie	0
+良药师	liang'yao'shi	0
+良药师膏药	liang'yao'shi'gao'yao	0
+良药师医用冷敷贴	liang'yao'shi'yi'yong'leng'fu'tie	0
+医用冷敷贴	yi'yong'leng'fu'tie	0

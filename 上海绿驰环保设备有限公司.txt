@@ -1,0 +1,5 @@
+环保设备	huan'bao'she'bei	0
+绿驰	lv'chi	0
+扫地机	sao'di'ji	0
+吸尘器	xi'chen'qi	0
+洗地机	xi'di'ji	0

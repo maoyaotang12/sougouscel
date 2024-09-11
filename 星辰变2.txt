@@ -1,0 +1,9 @@
+洞虚后期	dong'xu'hou'qi	0
+洞虚前期	dong'xu'qian'qi	0
+洞虚中期	dong'xu'zhong'qi	0
+金丹后期	jin'dan'hou'qi	0
+金丹前期	jin'dan'qian'qi	0
+金丹中期	jin'dan'zhong'qi	0
+元婴后期	yuan'ying'hou'qi	0
+元婴前期	yuan'ying'qian'qi	0
+元婴中期	yuan'ying'zhong'qi	0

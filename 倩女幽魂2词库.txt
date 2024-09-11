@@ -1,0 +1,11 @@
+刀客	dao'ke	0
+方士	fang'shi	0
+河伯	he'bo	0
+家园	jia'yuan	0
+魅者	mei'zhe	0
+奶妈	nai'ma	0
+桃花	tao'hua	0
+侠客	xia'ke	0
+异人	yi'ren	0
+医师	yi'shi	0
+一条龙	yi'tiao'long	0

@@ -1,0 +1,5 @@
+化学	hua'xue	0
+农业科学	nong'ye'ke'xue	0
+数学	shu'xue	0
+信息科学	xin'xi'ke'xue	0
+自然科学	zi'ran'ke'xue	0

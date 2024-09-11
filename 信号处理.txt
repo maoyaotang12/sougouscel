@@ -1,0 +1,5 @@
+采样频率	cai'yang'pin'lv	0
+阶数比	jie'shu'bi	0
+截止频率	jie'zhi'pin'lv	0
+滤波器	lv'bo'qi	0
+信噪比	xin'zao'bi	0

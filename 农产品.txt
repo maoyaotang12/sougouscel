@@ -1,0 +1,16 @@
+产地安全	chan'di'an'quan	0
+检测检验	jian'ce'jian'yan	0
+检测室	jian'ce'shi	0
+内检员	nei'jian'yuan	0
+内检员证	nei'jian'yuan'zheng	0
+农产品	nong'chan'pin	0
+农产品质量安全	nong'chan'pin'zhi'liang'an'quan	0
+农检站	nong'jian'zhan	0
+农检中心	nong'jian'zhong'xin	0
+农药残留检测仪	nong'yao'can'liu'jian'ce'yi	0
+农业投入品	nong'ye'tou'ru'pin	0
+兽药药残留检测仪	shou'yao'yao'can'liu'jian'ce'yi	0
+投入品购买使用档案	tou'ru'pin'gou'mai'shi'yong'dang'an	0
+镇监管站	zhen'jian'guan'zhan	0
+质量安全评估报告	zhi'liang'an'quan'ping'gu'bao'gao	0
+追溯系统	zhui'su'xi'tong	0

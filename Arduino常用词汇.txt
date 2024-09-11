@@ -1,0 +1,12 @@
+单片机	dan'pian'ji	0
+电感	dian'gan	0
+电抗	dian'kang	0
+电容	dian'rong	0
+电阻	dian'zu	0
+晶体振荡器	jing'ti'zhen'dang'qi	0
+晶振	jing'zhen	0
+模拟口	mo'ni'kou	0
+模拟输出	mo'ni'shu'chu	0
+模拟输入	mo'ni'shu'ru	0
+输出	shu'chu	0
+数字口	shu'zi'kou	0

@@ -1,0 +1,5 @@
+空中能量	kong'zhong'neng'liang	0
+空中能量板	kong'zhong'neng'liang'ban	0
+空中能量充电器	kong'zhong'neng'liang'chong'dian'qi	0
+苹果空中能量	ping'guo'kong'zhong'neng'liang	0
+苹果空中能量板	ping'guo'kong'zhong'neng'liang'ban	0

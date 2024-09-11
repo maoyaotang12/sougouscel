@@ -1,0 +1,10 @@
+海王星	hai'wang'xing	0
+火星	huo'xing	0
+金星	jin'xing	0
+冥王星	ming'wang'xing	0
+木星	mu'xing	0
+水星	shui'xing	0
+太阳	tai'yang	0
+天王星	tian'wang'xing	0
+土星	tu'xing	0
+月亮	yue'liang	0

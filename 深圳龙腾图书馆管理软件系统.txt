@@ -1,0 +1,7 @@
+传统数据记录软件	chuan'tong'shu'ju'ji'lu'ruan'jian	0
+高校图书管理软件	gao'xiao'tu'shu'guan'li'ruan'jian	0
+龙腾图书馆管理软件	long'teng'tu'shu'guan'guan'li'ruan'jian	0
+区域图书管理软件	qu'yu'tu'shu'guan'li'ruan'jian	0
+图书管理系统软件	tu'shu'guan'li'xi'tong'ruan'jian	0
+智慧图书管理集成系统软件	zhi'hui'tu'shu'guan'li'ji'cheng'xi'tong'ruan'jian	0
+智慧图书管理软件	zhi'hui'tu'shu'guan'li'ruan'jian	0

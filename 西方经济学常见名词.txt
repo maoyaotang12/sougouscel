@@ -1,0 +1,6 @@
+边际成本	bian'ji'cheng'ben	0
+边际效用	bian'ji'xiao'yong	0
+国民生产总值	guo'min'sheng'chan'zong'zhi	0
+宏观经济学	hong'guan'jing'ji'xue	0
+利润函数	li'run'han'shu	0
+微观经济学	wei'guan'jing'ji'xue	0

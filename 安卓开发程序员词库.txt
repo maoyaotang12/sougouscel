@@ -1,0 +1,5 @@
+成员变量	cheng'yuan'bian'liang	0
+初始化	chu'shi'hua	0
+构造函数	gou'zao'han'shu	0
+接口	jie'kou	0
+局部变量	ju'bu'bian'liang	0

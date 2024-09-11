@@ -1,0 +1,6 @@
+法规	fa'gui	0
+法律	fa'lv	0
+工商	gong'shang	0
+公司	gong'si	0
+广告	guang'gao	0
+监管	jian'guan	0

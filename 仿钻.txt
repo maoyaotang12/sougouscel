@@ -1,0 +1,8 @@
+仿钻	fang'zuan	0
+立方氧化锆	li'fang'yang'hua'gao	0
+莫桑钻	mo'sang'zuan	0
+人造尖晶石	ren'zao'jian'jing'shi	0
+人造金红石	ren'zao'jin'hong'shi	0
+人造蓝宝石	ren'zao'lan'bao'shi	0
+水晶和黄玉	shui'jing'he'huang'yu	0
+碳硅石	tan'gui'shi	0

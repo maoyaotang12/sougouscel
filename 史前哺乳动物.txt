@@ -1,0 +1,6 @@
+半豹熊兽	ban'bao'xiong'shou	0
+雕齿兽	diao'chi'shou	0
+非洲食蚁兽	fei'zhou'shi'yi'shou	0
+欧洲食蚁兽	ou'zhou'shi'yi'shou	0
+始贫齿兽	shi'pin'chi'shou	0
+星尾兽	xing'wei'shou	0

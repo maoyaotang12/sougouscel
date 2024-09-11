@@ -1,0 +1,5 @@
+纯音乐	chun'yin'yue	0
+古典音乐	gu'dian'yin'yue	0
+经典老歌	jing'dian'lao'ge	0
+空灵	kong'ling	0
+轻音乐	qing'yin'yue	0

@@ -1,0 +1,8 @@
+楞型	leng'xing	0
+面纸	mian'zhi	0
+手提袋	shou'ti'dai	0
+瓦楞纸板	wa'leng'zhi'ban	0
+原纸	yuan'zhi	0
+纸板	zhi'ban	0
+纸盒	zhi'he	0
+纸箱	zhi'xiang	0

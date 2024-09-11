@@ -1,0 +1,8 @@
+小狗	xiao'gou	0
+小猴	xiao'hou	0
+小猫	xiao'mao	0
+小鸟	xiao'niao	0
+小松鼠	xiao'song'shu	0
+小兔	xiao'tu	0
+小羊	xiao'yang	0
+小猪	xiao'zhu	0

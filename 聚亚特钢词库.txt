@@ -1,0 +1,8 @@
+钴基合金	gu'ji'he'jin	0
+蒙乃尔	meng'nai'er	0
+镍合金	nie'he'jin	0
+镍基合金	nie'ji'he'jin	0
+特钢	te'gang	0
+特种合金	te'zhong'he'jin	0
+因科乃尔	yin'ke'nai'er	0
+因瓦合金	yin'wa'he'jin	0

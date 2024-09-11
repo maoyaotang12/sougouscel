@@ -1,0 +1,5 @@
+尺神经	chi'shen'jing	0
+代谢当量	dai'xie'dang'liang	0
+脑卒中	nao'cu'zhong	0
+桡神经	rao'shen'jing	0
+血氧饱和度	xue'yang'bao'he'du	0

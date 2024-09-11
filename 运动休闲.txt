@@ -1,0 +1,5 @@
+篮球	lan'qiu	0
+乒乓球	ping'pang'qiu	0
+赛车	sai'che	0
+游泳	you'yong	0
+足球	zu'qiu	0

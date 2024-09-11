@@ -1,0 +1,14 @@
+传承性	chuan'cheng'xing	0
+非物质文化遗产	fei'wu'zhi'wen'hua'yi'chan	0
+非物质文化遗产保护	fei'wu'zhi'wen'hua'yi'chan'bao'hu	0
+非物质文化遗产保护名录	fei'wu'zhi'wen'hua'yi'chan'bao'hu'ming'lu	0
+非物质性	fei'wu'zhi'xing	0
+共享性	gong'xiang'xing	0
+广泛性	guang'fan'xing	0
+活态传承	huo'tai'chuan'cheng	0
+活态性	huo'tai'xing	0
+田野调查	tian'ye'diao'cha	0
+文化遗产	wen'hua'yi'chan	0
+文化遗产保护	wen'hua'yi'chan'bao'hu	0
+文物	wen'wu	0
+文物保护	wen'wu'bao'hu	0

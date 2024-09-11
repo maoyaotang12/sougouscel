@@ -1,0 +1,10 @@
+方块	fang'kuai	0
+节奏	jie'zou	0
+美琪	mei'qi	0
+娜娜	na'na	0
+皮皮	pi'pi	0
+奇迹	qi'ji	0
+手鞠	shou'ju	0
+嘻嘻	xi'xi	0
+小兰	xiao'lan	0
+小丝	xiao'si	0

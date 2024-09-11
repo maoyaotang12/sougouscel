@@ -1,0 +1,5 @@
+大气探测	da'qi'tan'ce	0
+大气物理	da'qi'wu'li	0
+动力气象学	dong'li'qi'xiang'xue	0
+气溶胶	qi'rong'jiao	0
+天气学原理	tian'qi'xue'yuan'li	0

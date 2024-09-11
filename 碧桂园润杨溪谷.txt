@@ -1,0 +1,11 @@
+半山美墅润杨溪谷	ban'shan'mei'shu'run'yang'xi'gu	0
+碧桂园润杨溪谷	bi'gui'yuan'run'yang'xi'gu	0
+金桔自然保护区	jin'ju'zi'ran'bao'hu'qu	0
+入户美墅	ru'hu'mei'shu	0
+山居洋房	shan'ju'yang'fang	0
+山林润杨溪谷	shan'lin'run'yang'xi'gu	0
+生态山林	sheng'tai'shan'lin	0
+温泉酒店	wen'quan'jiu'dian	0
+温泉润杨溪谷	wen'quan'run'yang'xi'gu	0
+温泉资源	wen'quan'zi'yuan	0
+最美润杨溪谷	zui'mei'run'yang'xi'gu	0

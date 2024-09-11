@@ -1,0 +1,13 @@
+阿奇	a'qi	0
+灰灰	hui'hui	0
+空中巡逻机	kong'zhong'xun'luo'ji	0
+莱德	lai'de	0
+路马	lu'ma	0
+毛毛	mao'mao	0
+水上救援船	shui'shang'jiu'yuan'chuan	0
+特派车	te'pai'che	0
+天天	tian'tian	0
+汪汪巡逻车	wang'wang'xun'luo'che	0
+小克	xiao'ke	0
+小力	xiao'li	0
+珠珠	zhu'zhu	0

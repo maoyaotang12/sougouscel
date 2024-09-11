@@ -1,0 +1,12 @@
+超感纸	chao'gan'zhi	0
+单面	dan'mian	0
+过光膜	guo'guang'mo	0
+过哑膜	guo'ya'mo	0
+胶装	jiao'zhuang	0
+精装	jing'zhuang	0
+马丁	ma'ding	0
+双胶纸	shuang'jiao'zhi	0
+双面	shuang'mian	0
+锁线精装	suo'xian'jing'zhuang	0
+铜板纸	tong'ban'zhi	0
+亚粉纸	ya'fen'zhi	0

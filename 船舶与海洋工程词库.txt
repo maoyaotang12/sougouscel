@@ -1,0 +1,15 @@
+船舶工程	chuan'bo'gong'cheng	0
+导缆器	dao'lan'qi	0
+浮式系统	fu'shi'xi'tong	0
+钢丝绳	gang'si'sheng	0
+哈尔滨工程大学	ha'er'bin'gong'cheng'da'xue	0
+海洋工程	hai'yang'gong'cheng	0
+聚酯缆	ju'zhi'lan	0
+立管	li'guan	0
+锚泊	mao'bo	0
+锚链	mao'lian	0
+嵌入式拖曳锚	qian'ru'shi'tuo'ye'mao	0
+拖曳锚	tuo'ye'mao	0
+系泊	xi'bo	0
+吸力桩	xi'li'zhuang	0
+系统	xi'tong	0

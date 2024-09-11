@@ -1,0 +1,10 @@
+车牌识别	che'pai'shi'bie	0
+名片识别	ming'pian'shi'bie	0
+身份证识别	shen'fen'zheng'shi'bie	0
+识别	shi'bie	0
+识别技术	shi'bie'ji'shu	0
+图文识别	tu'wen'shi'bie	0
+图像识别	tu'xiang'shi'bie	0
+文档识别	wen'dang'shi'bie	0
+银行卡识别	yin'hang'ka'shi'bie	0
+证件识别	zheng'jian'shi'bie	0

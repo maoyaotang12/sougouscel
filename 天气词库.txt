@@ -1,0 +1,6 @@
+多云	duo'yun	0
+刮风	gua'feng	0
+晴天	qing'tian	0
+下雨	xia'yu	0
+阴天	yin'tian	0
+雨夹雪	yu'jia'xue	0

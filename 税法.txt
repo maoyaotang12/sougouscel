@@ -1,0 +1,5 @@
+城市维护建设税	cheng'shi'wei'hu'jian'she'shui	0
+房产税	fang'chan'shui	0
+土地使用税	tu'di'shi'yong'shui	0
+印花税	yin'hua'shui	0
+增值税	zeng'zhi'shui	0

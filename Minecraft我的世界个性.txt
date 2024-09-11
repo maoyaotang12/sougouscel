@@ -1,0 +1,13 @@
+多媒体	duo'mei'ti	0
+合成	he'cheng	0
+灵宝	ling'bao	0
+领地	ling'di	0
+灵液	ling'ye	0
+末地	mo'di	0
+末地石	mo'di'shi	0
+末影龙	mo'ying'long	0
+末影人	mo'ying'ren	0
+取物装置	qu'wu'zhuang'zhi	0
+谐振	xie'zhen	0
+萤石	ying'shi	0
+钻石	zuan'shi	0

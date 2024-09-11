@@ -1,0 +1,7 @@
+高差	gao'cha	0
+高程	gao'cheng	0
+和易性	he'yi'xing	0
+后视	hou'shi	0
+配合比	pei'he'bi	0
+前视	qian'shi	0
+弯曲度	wan'qu'du	0

@@ -1,0 +1,13 @@
+分析	fen'xi	0
+回热	hui're	0
+夹点温度	jia'dian'wen'du	0
+冷量	leng'liang	0
+内部损失	nei'bu'sun'shi	0
+平衡方程	ping'heng'fang'cheng	0
+热回收效率	re'hui'shou'xiao'lv	0
+热力学第二定律	re'li'xue'di'er'ding'lv	0
+热力学第一定律	re'li'xue'di'yi'ding'lv	0
+热量	re'liang	0
+热效率	re'xiao'lv	0
+损失	sun'shi	0
+效率	xiao'lv	0

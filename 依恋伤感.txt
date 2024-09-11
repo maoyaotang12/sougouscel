@@ -1,0 +1,6 @@
+电影	dian'ying	0
+歌曲	ge'qu	0
+汽车	qi'che	0
+文学	wen'xue	0
+喜爱	xi'ai	0
+新闻	xin'wen	0

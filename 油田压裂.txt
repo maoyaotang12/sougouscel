@@ -1,0 +1,16 @@
+泵车	beng'che	0
+过硫酸钾	guo'liu'suan'jia	0
+滑溜水	hua'liu'shui	0
+混砂车	hun'sha'che	0
+基液	ji'ye	0
+加沙	jia'sha	0
+粘度	nian'du	0
+黏土稳定剂	nian'tu'wen'ding'ji	0
+破乳剂	po'ru'ji	0
+树脂砂	shu'zhi'sha	0
+水基压裂液	shui'ji'ya'lie'ye	0
+速溶胍胶	su'rong'gua'jiao	0
+陶粒	tao'li	0
+消泡剂	xiao'pao'ji	0
+仪表车	yi'biao'che	0
+自动化配液设备	zi'dong'hua'pei'ye'she'bei	0

@@ -1,0 +1,5 @@
+护肤	hu'fu	0
+化妆品	hua'zhuang'pin	0
+苗坊堂	miao'fang'tang	0
+祛痘	qu'dou	0
+药妆化妆品	yao'zhuang'hua'zhuang'pin	0

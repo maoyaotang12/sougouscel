@@ -1,0 +1,6 @@
+合作社	he'zuo'she	0
+怀药	huai'yao	0
+沁鑫	qin'xin	0
+沁鑫怀药	qin'xin'huai'yao	0
+种植	zhong'zhi	0
+专业	zhuan'ye	0

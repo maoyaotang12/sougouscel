@@ -1,0 +1,12 @@
+编程	bian'cheng	0
+标识符	biao'zhi'fu	0
+对象	dui'xiang	0
+多态	duo'tai	0
+多线程	duo'xian'cheng	0
+封装	feng'zhuang	0
+构造函数	gou'zao'han'shu	0
+继承	ji'cheng	0
+垃圾回收	la'ji'hui'shou	0
+逻辑运算符	luo'ji'yun'suan'fu	0
+面向对象	mian'xiang'dui'xiang	0
+运算	yun'suan	0

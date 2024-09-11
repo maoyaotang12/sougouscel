@@ -1,0 +1,7 @@
+柏俏	bai'qiao	0
+柏俏工厂店	bai'qiao'gong'chang'dian	0
+柏俏旗舰店	bai'qiao'qi'jian'dian	0
+柏俏天猫旗舰店	bai'qiao'tian'mao'qi'jian'dian	0
+柏俏网店	bai'qiao'wang'dian	0
+柏俏折扣店	bai'qiao'zhe'kou'dian	0
+柏俏正品折扣店	bai'qiao'zheng'pin'zhe'kou'dian	0

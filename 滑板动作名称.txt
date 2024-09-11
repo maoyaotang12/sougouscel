@@ -1,0 +1,14 @@
+板面	ban'mian	0
+呲杆	ci'gan	0
+大乱	da'luan	0
+倒板	dao'ban	0
+倒滑	dao'hua	0
+过立	guo'li	0
+尖翻	jian'fan	0
+两立	liang'li	0
+劈阶	pi'jie	0
+三立	san'li	0
+手抓板	shou'zhua'ban	0
+豚跳	tun'tiao	0
+小乱	xiao'luan	0
+一立	yi'li	0

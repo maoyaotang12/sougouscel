@@ -1,0 +1,14 @@
+惩戒	cheng'jie	0
+大龙	da'long	0
+打野	da'ye	0
+辅助	fu'zhu	0
+回城	hui'cheng	0
+开大	kai'da	0
+开撸	kai'lu	0
+虐泉	nve'quan	0
+上路	shang'lu	0
+送人头	song'ren'tou	0
+下路	xia'lu	0
+小龙	xiao'long	0
+虚弱	xu'ruo	0
+中路	zhong'lu	0

@@ -1,0 +1,9 @@
+白肉	bai'rou	0
+贝肉	bei'rou	0
+红肉	hong'rou	0
+鸡肉	ji'rou	0
+牛肉	niu'rou	0
+鸭肉	ya'rou	0
+羊肉	yang'rou	0
+鱼肉	yu'rou	0
+猪肉	zhu'rou	0

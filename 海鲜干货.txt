@@ -1,0 +1,5 @@
+昌源	chang'yuan	0
+昌源干鲜店	chang'yuan'gan'xian'dian	0
+昌源海味	chang'yuan'hai'wei	0
+干鲜海味	gan'xian'hai'wei	0
+海味干鲜	hai'wei'gan'xian	0

@@ -1,0 +1,6 @@
+断带	duan'dai	0
+黑枪	hei'qiang	0
+火炮	huo'pao	0
+轻坦	qing'tan	0
+眼车	yan'che	0
+重坦	zhong'tan	0

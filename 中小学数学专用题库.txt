@@ -1,0 +1,16 @@
+对顶角	dui'ding'jiao	0
+对顶角相等	dui'ding'jiao'xiang'deng	0
+两直线平行	liang'zhi'xian'ping'xing	0
+两直线平行内错角相等	liang'zhi'xian'ping'xing'nei'cuo'jiao'xiang'deng	0
+两直线平行同旁内互补	liang'zhi'xian'ping'xing'tong'pang'nei'hu'bu	0
+两直线平行同位角相等	liang'zhi'xian'ping'xing'tong'wei'jiao'xiang'deng	0
+菱形	ling'xing	0
+内错角	nei'cuo'jiao	0
+平行四边形	ping'xing'si'bian'xing	0
+平行线	ping'xing'xian	0
+三角形	san'jiao'xing	0
+三线八角	san'xian'ba'jiao	0
+四边形	si'bian'xing	0
+同旁内角	tong'pang'nei'jiao	0
+同位角	tong'wei'jiao	0
+相交线	xiang'jiao'xian	0

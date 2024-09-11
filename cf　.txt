@@ -1,0 +1,9 @@
+爆头	bao'tou	0
+点射	dian'she	0
+近身	jin'shen	0
+开枪	kai'qiang	0
+跑酷	pao'ku	0
+闪避	shan'bi	0
+闪狙	shan'ju	0
+瞬狙	shun'ju	0
+跳跃	tiao'yue	0

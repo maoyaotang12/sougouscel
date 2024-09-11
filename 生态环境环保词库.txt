@@ -1,0 +1,5 @@
+大气环境	da'qi'huan'jing	0
+废气	fei'qi	0
+废水	fei'shui	0
+废渣	fei'zha	0
+水环境	shui'huan'jing	0

@@ -1,0 +1,10 @@
+保定装修	bao'ding'zhuang'xiu	0
+北京装修公司	bei'jing'zhuang'xiu'gong'si	0
+广州装修	guang'zhou'zhuang'xiu	0
+杭州装修	hang'zhou'zhuang'xiu	0
+上海装修	shang'hai'zhuang'xiu	0
+石家庄装修	shi'jia'zhuang'zhuang'xiu	0
+唐山装修	tang'shan'zhuang'xiu	0
+天津装修	tian'jin'zhuang'xiu	0
+西安装修	xi'an'zhuang'xiu	0
+珠海装修	zhu'hai'zhuang'xiu	0

@@ -1,0 +1,5 @@
+安全	an'quan	0
+管理	guan'li	0
+环保	huan'bao	0
+技术	ji'shu	0
+生产	sheng'chan	0

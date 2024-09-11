@@ -1,0 +1,11 @@
+柯迪亚克	ke'di'ya'ke	0
+柯珞克	ke'luo'ke	0
+明锐	ming'rui	0
+明锐旅行车	ming'rui'lv'xing'che	0
+斯柯达	si'ke'da	0
+斯柯达柯迪亚克	si'ke'da'ke'di'ya'ke	0
+斯柯达柯珞克	si'ke'da'ke'luo'ke	0
+斯柯达明锐	si'ke'da'ming'rui	0
+斯柯达明锐旅行车	si'ke'da'ming'rui'lv'xing'che	0
+昕动	xin'dong	0
+昕锐	xin'rui	0

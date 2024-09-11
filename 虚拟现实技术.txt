@@ -1,0 +1,16 @@
+场景漫游	chang'jing'man'you	0
+骨骼跟踪	gu'ge'gen'zong	0
+骨骼帧	gu'ge'zhen	0
+行号	hang'hao	0
+霍尔特指数	huo'er'te'zhi'shu	0
+基于约束的	ji'yu'yue'shu'de	0
+平滑参数	ping'hua'can'shu	0
+前后帧	qian'hou'zhen	0
+驱动算法	qu'dong'suan'fa	0
+四元数	si'yuan'shu	0
+特征建模	te'zheng'jian'mo	0
+虚拟样机	xu'ni'yang'ji	0
+帧丢失	zhen'diu'shi	0
+帧抖动	zhen'dou'dong	0
+帧缺失	zhen'que'shi	0
+装配序列	zhuang'pei'xu'lie	0

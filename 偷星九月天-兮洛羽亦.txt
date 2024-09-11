@@ -1,0 +1,16 @@
+八月	ba'yue	0
+苍月	cang'yue	0
+二月	er'yue	0
+黑月铁骑	hei'yue'tie'qi	0
+九月	jiu'yue	0
+兰雪	lan'xue	0
+琉星	liu'xing	0
+六月	liu'yue	0
+七月	qi'yue	0
+三月	san'yue	0
+十月	shi'yue	0
+四月	si'yue	0
+贪狼	tan'lang	0
+五月	wu'yue	0
+玄月	xuan'yue	0
+一月	yi'yue	0

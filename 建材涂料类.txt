@@ -1,0 +1,5 @@
+邦乐涂料	bang'le'tu'liao	0
+保温砂浆	bao'wen'sha'jiang	0
+内墙弹性漆	nei'qiang'tan'xing'qi	0
+粘结剂	nian'jie'ji	0
+外墙弹性漆	wai'qiang'tan'xing'qi	0

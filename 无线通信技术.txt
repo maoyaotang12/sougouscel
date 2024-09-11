@@ -1,0 +1,7 @@
+覆盖增强	fu'gai'zeng'qiang	0
+切换	qie'huan	0
+数据业务	shu'ju'ye'wu	0
+网关	wang'guan	0
+移动性	yi'dong'xing	0
+窄带	zhai'dai	0
+终端	zhong'duan	0

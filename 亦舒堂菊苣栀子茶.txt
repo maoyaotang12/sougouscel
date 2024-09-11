@@ -1,0 +1,6 @@
+菊苣	ju'ju	0
+菊苣茶	ju'ju'cha	0
+菊苣根	ju'ju'gen	0
+菊苣根茶	ju'ju'gen'cha	0
+菊苣栀子茶	ju'ju'zhi'zi'cha	0
+栀子茶	zhi'zi'cha	0

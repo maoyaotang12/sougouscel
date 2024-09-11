@@ -1,0 +1,15 @@
+安全光栅	an'quan'guang'shan	0
+常闭	chang'bi	0
+常开	chang'kai	0
+电容式接近开关	dian'rong'shi'jie'jin'kai'guan	0
+光电开关	guang'dian'kai'guan	0
+环形开关	huan'xing'kai'guan	0
+继电器	ji'dian'qi	0
+继电器输出	ji'dian'qi'shu'chu	0
+接近开关	jie'jin'kai'guan	0
+晶体管	jing'ti'guan	0
+晶体管输出	jing'ti'guan'shu'chu	0
+穆嘉传感器	mu'jia'chuan'gan'qi	0
+微型光电开关	wei'xing'guang'dian'kai'guan	0
+直流两线	zhi'liu'liang'xian	0
+直流三线	zhi'liu'san'xian	0

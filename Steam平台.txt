@@ -1,0 +1,13 @@
+创意工坊	chuang'yi'gong'fang	0
+大屏幕模式	da'ping'mu'mo'shi	0
+红信	hong'xin	0
+黄信	huang'xin	0
+家庭组	jia'ting'zu	0
+鉴赏家	jian'shang'jia	0
+交易报价	jiao'yi'bao'jia	0
+库存	ku'cun	0
+社区指南	she'qu'zhi'nan	0
+社区中心	she'qu'zhong'xin	0
+手机令牌	shou'ji'ling'pai	0
+愿望单	yuan'wang'dan	0
+账户凭据	zhang'hu'ping'ju	0

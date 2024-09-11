@@ -1,0 +1,6 @@
+植物方法	zhi'wu'fang'fa	0
+植物解释	zhi'wu'jie'shi	0
+植物学习	zhi'wu'xue'xi	0
+植物研究	zhi'wu'yan'jiu	0
+植物照片	zhi'wu'zhao'pian	0
+植物之美	zhi'wu'zhi'mei	0

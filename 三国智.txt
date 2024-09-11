@@ -1,0 +1,8 @@
+补充包	bu'chong'bao	0
+基础包	ji'chu'bao	0
+集换式卡牌游戏	ji'huan'shi'ka'pai'you'xi	0
+将领卡	jiang'ling'ka	0
+谋略卡	mou'lve'ka	0
+三国智	san'guo'zhi	0
+事件卡	shi'jian'ka	0
+桌游	zhuo'you	0

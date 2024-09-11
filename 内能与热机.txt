@@ -1,0 +1,12 @@
+比热容	bi're'rong	0
+柴油机	chai'you'ji	0
+分子动能	fen'zi'dong'neng	0
+分子势能	fen'zi'shi'neng	0
+内能	nei'neng	0
+排气	pai'qi	0
+汽油机	qi'you'ji	0
+热传递	re'chuan'di	0
+热值	re'zhi	0
+吸气	xi'qi	0
+压缩	ya'suo	0
+做功	zuo'gong	0

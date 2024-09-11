@@ -1,0 +1,7 @@
+丙烯	bing'xi	0
+柴油	chai'you	0
+东营市亚通石化	dong'ying'shi'ya'tong'shi'hua	0
+高清洁液化气	gao'qing'jie'ye'hua'qi	0
+汽油	qi'you	0
+石油焦	shi'you'jiao	0
+碳四	tan'si	0

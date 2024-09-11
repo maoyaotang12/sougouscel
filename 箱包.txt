@@ -1,0 +1,6 @@
+电绣	dian'xiu	0
+旅行包	lv'xing'bao	0
+内包边	nei'bao'bian	0
+外包边	wai'bao'bian	0
+箱规	xiang'gui	0
+印图	yin'tu	0

@@ -1,0 +1,11 @@
+报盘	bao'pan	0
+报盘成交率	bao'pan'cheng'jiao'lv	0
+报盘率	bao'pan'lv	0
+公盘	gong'pan	0
+挂盘	gua'pan	0
+居间代理	ju'jian'dai'li	0
+居间方	ju'jian'fang	0
+居间服务	ju'jian'fu'wu	0
+拿房	na'fang	0
+市场占有率	shi'chang'zhan'you'lv	0
+市占率	shi'zhan'lv	0

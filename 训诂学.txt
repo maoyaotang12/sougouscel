@@ -1,0 +1,16 @@
+反切	fan'qie	0
+上阳入	shang'yang'ru	0
+上阴入	shang'yin'ru	0
+下阳入	xia'yang'ru	0
+下阴入	xia'yin'ru	0
+阳平	yang'ping	0
+阳去	yang'qu	0
+阳上	yang'shang	0
+义若	yi'ruo	0
+阴平	yin'ping	0
+阴去	yin'qu	0
+音若	yin'ruo	0
+阴上	yin'shang	0
+又音	you'yin	0
+又作	you'zuo	0
+直音	zhi'yin	0

@@ -1,0 +1,7 @@
+地衣	di'yi	0
+灌木	guan'mu	0
+蕨类	jue'lei	0
+绿藻	lv'zao	0
+青草	qing'cao	0
+树木	shu'mu	0
+藤类	teng'lei	0

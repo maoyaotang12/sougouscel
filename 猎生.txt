@@ -1,0 +1,13 @@
+光刃	guang'ren	0
+空刃	kong'ren	0
+猎生	lie'sheng	0
+灭刃	mie'ren	0
+冥刃	ming'ren	0
+魔刃	mo'ren	0
+万刃	wan'ren	0
+虚刃	xu'ren	0
+叶望	ye'wang	0
+翼刃	yi'ren	0
+影刃	ying'ren	0
+灾刃	zai'ren	0
+咒怨	zhou'yuan	0

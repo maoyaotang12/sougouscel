@@ -1,0 +1,7 @@
+独家折扣	du'jia'zhe'kou	0
+购物	gou'wu	0
+购物享优惠	gou'wu'xiang'you'hui	0
+嗨聚惠	hai'ju'hui	0
+领优惠券	ling'you'hui'quan	0
+内部优惠券	nei'bu'you'hui'quan	0
+品牌特价	pin'pai'te'jia	0

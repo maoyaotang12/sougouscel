@@ -1,0 +1,12 @@
+步枪狗	bu'qiang'gou	0
+队伤	dui'shang	0
+复活	fu'huo	0
+闪光	shan'guang	0
+升攻击	sheng'gong'ji	0
+手雷	shou'lei	0
+手枪狗	shou'qiang'gou	0
+屠夫	tu'fu	0
+团灭	tuan'mie	0
+小学生	xiao'xue'sheng	0
+烟雾	yan'wu	0
+自雷	zi'lei	0

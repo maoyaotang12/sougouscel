@@ -1,0 +1,10 @@
+办税大厅	ban'shui'da'ting	0
+房产税	fang'chan'shui	0
+环境保护税	huan'jing'bao'hu'shui	0
+纳税评估	na'shui'ping'gu	0
+纳税人分类分级	na'shui'ren'fen'lei'fen'ji	0
+纳税信用评级	na'shui'xin'yong'ping'ji	0
+税源管理	shui'yuan'guan'li	0
+套餐式服务	tao'can'shi'fu'wu	0
+营改增	ying'gai'zeng	0
+增值税专用发票	zeng'zhi'shui'zhuan'yong'fa'piao	0

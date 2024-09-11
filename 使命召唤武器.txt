@@ -1,0 +1,8 @@
+半自动步枪	ban'zi'dong'bu'qiang	0
+步枪	bu'qiang	0
+冲锋枪	chong'feng'qiang	0
+式冲锋枪	shi'chong'feng'qiang	0
+式马克沁水冷式机枪	shi'ma'ke'qin'shui'leng'shi'ji'qiang	0
+手枪	shou'qiang	0
+通用机枪	tong'yong'ji'qiang	0
+自动步枪	zi'dong'bu'qiang	0

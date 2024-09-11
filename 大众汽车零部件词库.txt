@@ -1,0 +1,6 @@
+废气阀	fei'qi'fa	0
+活塞环	huo'sai'huan	0
+节气门	jie'qi'men	0
+进气门	jin'qi'men	0
+排气门	pai'qi'men	0
+气门	qi'men	0

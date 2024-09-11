@@ -1,0 +1,6 @@
+防守队员	fang'shou'dui'yuan	0
+进攻队员	jin'gong'dui'yuan	0
+开角	kai'jiao	0
+侵人犯规	qin'ren'fan'gui	0
+违体犯规	wei'ti'fan'gui	0
+圆柱体	yuan'zhu'ti	0

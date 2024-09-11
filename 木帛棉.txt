@@ -1,0 +1,5 @@
+木帛棉家居服	mu'bo'mian'jia'ju'fu	0
+木帛棉毛巾	mu'bo'mian'mao'jin	0
+木帛棉内衣	mu'bo'mian'nei'yi	0
+木帛棉袜子	mu'bo'mian'wa'zi	0
+木帛棉婴儿	mu'bo'mian'ying'er	0

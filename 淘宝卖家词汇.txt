@@ -1,0 +1,13 @@
+阿里妈妈	a'li'ma'ma	0
+店铺流量	dian'pu'liu'liang	0
+聚划算	ju'hua'suan	0
+麻吉宝	ma'ji'bao	0
+免费试用	mian'fei'shi'yong	0
+生意参谋	sheng'yi'can'mou	0
+淘宝客	tao'bao'ke	0
+淘金币	tao'jin'bi	0
+淘抢购	tao'qiang'gou	0
+天天特价	tian'tian'te'jia	0
+天最低价	tian'zui'di'jia	0
+直通车	zhi'tong'che	0
+钻展	zuan'zhan	0

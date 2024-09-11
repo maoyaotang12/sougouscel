@@ -1,0 +1,7 @@
+侧方	ce'fang	0
+记录	ji'lu	0
+尖牙保护	jian'ya'bao'hu	0
+牙畸形	ya'ji'xing	0
+咬记录	yao'ji'lu	0
+正中	zheng'zhong	0
+组牙功能	zu'ya'gong'neng	0

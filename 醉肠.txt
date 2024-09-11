@@ -1,0 +1,5 @@
+酒泡的肉肠	jiu'pao'de'rou'chang	0
+酒泡的香肠	jiu'pao'de'xiang'chang	0
+醉肠	zui'chang	0
+醉肉肠	zui'rou'chang	0
+醉香肠	zui'xiang'chang	0

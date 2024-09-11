@@ -1,0 +1,11 @@
+崩溃反馈	beng'kui'fan'kui	0
+不是问题	bu'shi'wen'ti	0
+好声音	hao'sheng'yin	0
+坏声音	huai'sheng'yin	0
+建议类	jian'yi'lei	0
+拼音正式版	pin'yin'zheng'shi'ban	0
+推广类	tui'guang'lei	0
+用户词库	yong'hu'ci'ku	0
+有结论	you'jie'lun	0
+正在跟进中	zheng'zai'gen'jin'zhong	0
+自定义短语丢失	zi'ding'yi'duan'yu'diu'shi	0

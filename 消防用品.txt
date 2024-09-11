@@ -1,0 +1,6 @@
+警铃	jing'ling	0
+控制接口	kong'zhi'jie'kou	0
+控制接口箱	kong'zhi'jie'kou'xiang	0
+控制模块	kong'zhi'mo'kuai	0
+控制盘	kong'zhi'pan	0
+手报	shou'bao	0

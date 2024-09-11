@@ -1,0 +1,5 @@
+电视剧	dian'shi'ju	0
+歌手	ge'shou	0
+流行语	liu'xing'yu	0
+萌宠	meng'chong	0
+明星	ming'xing	0

@@ -1,0 +1,5 @@
+蚂蚁	ma'yi	0
+蚂蚁课堂	ma'yi'ke'tang	0
+蚂蚁学习	ma'yi'xue'xi	0
+蚂蚁优选课堂	ma'yi'you'xuan'ke'tang	0
+优选课堂	you'xuan'ke'tang	0

@@ -1,0 +1,5 @@
+北京大学口腔医学院	bei'jing'da'xue'kou'qiang'yi'xue'yuan	0
+吉林大学口腔医学院	ji'lin'da'xue'kou'qiang'yi'xue'yuan	0
+山西医科大学口腔医学系	shan'xi'yi'ke'da'xue'kou'qiang'yi'xue'xi	0
+首都医科大学口腔医学院	shou'du'yi'ke'da'xue'kou'qiang'yi'xue'yuan	0
+天津医科大学口腔医学院	tian'jin'yi'ke'da'xue'kou'qiang'yi'xue'yuan	0

@@ -1,0 +1,7 @@
+刺宾气垫	ci'bin'qi'dian	0
+刺宾气垫鞋垫	ci'bin'qi'dian'xie'dian	0
+刺宾旗舰店	ci'bin'qi'jian'dian	0
+刺宾前掌	ci'bin'qian'zhang	0
+刺宾吸汗鞋垫	ci'bin'xi'han'xie'dian	0
+刺宾鞋垫	ci'bin'xie'dian	0
+刺宾运动鞋垫	ci'bin'yun'dong'xie'dian	0

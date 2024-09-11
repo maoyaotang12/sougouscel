@@ -1,0 +1,6 @@
+大连大风大学	da'lian'da'feng'da'xue	0
+大连停水停电大学	da'lian'ting'shui'ting'dian'da'xue	0
+大连妖风大学	da'lian'yao'feng'da'xue	0
+今天早操停	jin'tian'zao'cao'ting	0
+明天早操停	ming'tian'zao'cao'ting	0
+四七门	si'qi'men	0

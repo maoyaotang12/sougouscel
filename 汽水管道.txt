@@ -1,0 +1,6 @@
+背压机组	bei'ya'ji'zu	0
+背压式汽轮机	bei'ya'shi'qi'lun'ji	0
+产汽量	chan'qi'liang	0
+抽凝机组	chou'ning'ji'zu	0
+抽凝式汽轮机	chou'ning'shi'qi'lun'ji	0
+汽量	qi'liang	0

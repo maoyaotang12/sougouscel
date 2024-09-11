@@ -1,0 +1,16 @@
+超时空监狱	chao'shi'kong'jian'yu	0
+虫群女王	chong'qun'nv'wang	0
+恶灵摄魂师	e'ling'she'hun'shi	0
+公羊	gong'yang	0
+轰鸣导弹发射车	hong'ming'dao'dan'fa'she'che	0
+幻光火箭炮	huan'guang'huo'jian'pao	0
+火蜥蜴	huo'xi'yi	0
+恐龟加农炮	kong'gui'jia'nong'pao	0
+镰刃摩托车	lian'ren'mo'tuo'che	0
+清道夫坦克	qing'dao'fu'tan'ke	0
+塞泰龙弩炮	sai'tai'long'nu'pao	0
+狮心王轰炸机	shi'xin'wang'hong'zha'ji	0
+天启坦克	tian'qi'tan'ke	0
+铁龙坦克	tie'long'tan'ke	0
+未来坦克	wei'lai'tan'ke	0
+跃迁载具	yue'qian'zai'ju	0

@@ -1,0 +1,8 @@
+挂马	gua'ma	0
+后门	hou'men	0
+漏洞利用	lou'dong'li'yong	0
+木马	mu'ma	0
+肉鸡	rou'ji	0
+弱口令	ruo'kou'ling	0
+社工	she'gong	0
+社会工程学	she'hui'gong'cheng'xue	0

@@ -1,0 +1,10 @@
+皇宫	huang'gong	0
+冒险	mao'xian	0
+梦想	meng'xiang	0
+梦想城	meng'xiang'cheng	0
+聘夫	pin'fu	0
+聘妻	pin'qi	0
+随机	sui'ji	0
+天空	tian'kong	0
+王国	wang'guo	0
+新星	xin'xing	0

@@ -1,0 +1,8 @@
+建材店	jian'cai'dian	0
+建造房屋	jian'zao'fang'wu	0
+模拟大都市	mo'ni'da'du'shi	0
+收房租	shou'fang'zu	0
+收税	shou'shui	0
+讨厌的羊毛房	tao'yan'de'yang'mao'fang	0
+我的世界	wo'de'shi'jie	0
+增加村民	zeng'jia'cun'min	0

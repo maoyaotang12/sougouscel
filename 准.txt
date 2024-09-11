@@ -1,0 +1,5 @@
+单签	dan'qian	0
+反馈加签工号	fan'kui'jia'qian'gong'hao	0
+加签	jia'qian	0
+线路可以	xian'lu'ke'yi	0
+线路允许	xian'lu'yun'xu	0

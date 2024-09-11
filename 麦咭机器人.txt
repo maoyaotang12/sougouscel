@@ -1,0 +1,5 @@
+金鹰卡通麦咭	jin'ying'ka'tong'mai'ji	0
+麦咭	mai'ji	0
+麦咭儿童机器人	mai'ji'er'tong'ji'qi'ren	0
+麦咭儿童智能机器人	mai'ji'er'tong'zhi'neng'ji'qi'ren	0
+麦咭机器人	mai'ji'ji'qi'ren	0

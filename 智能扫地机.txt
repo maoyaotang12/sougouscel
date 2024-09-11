@@ -1,0 +1,5 @@
+智能家居	zhi'neng'jia'ju	0
+智能扫地机	zhi'neng'sao'di'ji	0
+智能扫地机器人	zhi'neng'sao'di'ji'qi'ren	0
+智能吸尘器	zhi'neng'xi'chen'qi	0
+智能小家电	zhi'neng'xiao'jia'dian	0

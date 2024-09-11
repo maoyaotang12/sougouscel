@@ -1,0 +1,6 @@
+北京	bei'jing	0
+长安	chang'an	0
+成都	cheng'du	0
+洛阳	luo'yang	0
+南京	nan'jing	0
+西安	xi'an	0

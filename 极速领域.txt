@@ -1,0 +1,16 @@
+板车	ban'che	0
+侧身漂移	ce'shen'piao'yi	0
+单喷	dan'pen	0
+氮气延续	dan'qi'yan'xu	0
+段位漂移	duan'wei'piao'yi	0
+段位双喷	duan'wei'shuang'pen	0
+飞车	fei'che	0
+极速领域	ji'su'ling'yu	0
+进阶氮气出弯	jin'jie'dan'qi'chu'wan	0
+甩尾漂移	shuai'wei'piao'yi	0
+双喷	shuang'pen	0
+双刹弹射	shuang'sha'tan'she	0
+弹射甩尾	tan'she'shuai'wei	0
+拖飘	tuo'piao	0
+完美起步	wan'mei'qi'bu	0
+撞后点喷	zhuang'hou'dian'pen	0

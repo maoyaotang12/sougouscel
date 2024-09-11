@@ -1,0 +1,6 @@
+地理	di'li	0
+古文	gu'wen	0
+科学	ke'xue	0
+人文	ren'wen	0
+天文	tian'wen	0
+玄学	xuan'xue	0

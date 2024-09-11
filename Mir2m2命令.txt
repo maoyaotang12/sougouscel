@@ -1,0 +1,5 @@
+检测背包是否有指定物品	jian'ce'bei'bao'shi'fou'you'zhi'ding'wu'pin	0
+检测技能修炼点数	jian'ce'ji'neng'xiu'lian'dian'shu	0
+检测是否骑马状态	jian'ce'shi'fou'qi'ma'zhuang'tai	0
+检测装备星星数量	jian'ce'zhuang'bei'xing'xing'shu'liang	0
+检查玩家是否在线	jian'cha'wan'jia'shi'fou'zai'xian	0

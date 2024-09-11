@@ -1,0 +1,7 @@
+电源	dian'yuan	0
+金手指	jin'shou'zhi	0
+内存条	nei'cun'tiao	0
+显卡	xian'ka	0
+硬盘	ying'pan	0
+主板	zhu'ban	0
+主机	zhu'ji	0

@@ -1,0 +1,8 @@
+工长君	gong'zhang'jun	0
+工长君盛徽	gong'zhang'jun'sheng'hui	0
+好工长俱乐部	hao'gong'zhang'ju'le'bu	0
+抢工长俱乐部	qiang'gong'chang'ju'le'bu	0
+盛徽	sheng'hui	0
+盛徽工长	sheng'hui'gong'zhang	0
+盛徽工长俱乐部	sheng'hui'gong'zhang'ju'le'bu	0
+盛徽工长君	sheng'hui'gong'zhang'jun	0

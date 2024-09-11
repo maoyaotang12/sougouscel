@@ -1,0 +1,7 @@
+焗漆	ju'qi	0
+喷油	pen'you	0
+热转印	re'zhuan'yin	0
+水转印	shui'zhuan'yin	0
+丝印	si'yin	0
+烫金	tang'jin	0
+移印	yi'yin	0

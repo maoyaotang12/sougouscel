@@ -1,0 +1,5 @@
+飞机	fei'ji	0
+黄金	huang'jin	0
+火凤凰	huo'feng'huang	0
+火麒麟	huo'qi'lin	0
+狼牙	lang'ya	0

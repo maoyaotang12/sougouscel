@@ -1,0 +1,15 @@
+播音主持	bo'yin'zhu'chi	0
+餐厅	can'ting	0
+查寝	cha'qin	0
+迟到	chi'dao	0
+教室	jiao'shi	0
+扣分	kou'fen	0
+美术班	mei'shu'ban	0
+全明坤	quan'ming'kun	0
+宿舍	su'she	0
+体育队	ti'yu'dui	0
+舞蹈班	wu'dao'ban	0
+熄灯	xi'deng	0
+学生会	xue'sheng'hui	0
+杨校长	yang'xiao'zhang	0
+音乐班	yin'yue'ban	0

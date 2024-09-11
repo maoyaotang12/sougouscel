@@ -1,0 +1,5 @@
+法医师	fa'yi'shi	0
+积水潭	ji'shui'tan	0
+主检法医师	zhu'jian'fa'yi'shi	0
+主任法医师	zhu'ren'fa'yi'shi	0
+主诉	zhu'su	0

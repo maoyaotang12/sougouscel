@@ -1,0 +1,7 @@
+集合埋伏	ji'he'mai'fu	0
+进攻敌方水晶	jin'gong'di'fang'shui'jing	0
+快回泉水	kuai'hui'quan'shui	0
+快来抓人	kuai'lai'zhua'ren	0
+请求支援	qing'qiu'zhi'yuan	0
+全体撤退	quan'ti'che'tui	0
+顺风局	shun'feng'ju	0

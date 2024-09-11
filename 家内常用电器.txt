@@ -1,0 +1,13 @@
+白炽灯	bai'chi'deng	0
+电插座	dian'cha'zuo	0
+电灯	dian'deng	0
+电话座机	dian'hua'zuo'ji	0
+电视机	dian'shi'ji	0
+电视屏幕	dian'shi'ping'mu	0
+碟机	die'ji	0
+风扇	feng'shan	0
+空调	kong'tiao	0
+收音机	shou'yin'ji	0
+台式电脑	tai'shi'dian'nao	0
+洗衣机	xi'yi'ji	0
+消毒碗柜	xiao'du'wan'gui	0

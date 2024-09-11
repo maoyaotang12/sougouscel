@@ -1,0 +1,5 @@
+金鼎丰	jin'ding'feng	0
+金鼎丰家具	jin'ding'feng'jia'ju	0
+金鼎丰家居	jin'ding'feng'jia'ju	0
+金鼎丰家装	jin'ding'feng'jia'zhuang	0
+金鼎丰装饰	jin'ding'feng'zhuang'shi	0

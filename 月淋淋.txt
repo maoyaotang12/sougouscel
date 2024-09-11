@@ -1,0 +1,5 @@
+爱心军团	ai'xin'jun'tuan	0
+蝴蝶军团	hu'die'jun'tuan	0
+僵尸军团	jiang'shi'jun'tuan	0
+童心军团	tong'xin'jun'tuan	0
+小猪军团	xiao'zhu'jun'tuan	0

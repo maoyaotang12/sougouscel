@@ -1,0 +1,6 @@
+乙白漂洗剂	yi'bai'piao'xi'ji	0
+乙白软水盐	yi'bai'ruan'shui'yan	0
+乙白洗涤剂	yi'bai'xi'di'ji	0
+乙白洗碗粉	yi'bai'xi'wan'fen	0
+乙白洗碗机专用洗碗粉	yi'bai'xi'wan'ji'zhuan'yong'xi'wan'fen	0
+乙白洗碗块	yi'bai'xi'wan'kuai	0

@@ -1,0 +1,10 @@
+帆布华龙盛宇	fan'bu'hua'long'sheng'yu	0
+防汛沙袋华龙盛宇	fang'xun'sha'dai'hua'long'sheng'yu	0
+华龙盛宇帆布	hua'long'sheng'yu'fan'bu	0
+华龙盛宇防汛沙袋	hua'long'sheng'yu'fang'xun'sha'dai	0
+华龙盛宇篷布	hua'long'sheng'yu'peng'bu	0
+华龙盛宇施工帐篷	hua'long'sheng'yu'shi'gong'zhang'peng	0
+华龙盛宇帐篷	hua'long'sheng'yu'zhang'peng	0
+篷布华龙盛宇	peng'bu'hua'long'sheng'yu	0
+施工帐篷华龙盛宇	shi'gong'zhang'peng'hua'long'sheng'yu	0
+帐篷华龙盛宇	zhang'peng'hua'long'sheng'yu	0

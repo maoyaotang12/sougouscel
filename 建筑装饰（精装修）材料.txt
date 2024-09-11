@@ -1,0 +1,5 @@
+地面材料	di'mian'cai'liao	0
+吊顶材料	diao'ding'cai'liao	0
+基层钢材	ji'ceng'gang'cai	0
+基层龙骨	ji'ceng'long'gu	0
+涂料	tu'liao	0

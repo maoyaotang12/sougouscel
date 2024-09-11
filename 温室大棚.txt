@@ -1,0 +1,13 @@
+侧面	ce'mian	0
+次立柱	ci'li'zhu	0
+端面	duan'mian	0
+风机	feng'ji	0
+辅立柱	fu'li'zhu	0
+集露槽	ji'lu'cao	0
+几型钢	ji'xing'gang	0
+连栋温室	lian'dong'wen'shi	0
+湿帘	shi'lian	0
+文洛式	wen'luo'shi	0
+雨槽	yu'cao	0
+支座	zhi'zuo	0
+主立柱	zhu'li'zhu	0

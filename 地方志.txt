@@ -1,0 +1,9 @@
+殡葬改革	bin'zang'gai'ge	0
+残疾人事业	can'ji'ren'shi'ye	0
+城乡低保	cheng'xiang'di'bao	0
+慈善事业	ci'shan'shi'ye	0
+福利彩票	fu'li'cai'piao	0
+农村低保	nong'cun'di'bao	0
+社会救济	she'hui'jiu'ji	0
+社会救助	she'hui'jiu'zhu	0
+武陵源民政志	wu'ling'yuan'min'zheng'zhi	0

@@ -1,0 +1,15 @@
+安检	an'jian	0
+电音	dian'yin	0
+东方斯卡拉	dong'fang'si'ka'la	0
+红番区	hong'fan'qu	0
+卡包	ka'bao	0
+领舞	ling'wu	0
+妈妈	ma'ma	0
+内保	nei'bao	0
+散台	san'tai	0
+沙发	sha'fa	0
+套餐	tao'can	0
+舞池	wu'chi	0
+西部酒城	xi'bu'jiu'cheng	0
+夜未央	ye'wei'yang	0
+招待	zhao'dai	0

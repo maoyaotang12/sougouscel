@@ -1,0 +1,8 @@
+大风	da'feng	0
+飓风	ju'feng	0
+龙卷风	long'juan'feng	0
+清风	qing'feng	0
+台风	tai'feng	0
+无风	wu'feng	0
+小风	xiao'feng	0
+旋风	xuan'feng	0

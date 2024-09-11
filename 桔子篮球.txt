@@ -1,0 +1,5 @@
+创建球队	chuang'jian'qiu'dui	0
+技术统计	ji'shu'tong'ji	0
+生涯数据	sheng'ya'shu'ju	0
+预订裁判	yu'ding'cai'pan	0
+预订场地	yu'ding'chang'di	0

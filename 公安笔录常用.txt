@@ -1,0 +1,16 @@
+电话	dian'hua	0
+犯罪嫌疑人	fan'zui'xian'yi'ren	0
+犯罪嫌疑人权利义务告知书	fan'zui'xian'yi'ren'quan'li'yi'wu'gao'zhi'shu	0
+户籍地	hu'ji'di	0
+警官证	jing'guan'zheng	0
+勘验笔录	kan'yan'bi'lu	0
+林木采伐许可证	lin'mu'cai'fa'xu'ke'zheng	0
+年龄	nian'ling	0
+权利义务告知书	quan'li'yi'wu'gao'zhi'shu	0
+审批手续	shen'pi'shou'xu	0
+事情经过	shi'qing'jing'guo	0
+现场情况	xian'chang'qing'kuang	0
+姓名	xing'ming	0
+许可证	xu'ke'zheng	0
+职业	zhi'ye	0
+住址	zhu'zhi	0

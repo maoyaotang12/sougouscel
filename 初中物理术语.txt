@@ -1,0 +1,16 @@
+电学	dian'xue	0
+反射	fan'she	0
+光的反射定律	guang'de'fan'she'ding'lv	0
+光的折射规律	guang'de'zhe'she'gui'lv	0
+光现象	guang'xian'xiang	0
+光学	guang'xue	0
+力学	li'xue	0
+平面镜成像	ping'mian'jing'cheng'xiang	0
+热学	re'xue	0
+声现象	sheng'xian'xiang	0
+声学	sheng'xue	0
+受力面积	shou'li'mian'ji	0
+凸透镜成像	tu'tou'jing'cheng'xiang	0
+物态变化	wu'tai'bian'hua	0
+物体间力的作用是相互的	wu'ti'jian'li'de'zuo'yong'shi'xiang'hu'de	0
+折射	zhe'she	0

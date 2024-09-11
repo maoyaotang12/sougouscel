@@ -1,0 +1,17 @@
+股权投资	gu'quan'tou'zi	0
+红杉资本	hong'shan'zi'ben	0
+回购	hui'gou	0
+基金管理人	ji'jin'guan'li'ren	0
+基金业协会	ji'jin'ye'xie'hui	0
+控股股东	kong'gu'gu'dong	0
+上远资产	shang'yuan'zi'chan	0
+收益率	shou'yi'lv	0
+私募	si'mu	0
+私募基金	si'mu'ji'jin	0
+私募基金从业人员	si'mu'ji'jin'cong'ye'ren'yuan	0
+天使基金	tian'shi'ji'jin	0
+证券投资基金法	zheng'quan'tou'zi'ji'jin'fa	0
+证券投资基金业协会	zheng'quan'tou'zi'ji'jin'ye'xie'hui	0
+自律管理	zi'lv'guan'li	0
+资者合法权益	zi'zhe'he'fa'quan'yi	0
+综合报送平台	zong'he'bao'song'ping'tai	0

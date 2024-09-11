@@ -1,0 +1,7 @@
+腹板	fu'ban	0
+钢筋混凝土	gang'jin'hun'ning'tu	0
+简支预应力箱梁	jian'zhi'yu'ying'li'xiang'liang	0
+空心板梁	kong'xin'ban'liang	0
+伸缩缝	shen'suo'feng	0
+预应力混凝土	yu'ying'li'hun'ning'tu	0
+支座	zhi'zuo	0

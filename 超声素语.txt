@@ -1,0 +1,17 @@
+暗区	an'qu	0
+壁薄内清晰	bi'bo'nei'qing'xi	0
+壁厚内清晰	bi'hou'nei'qing'xi	0
+多发性子宫肌瘤	duo'fa'xing'zi'gong'ji'liu	0
+环位正常	huan'wei'zheng'chang	0
+环移位	huan'yi'wei	0
+肌瘤	ji'liu	0
+可见分隔	ke'jian'fen'ge	0
+纳氏囊肿	na'shi'nang'zhong	0
+囊性增生	nang'xing'zeng'sheng	0
+囊肿	nang'zhong	0
+盆腔积液	pen'qiang'ji'ye	0
+弱回声	ruo'hui'sheng	0
+弱回声结节	ruo'hui'sheng'jie'jie	0
+弱回声团块	ruo'hui'sheng'tuan'kuai	0
+液性暗区	ye'xing'an'qu	0
+子宫肌瘤	zi'gong'ji'liu	0

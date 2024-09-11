@@ -1,0 +1,10 @@
+秉创家私	bing'chuang'jia'si	0
+抽湿风机	chou'shi'feng'ji	0
+臭氧发生器	chou'yang'fa'sheng'qi	0
+电子饰板	dian'zi'shi'ban	0
+电子鞋柜	dian'zi'xie'gui	0
+发热器	fa're'qi	0
+活动层板框	huo'dong'ceng'ban'kuang	0
+门碰开关	men'peng'kai'guan	0
+密封条	mi'feng'tiao	0
+五金包	wu'jin'bao	0

@@ -1,0 +1,11 @@
+大白鲨	da'bai'sha	0
+黑白海豚	hei'bai'hai'tun	0
+虎鲸	hu'jing	0
+虎鲨	hu'sha	0
+鲸鲨	jing'sha	0
+龙王鲸	long'wang'jing	0
+柠檬鲨	ning'meng'sha	0
+伪虎鲸	wei'hu'jing	0
+小丑鱼	xiao'chou'yu	0
+鼬鲨	you'sha	0
+座头鲸	zuo'tou'jing	0

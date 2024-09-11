@@ -1,0 +1,7 @@
+范围攻击	fan'wei'gong'ji	0
+火刀	huo'dao	0
+偏斜	pian'xie	0
+威力反击	wei'li'fan'ji	0
+徐风	xu'feng	0
+招架	zhao'jia	0
+争权	zheng'quan	0

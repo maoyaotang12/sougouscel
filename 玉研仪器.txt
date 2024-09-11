@@ -1,0 +1,5 @@
+上海玉研科学仪器	shang'hai'yu'yan'ke'xue'yi'qi	0
+上海玉研科学仪器有限公司	shang'hai'yu'yan'ke'xue'yi'qi'you'xian'gong'si	0
+玉研科学仪器	yu'yan'ke'xue'yi'qi	0
+玉研仪器	yu'yan'yi'qi	0
+玉研仪器公司	yu'yan'yi'qi'gong'si	0

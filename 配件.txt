@@ -1,0 +1,6 @@
+波箱	bo'xiang	0
+前盖壳	qian'gai'ke	0
+前杠	qian'gang	0
+前中网	qian'zhong'wang	0
+左大灯总成	zuo'da'deng'zong'cheng	0
+左前叶子板	zuo'qian'ye'zi'ban	0

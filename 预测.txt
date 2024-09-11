@@ -1,0 +1,9 @@
+八字	ba'zi	0
+丙寅	bing'yin	0
+风水	feng'shui	0
+甲子	jia'zi	0
+日元	ri'yuan	0
+四柱	si'zhu	0
+乙丑	yi'chou	0
+月令	yue'ling	0
+周易	zhou'yi	0

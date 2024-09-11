@@ -1,0 +1,7 @@
+城市建设学院	cheng'shi'jian'she'xue'yuan	0
+商学院	shang'xue'yuan	0
+生命科学学院	sheng'ming'ke'xue'xue'yuan	0
+文法与外语学院	wen'fa'yu'wai'yu'xue'yuan	0
+信息工程学院	xin'xi'gong'cheng'xue'yuan	0
+艺术与设计学院	yi'shu'yu'she'ji'xue'yuan	0
+音乐与传媒学院	yin'yue'yu'chuan'mei'xue'yuan	0

@@ -1,0 +1,16 @@
+带式输送机	dai'shi'shu'song'ji	0
+导料槽防溢裙板	dao'liao'cao'fang'yi'qun'ban	0
+电动机	dian'dong'ji	0
+缓冲床	huan'chong'chuang	0
+换带装置	huan'dai'zhuang'zhi	0
+胶带输送机	jiao'dai'shu'song'ji	0
+逆止器	ni'zhi'qi	0
+平行下托辊	ping'xing'xia'tuo'gun	0
+清扫器	qing'sao'qi	0
+柔性缓冲床	rou'xing'huan'chong'chuang	0
+上海富运运输机械有限公司	shang'hai'fu'yun'yun'shu'ji'xie'you'xian'gong'si	0
+上调心托辊	shang'tiao'xin'tuo'gun	0
+下调心托辊	xia'tiao'xin'tuo'gun	0
+液力偶合器	ye'li'ou'he'qi	0
+液压拉紧装置	ye'ya'la'jin'zhuang'zhi	0
+制动器	zhi'dong'qi	0

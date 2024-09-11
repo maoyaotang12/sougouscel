@@ -1,0 +1,11 @@
+船艏	chuan'shou	0
+船艉	chuan'wei	0
+集控室	ji'kong'shi	0
+甲板	jia'ban	0
+救生筏	jiu'sheng'fa	0
+救生圈	jiu'sheng'quan	0
+救生艇	jiu'sheng'ting	0
+救生衣	jiu'sheng'yi	0
+灭火器	mie'huo'qi	0
+右舷	you'xian	0
+左舷	zuo'xian	0

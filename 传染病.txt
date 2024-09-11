@@ -1,0 +1,5 @@
+慢性乙型肝炎	man'xing'yi'xing'gan'yan	0
+阳性慢性乙型肝炎	yang'xing'man'xing'yi'xing'gan'yan	0
+乙肝后肝硬化	yi'gan'hou'gan'ying'hua	0
+乙型肝炎病毒携带者	yi'xing'gan'yan'bing'du'xie'dai'zhe	0
+阴性性慢性乙型肝炎	yin'xing'xing'man'xing'yi'xing'gan'yan	0

@@ -1,0 +1,10 @@
+刺蛇	ci'she	0
+毒爆	du'bao	0
+飞龙	fei'long	0
+飞蛇	fei'she	0
+狗毒爆	gou'du'bao	0
+换家	huan'jia	0
+火蟑螂	huo'zhang'lang	0
+提速狗	ti'su'gou	0
+王虫	wang'chong	0
+眼虫	yan'chong	0

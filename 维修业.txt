@@ -1,0 +1,13 @@
+半轴	ban'zhou	0
+反光镜	fan'guang'jing	0
+机油	ji'you	0
+离合线	li'he'xian	0
+气管	qi'guan	0
+气门	qi'men	0
+刹车线	sha'che'xian	0
+输油管	shu'you'guan	0
+弹簧	tan'huang	0
+消声器	xiao'sheng'qi	0
+小瓦	xiao'wa	0
+压簧	ya'huang	0
+油门线	you'men'xian	0

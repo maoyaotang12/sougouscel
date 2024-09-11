@@ -1,0 +1,11 @@
+大数据	da'shu'ju	0
+互联网	hu'lian'wang	0
+跨区域	kua'qu'yu	0
+区块链	qu'kuai'lian	0
+人工智能	ren'gong'zhi'neng	0
+深度学习	shen'du'xue'xi	0
+思远科技	si'yuan'ke'ji	0
+物联网	wu'lian'wang	0
+移动科技	yi'dong'ke'ji	0
+云服务	yun'fu'wu	0
+云计算	yun'ji'suan	0

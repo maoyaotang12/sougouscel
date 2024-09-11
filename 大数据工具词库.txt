@@ -1,0 +1,5 @@
+全网事件分析	quan'wang'shi'jian'fen'xi	0
+微博传播效果分析	wei'bo'chuan'bo'xiao'guo'fen'xi	0
+微博事件分析	wei'bo'shi'jian'fen'xi	0
+微舆情	wei'yu'qing	0
+新浪微舆情	xin'lang'wei'yu'qing	0

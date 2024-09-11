@@ -1,0 +1,5 @@
+古琴师	gu'qin'shi	0
+王燕喜	wang'yan'xi	0
+燕山古琴派	yan'shan'gu'qin'pai	0
+燕山琴派	yan'shan'qin'pai	0
+斫琴师	zhuo'qin'shi	0

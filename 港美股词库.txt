@@ -1,0 +1,9 @@
+阿里巴巴	a'li'ba'ba	0
+港股	gang'gu	0
+港交所	gang'jiao'suo	0
+美股	mei'gu	0
+纳斯达克	na'si'da'ke	0
+纽交所	niu'jiao'suo	0
+腾讯控股	teng'xun'kong'gu	0
+雪盈证券	xue'ying'zheng'quan	0
+盈透证券	ying'tou'zheng'quan	0

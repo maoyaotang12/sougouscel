@@ -1,0 +1,14 @@
+低压袋	di'ya'dai	0
+防水袋	fang'shui'dai	0
+封口袋	feng'kou'dai	0
+高压袋	gao'ya'dai	0
+脚丝袋	jiao'si'dai	0
+镜片袋	jing'pian'dai	0
+流延膜袋	liu'yan'mo'dai	0
+牛奶袋	niu'nai'dai	0
+气泡袋	qi'pao'dai	0
+收缩膜袋	shou'suo'mo'dai	0
+调漆袋	tiao'qi'dai	0
+贴骨袋	tie'gu'dai	0
+珠光膜袋	zhu'guang'mo'dai	0
+自粘袋	zi'zhan'dai	0

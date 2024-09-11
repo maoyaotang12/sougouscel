@@ -1,0 +1,9 @@
+非门	fei'men	0
+红石	hong'shi	0
+或门	huo'men	0
+末地	mo'di	0
+末地石	mo'di'shi	0
+小白骷髅	xiao'bai'ku'lou	0
+异或门	yi'huo'men	0
+与或门	yu'huo'men	0
+与门	yu'men	0

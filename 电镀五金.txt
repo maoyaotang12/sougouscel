@@ -1,0 +1,14 @@
+点漆	dian'qi	0
+挂白	gua'bai	0
+挂代金	gua'dai'jin	0
+挂广东金	gua'guang'dong'jin	0
+挂黑巴	gua'hei'ba	0
+挂枪	gua'qiang	0
+挂雾沙	gua'wu'sha	0
+滚白特亮	gun'bai'te'liang	0
+滚代金	gun'dai'jin	0
+滚广东金特亮	gun'guang'dong'jin'te'liang	0
+滚枪特亮	gun'qiang'te'liang	0
+喷漆	pen'qi	0
+喷雾油	pen'wu'you	0
+喷油	pen'you	0

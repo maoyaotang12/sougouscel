@@ -1,0 +1,15 @@
+海啸队套装	hai'xiao'dui'tao'zhuang	0
+红光队套装	hong'guang'dui'tao'zhuang	0
+雷神套装	lei'shen'tao'zhuang	0
+绿光队套装	lv'guang'dui'tao'zhuang	0
+上将套装	shang'jiang'tao'zhuang	0
+上尉套装	shang'wei'tao'zhuang	0
+上校套装	shang'xiao'tao'zhuang	0
+少将套装	shao'jiang'tao'zhuang	0
+少尉套装	shao'wei'tao'zhuang	0
+少校套装	shao'xiao'tao'zhuang	0
+新兵套装	xin'bing'tao'zhuang	0
+雪雷套装	xue'lei'tao'zhuang	0
+中将套装	zhong'jiang'tao'zhuang	0
+中尉套装	zhong'wei'tao'zhuang	0
+中校套装	zhong'xiao'tao'zhuang	0

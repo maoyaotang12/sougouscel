@@ -1,0 +1,5 @@
+电磁给油器集成	dian'ci'gei'you'qi'ji'cheng	0
+电缆线	dian'lan'xian	0
+流量传感器	liu'liang'chuan'gan'qi	0
+压力传感器	ya'li'chuan'gan'qi	0
+主控柜	zhu'kong'gui	0

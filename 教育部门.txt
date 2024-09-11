@@ -1,0 +1,15 @@
+安法科	an'fa'ke	0
+财务室	cai'wu'shi	0
+成职教科	cheng'zhi'jiao'ke	0
+党群工作办公室	dang'qun'gong'zuo'ban'gong'shi	0
+督导室	du'dao'shi	0
+发展规划科	fa'zhan'gui'hua'ke	0
+稽查队	ji'cha'dui	0
+教师发展中心	jiao'shi'fa'zhan'zhong'xin	0
+教研室	jiao'yan'shi	0
+普教科	pu'jiao'ke	0
+人事科	ren'shi'ke	0
+思政体卫科	si'zheng'ti'wei'ke	0
+校产办	xiao'chan'ban	0
+幼教科	you'jiao'ke	0
+支付中心	zhi'fu'zhong'xin	0

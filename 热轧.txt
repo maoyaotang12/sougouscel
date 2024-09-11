@@ -1,0 +1,9 @@
+粗轧除鳞机	cu'zha'chu'lin'ji	0
+粗轧机	cu'zha'ji	0
+飞剪	fei'jian	0
+精轧除鳞机	jing'zha'chu'lin'ji	0
+精轧机	jing'zha'ji	0
+卷曲机	juan'qu'ji	0
+热卷箱	re'juan'xiang	0
+热送辊道	re'song'gun'dao	0
+上料辊道	shang'liao'gun'dao	0

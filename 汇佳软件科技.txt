@@ -1,0 +1,13 @@
+程序研发	cheng'xu'yan'fa	0
+党建数字化	dang'jian'shu'zi'hua	0
+党建信息化	dang'jian'xin'xi'hua	0
+电子政务	dian'zi'zheng'wu	0
+东营	dong'ying	0
+服务云平台	fu'wu'yun'ping'tai	0
+汇佳党建平台	hui'jia'dang'jian'ping'tai	0
+汇佳科技	hui'jia'ke'ji	0
+汇佳智慧校园	hui'jia'zhi'hui'xiao'yuan	0
+客户管理	ke'hu'guan'li	0
+企业管理	qi'ye'guan'li	0
+数字化社区	shu'zi'hua'she'qu	0
+智能教育	zhi'neng'jiao'yu	0

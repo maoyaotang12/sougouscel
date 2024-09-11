@@ -1,0 +1,11 @@
+采油树	cai'you'shu	0
+法兰	fa'lan	0
+防喷器	fang'pen'qi	0
+节流管汇	jie'liu'guan'hui	0
+井控中心	jing'kong'zhong'xin	0
+控制系统	kong'zhi'xi'tong	0
+内防喷工具	nei'fang'pen'gong'ju	0
+套管头	tao'guan'tou	0
+压井管汇	ya'jing'guan'hui	0
+远控台	yuan'kong'tai	0
+栽丝法兰	zai'si'fa'lan	0

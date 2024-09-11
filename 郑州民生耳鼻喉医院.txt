@@ -1,0 +1,7 @@
+鼻窦炎	bi'dou'yan	0
+鼻中隔偏曲	bi'zhong'ge'pian'qu	0
+过敏性鼻炎	guo'min'xing'bi'yan	0
+民生耳鼻喉	min'sheng'er'bi'hou	0
+郑州民生耳鼻喉	zheng'zhou'min'sheng'er'bi'hou	0
+郑州民生耳鼻喉医院	zheng'zhou'min'sheng'er'bi'hou'yi'yuan	0
+中耳炎	zhong'er'yan	0

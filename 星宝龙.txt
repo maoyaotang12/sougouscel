@@ -1,0 +1,6 @@
+星宝龙表	xing'bao'long'biao	0
+星宝龙机械表	xing'bao'long'ji'xie'biao	0
+星宝龙介绍	xing'bao'long'jie'shao	0
+星宝龙男表	xing'bao'long'nan'biao	0
+星宝龙女表	xing'bao'long'nv'biao	0
+星宝龙手表	xing'bao'long'shou'biao	0

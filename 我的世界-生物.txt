@@ -1,0 +1,10 @@
+村民	cun'min	0
+奸商	jian'shang	0
+苦力怕	ku'li'pa	0
+骷髅	ku'lou	0
+末影龙	mo'ying'long	0
+末影人	mo'ying'ren	0
+爬行者	pa'xing'zhe	0
+潜影贝	qian'ying'bei	0
+小白	xiao'bai	0
+小黑	xiao'hei	0

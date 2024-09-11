@@ -1,0 +1,5 @@
+变量	bian'liang	0
+对象	dui'xiang	0
+方法	fang'fa	0
+赋值	fu'zhi	0
+装换	zhuang'huan	0

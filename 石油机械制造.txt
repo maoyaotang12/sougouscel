@@ -1,0 +1,13 @@
+超高强度	chao'gao'qiang'du	0
+衬瓦	chen'wa	0
+抽油光杆	chou'you'guang'gan	0
+定动	ding'dong	0
+级插接式	ji'cha'jie'shi	0
+级衬瓦	ji'chen'wa	0
+级高强杆	ji'gao'qiang'gan	0
+级锥螺纹	ji'zhui'luo'wen	0
+螺杆泵纽卡式扶正器	luo'gan'beng'niu'ka'shi'fu'zheng'qi	0
+扭卡式	niu'ka'shi	0
+喷涂共渗防腐	pen'tu'gong'shen'fang'fu	0
+直注式可旋扶正插接式扭矩杆	zhi'zhu'shi'ke'xuan'fu'zheng'cha'jie'shi'niu'ju'gan	0
+直注式可旋扶正锥螺纹扭矩杆	zhi'zhu'shi'ke'xuan'fu'zheng'zhui'luo'wen'niu'ju'gan	0

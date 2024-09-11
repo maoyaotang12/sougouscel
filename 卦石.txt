@@ -1,0 +1,14 @@
+比卦石	bi'gua'shi	0
+剥卦石	bo'gua'shi	0
+萃卦石	cui'gua'shi	0
+大过卦石	da'guo'gua'shi	0
+否卦石	fou'gua'shi	0
+艮卦石	gen'gua'shi	0
+观卦石	guan'gua'shi	0
+恒卦石	heng'gua'shi	0
+渐卦石	jian'gua'shi	0
+随卦石	sui'gua'shi	0
+小过卦石	xiao'guo'gua'shi	0
+益卦石	yi'gua'shi	0
+豫卦石	yu'gua'shi	0
+震卦石	zhen'gua'shi	0

@@ -1,0 +1,6 @@
+来奶开了	lai'nai'kai'le	0
+来奶来包队	lai'nai'lai'bao'dui	0
+立即执行	li'ji'zhi'xing	0
+四人包队	si'ren'bao'dui	0
+移动角色	yi'dong'jue'se	0
+移动物品	yi'dong'wu'pin	0

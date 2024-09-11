@@ -1,0 +1,5 @@
+赤龙骑士头盔	chi'long'qi'shi'tou'kui	0
+地龙护腕	di'long'hu'wan	0
+地龙项链	di'long'xiang'lian	0
+静龙魔剑	jing'long'mo'jian	0
+斩舰刀	zhan'jian'dao	0

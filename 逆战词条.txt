@@ -1,0 +1,14 @@
+别抢我枪我卡光环	bie'qiang'wo'qiang'wo'ka'guang'huan	0
+别抢我问号	bie'qiang'wo'wen'hao	0
+发把枪	fa'ba'qiang	0
+卡复活	ka'fu'huo	0
+来把冰神	lai'ba'bing'shen	0
+来把毒皇	lai'ba'du'huang	0
+来把纪元	lai'ba'ji'yuan	0
+来把兽神	lai'ba'shou'shen	0
+来把死神	lai'ba'si'shen	0
+来把原子	lai'ba'yuan'zi	0
+输出给棒子	shu'chu'gei'bang'zi	0
+输出给钢管	shu'chu'gei'gang'guan	0
+输出给火炬	shu'chu'gei'huo'ju	0
+我跑图	wo'pao'tu	0

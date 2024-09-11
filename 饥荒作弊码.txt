@@ -1,0 +1,5 @@
+饥饿值不降低	ji'e'zhi'bu'jiang'di	0
+精神值不降低慎用不可取消	jing'shen'zhi'bu'jiang'di'shen'yong'bu'ke'qu'xiao	0
+全物品直接制造	quan'wu'pin'zhi'jie'zhi'zao	0
+上帝模式	shang'di'mo'shi	0
+最大血格	zui'da'xue'ge	0

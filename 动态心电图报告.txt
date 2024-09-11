@@ -1,0 +1,9 @@
+波改变请结合临床	bo'gai'bian'qing'jie'he'lin'chuang	0
+电轴右偏	dian'zhou'you'pian	0
+窦性停搏次小时停搏间期秒	dou'xing'ting'bo'ci'xiao'shi'ting'bo'jian'qi'miao	0
+短阵性房性心动过速阵小时	duan'zhen'xing'fang'xing'xin'dong'guo'su'zhen'xiao'shi	0
+房性早搏次小时成对阵小时	fang'xing'zao'bo'ci'xiao'shi'cheng'dui'zhen'xiao'shi	0
+改变心率增快时明显	gai'bian'xin'lv'zeng'kuai'shi'ming'xian	0
+室性早搏次小时	shi'xing'zao'bo'ci'xiao'shi	0
+心率变异偏低	xin'lv'bian'yi'pian'di	0
+心率变异正常	xin'lv'bian'yi'zheng'chang	0

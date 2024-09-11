@@ -1,0 +1,9 @@
+汉芋春	han'yu'chun	0
+汉芋春魔芋	han'yu'chun'mo'yu	0
+汉芋春魔芋拌面	han'yu'chun'mo'yu'ban'mian	0
+汉芋春魔芋豆腐	han'yu'chun'mo'yu'dou'fu	0
+汉芋春魔芋凉皮	han'yu'chun'mo'yu'liang'pi	0
+汉芋春魔芋丝	han'yu'chun'mo'yu'si	0
+汉芋春酸辣魔芋丝	han'yu'chun'suan'la'mo'yu'si	0
+汉芋春雪魔芋	han'yu'chun'xue'mo'yu	0
+汉芋春雪魔芋干	han'yu'chun'xue'mo'yu'gan	0

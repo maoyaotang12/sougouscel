@@ -1,0 +1,10 @@
+农产品大宗行情	nong'chan'pin'da'zong'hang'qing	0
+农产品大宗交易	nong'chan'pin'da'zong'jiao'yi	0
+农产品大宗交易平台	nong'chan'pin'da'zong'jiao'yi'ping'tai	0
+农产品上行	nong'chan'pin'shang'xing	0
+农产品上行查询	nong'chan'pin'shang'xing'cha'xun	0
+农产品上行价格	nong'chan'pin'shang'xing'jia'ge	0
+农产品上行买卖	nong'chan'pin'shang'xing'mai'mai	0
+农产品上行模式	nong'chan'pin'shang'xing'mo'shi	0
+农产品上行社员网	nong'chan'pin'shang'xing'she'yuan'wang	0
+社员网农产品上行	she'yuan'wang'nong'chan'pin'shang'xing	0

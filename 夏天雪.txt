@@ -1,0 +1,7 @@
+房地产	fang'di'chan	0
+建筑	jian'zhu	0
+结构	jie'gou	0
+科学	ke'xue	0
+音乐	yin'yue	0
+游戏	you'xi	0
+娱乐	yu'le	0

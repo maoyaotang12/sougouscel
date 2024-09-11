@@ -1,0 +1,5 @@
+长幽连	chang'you'lian	0
+短幽连	duan'you'lian	0
+辅助连	fu'zhu'lian	0
+连招	lian'zhao	0
+幽连	you'lian	0

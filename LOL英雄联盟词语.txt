@@ -1,0 +1,6 @@
+敌方	di'fang	0
+拒绝	ju'jue	0
+军团	jun'tuan	0
+同意	tong'yi	0
+投降	tou'xiang	0
+赞成	zan'cheng	0

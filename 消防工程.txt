@@ -1,0 +1,8 @@
+工程签证	gong'cheng'qian'zheng	0
+工作联系函	gong'zuo'lian'xi'han	0
+沟槽件	gou'cao'jian	0
+机三通	ji'san'tong	0
+机四通	ji'si'tong	0
+卡箍	ka'gu	0
+玛钢件	ma'gang'jian	0
+三通	san'tong	0

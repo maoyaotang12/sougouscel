@@ -1,0 +1,13 @@
+并联控制功能司机操作功能	bing'lian'kong'zhi'gong'neng'si'ji'cao'zuo'gong'neng	0
+残疾人操纵箱外召内显功能	can'ji'ren'cao'zong'xiang'wai'zhao'nei'xian'gong'neng	0
+超速机械保护功能光幕保护功能	chao'su'ji'xie'bao'hu'gong'neng'guang'mu'bao'hu'gong'neng	0
+超载报警功能超速电气保护功能	chao'zai'bao'jing'gong'neng'chao'su'dian'qi'bao'hu'gong'neng	0
+待机定期自检功能层高自测功能	dai'ji'ding'qi'zi'jian'gong'neng'ceng'gao'zi'ce'gong'neng	0
+轿内慢速运行功能泊梯功能	jiao'nei'man'su'yun'xing'gong'neng'bo'ti'gong'neng	0
+平层预开门功能	ping'ceng'yu'kai'men'gong'neng	0
+群管理控制功能	qun'guan'li'kong'zhi'gong'neng	0
+提前预开门功能	ti'qian'yu'kai'men'gong'neng	0
+微动平层功能	wei'dong'ping'ceng'gong'neng	0
+消防迫降功能启动补偿功能	xiao'fang'po'jiang'gong'neng'qi'dong'bu'chang'gong'neng	0
+消防员专用功能预留视频电缆	xiao'fang'yuan'zhuan'yong'gong'neng'yu'liu'shi'pin'dian'lan	0
+预留音频电缆五方童话功能	yu'liu'yin'pin'dian'lan'wu'fang'tong'hua'gong'neng	0

@@ -1,0 +1,5 @@
+零刻机器人	ling'ke'ji'qi'ren	0
+零刻软件	ling'ke'ruan'jian	0
+零刻软件多开浏览器	ling'ke'ruan'jian'duo'kai'liu'lan'qi	0
+零刻软件群控板	ling'ke'ruan'jian'qun'kong'ban	0
+切换到多开模式	qie'huan'dao'duo'kai'mo'shi	0

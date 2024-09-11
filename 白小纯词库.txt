@@ -1,0 +1,13 @@
+白小纯	bai'xiao'chun	0
+备件补发单号	bei'jian'bu'fa'dan'hao	0
+麻烦回传下拒签	ma'fan'hui'chuan'xia'ju'qian	0
+麻烦添加备件	ma'fan'tian'jia'bei'jian	0
+配件补发单号	pei'jian'bu'fa'dan'hao	0
+让您久等了	rang'nin'jiu'deng'le	0
+生活电器内销供应商	sheng'huo'dian'qi'nei'xiao'gong'ying'shang	0
+销退指令	xiao'tui'zhi'ling	0
+要安装的软件名单	yao'an'zhuang'de'ruan'jian'ming'dan	0
+已通知安得拦截	yi'tong'zhi'an'de'lan'jie	0
+已退款	yi'tui'kuan	0
+已下发拦截	yi'xia'fa'lan'jie	0
+已下拦截工单	yi'xia'lan'jie'gong'dan	0

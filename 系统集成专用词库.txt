@@ -1,0 +1,10 @@
+宕机	dang'ji	0
+抖动	dou'dong	0
+峰值	feng'zhi	0
+公务网	gong'wu'wang	0
+容错	rong'cuo	0
+冗余	rong'yu	0
+上行链路	shang'xing'lian'lu	0
+时延	shi'yan	0
+下行链路	xia'xing'lian'lu	0
+信息系统	xin'xi'xi'tong	0

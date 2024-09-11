@@ -1,0 +1,5 @@
+单音	dan'yin	0
+点弦	dian'xian	0
+和弦	he'xian	0
+切音	qie'yin	0
+尤克里里	you'ke'li'li	0
