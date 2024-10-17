@@ -160,6 +160,7 @@
 不朽之守护	bu'xiu'zhi'shou'hu	0
 不只是一团心智	bu'zhi'shi'yi'tuan'xin'zhi	0
 彩虹镖	cai'hong'biao	0
+才思敏捷	cai'si'min'jie	0
 残石	can'shi	0
 残岩	can'yan	0
 残焰	can'yan	0
@@ -265,6 +266,7 @@
 大炮	da'pao	0
 大人在说话	da'ren'zai'shuo'hua	0
 大萨特	da'sa'te	0
+大圣坚阵	da'sheng'jian'zhen	0
 大树	da'shu	0
 大肆污染	da'si'wu'ran	0
 打团	da'tuan	0
@@ -432,6 +434,7 @@
 防御塔	fang'yu'ta	0
 飞机	fei'ji	0
 飞龙视野	fei'long'shi'ye	0
+飞龙之怒	fei'long'zhi'nu	0
 飞升残迹	fei'sheng'can'ji	0
 飞鞋	fei'xie	0
 飞行信使	fei'xing'xin'shi	0
@@ -728,6 +731,7 @@
 火箭弹幕	huo'jian'dan'mu	0
 活力球	huo'li'qiu	0
 活力之球	huo'li'zhi'qiu	0
+火龙	huo'long	0
 祸乱	huo'luan	0
 祸乱之源	huo'luan'zhi'yuan	0
 火猫	huo'mao	0
@@ -1382,6 +1386,7 @@
 驱邪护符	qu'xie'hu'fu	0
 驱逐	qu'zhu	0
 全才	quan'cai	0
+全才英雄	quan'cai'ying'xiong	0
 全口径	quan'kou'jing	0
 全领域沉默	quan'ling'yu'chen'mo	0
 全面加固	quan'mian'jia'gu	0
@@ -1512,6 +1517,7 @@
 神力恩泽	shen'li'en'ze	0
 神灵武士	shen'ling'wu'shi	0
 神龙摆尾	shen'long'bai'wei	0
+神龙之血	shen'long'zhi'xue	0
 神秘法杖	shen'mi'fa'zhang	0
 神秘商店	shen'mi'shang'dian	0
 神秘挑战	shen'mi'tiao'zhan	0
@@ -1539,6 +1545,7 @@
 神杖升级	shen'zhang'sheng'ji	0
 神智爆裂	shen'zhi'bao'lie	0
 神之愤怒	shen'zhi'fen'nu	0
+神志刚毅	shen'zhi'gang'yi	0
 神之力量	shen'zhi'li'liang	0
 神之谴戒	shen'zhi'qian'jie	0
 神之仁善	shen'zhi'ren'shan	0
@@ -1658,6 +1665,7 @@
 霜冻之箭	shuang'dong'zhi'jian	0
 双捆	shuang'kun	0
 霜冷守护	shuang'leng'shou'hu	0
+霜龙	shuang'long	0
 双刃剑	shuang'ren'jian	0
 双生之门	shuang'sheng'zhi'men	0
 双头龙	shuang'tou'long	0
@@ -2199,6 +2207,7 @@
 远古霜害傀儡	yuan'gu'shuang'hai'kui'lei	0
 远古岩石傀儡	yuan'gu'yan'shi'kui'lei	0
 渊海绝影	yuan'hai'jue'ying	0
+猿猴步法	yuan'hou'bu'fa	0
 圆环	yuan'huan	0
 原力法杖	yuan'li'fa'zhang	0
 原力鞋	yuan'li'xie	0
@@ -2242,6 +2251,7 @@
 炸雷服	zha'lei'fu	0
 战斗嚎叫	zhan'dou'hao'jiao	0
 战斗饥渴	zhan'dou'ji'ke	0
+战斗之心	zhan'dou'zhi'xin	0
 战斗专注	zhan'dou'zhuan'zhu	0
 战队应援团	zhan'dui'ying'yuan'tuan	0
 战鼓	zhan'gu	0

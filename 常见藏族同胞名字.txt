@@ -23,6 +23,7 @@
 格桑	ge'sang	0
 更登	geng'deng	0
 更邓	geng'deng	0
+吉村	ji'cun	0
 甲措	jia'cuo	0
 甲央	jia'yang	0
 江村	jiang'cun	0
@@ -41,6 +42,7 @@
 娜雍	na'yong	0
 尼玛	ni'ma	0
 普布	pu'bu	0
+青措	qing'cuo	0
 曲措	qu'cuo	0
 曲佩	qu'pei	0
 曲批	qu'pi	0
@@ -66,4 +68,6 @@
 泽仁	ze'ren	0
 扎西	zha'xi	0
 志玛	zhi'ma	0
+卓嘎	zhuo'ga	0
 卓玛	zhuo'ma	0
+卓呷	zhuo'xia	0
