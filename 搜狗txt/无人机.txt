@@ -1,0 +1,8 @@
+'ba'xuan'yi 八旋翼
+'dan'xuan'yi 单旋翼
+'duo'xuan'yi 多旋翼
+'gu'ding'yi 固定翼
+'liu'xuan'yi 六旋翼
+'pu'yi 扑翼
+'si'xuan'yi 四旋翼
+'wu'ren'ji 无人机

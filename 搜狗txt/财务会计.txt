@@ -1,0 +1,6 @@
+'bao'xiao 报销
+'gou'huo 购货
+'jie'zhuan 结转
+'ti'xian 提现
+'xiao'shou 销售
+'zhi'fu 支付

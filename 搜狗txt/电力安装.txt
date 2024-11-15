@@ -1,0 +1,8 @@
+'dian'lan'zhong'duan'tou 电缆终端头
+'fei'yu'ying'li'gan 非预应力杆
+'jia'kong'jue'yuan'dao'xian 架空绝缘导线
+'jiao'liu'bi'lei'qi 交流避雷器
+'jiao'liu'pan'xing'xuan'shi'ci'jue'yuan'zi 交流盘形悬式瓷绝缘子
+'jie'di'duan'lu'gu'zhang'zhi'shi'qi 接地短路故障指示器
+'jin'hu'xian'qiang'shang'zhi'tie 进户线墙上支铁
+'xian'lu'jiao'tie'heng'dan 线路角铁横担

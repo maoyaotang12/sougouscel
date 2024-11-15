@@ -1,0 +1,6 @@
+'men'jin'bang'ding 门禁绑定
+'pu'tong'er'wei'ma 普通二维码
+'she'bei 设备
+'shen'zhen'shi'wei'kai'hu'lian'ke'ji'you'xian'gong'si 深圳市微开互联科技有限公司
+'wei'kai'hu'lian 微开互联
+'wu'ye'hou'tai 物业后台

@@ -1,0 +1,7 @@
+'huo'li'fa'dian 火力发电
+'qi'lun'ji 汽轮机
+'re'dian'ou 热电偶
+'re'li'dian'chang 热力电厂
+'shuang'jin'shu'wen'du'ji 双金属温度计
+'ya'li'bian'song'qi 压力变送器
+'ya'li'biao 压力表

@@ -1,0 +1,9 @@
+'bai'rou 白肉
+'bei'rou 贝肉
+'hong'rou 红肉
+'ji'rou 鸡肉
+'niu'rou 牛肉
+'ya'rou 鸭肉
+'yang'rou 羊肉
+'yu'rou 鱼肉
+'zhu'rou 猪肉

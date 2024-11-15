@@ -1,0 +1,6 @@
+'duo'yun 多云
+'gua'feng 刮风
+'qing'tian 晴天
+'xia'yu 下雨
+'yin'tian 阴天
+'yu'jia'xue 雨夹雪

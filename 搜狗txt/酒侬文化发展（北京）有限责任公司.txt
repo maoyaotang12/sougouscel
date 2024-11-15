@@ -1,0 +1,5 @@
+'bai'jiu 白酒
+'hong'jiu 红酒
+'jiu'nong 酒浓
+'pu'tao'jiu 葡萄酒
+'yang'jiu 洋酒

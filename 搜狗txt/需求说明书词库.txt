@@ -1,0 +1,5 @@
+'chu'xian'ren 出险人
+'ruan'jian'xu'qiu'shuo'ming'shu 软件需求说明书
+'shou'yi'ren 受益人
+'suo'pei'quan'li'ren 索赔权利人
+'xu'qiu'gui'ge'shuo'ming'shu 需求规格说明书

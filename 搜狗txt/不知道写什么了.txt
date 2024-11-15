@@ -1,0 +1,9 @@
+'dao'gui 导轨
+'fan'xiang'qi 返向器
+'fang'chen'pian 防尘片
+'gang'qiu'bao'chi'qi 钢球保持器
+'guan'chuan 贯穿
+'hua'kuai 滑块
+'jin'shu'ben'ti 金属本体
+'you'zui 油嘴
+'zhi'xian'dao'gui 直线导轨

@@ -1,0 +1,5 @@
+'bian'liang 变量
+'dui'xiang 对象
+'fang'fa 方法
+'fu'zhi 赋值
+'zhuang'huan 装换

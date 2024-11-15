@@ -1,0 +1,9 @@
+'an'zhuang'bao 安装包
+'dang'qian'ban'ben'hao 当前版本号
+'fei'ji'hua'geng'xin 非计划更新
+'huan'jing 环境
+'ji'hua'geng'xin 计划更新
+'nei'wang 内网
+'wai'wang 外网
+'xu'ni'ji 虚拟机
+'zui'xin'ban'ben 最新版本

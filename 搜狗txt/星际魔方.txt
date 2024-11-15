@@ -1,0 +1,5 @@
+'kuang'ji 矿机
+'lian'bian'kuang'ji 链变矿机
+'xing'ji 星际
+'xing'ji'mo'fang 星际魔方
+'xing'ji'mo'fang'kuang'ji 星际魔方矿机

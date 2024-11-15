@@ -1,0 +1,10 @@
+'bao'jian'pin 保健品
+'die'da'sun'shang 跌打损伤
+'er'ke'yong'yao 儿科用药
+'fu'ke'yong'yao 妇科用药
+'gan'mao 感冒
+'kang'sheng'su 抗生素
+'wei'chang'dao'yong'yao 胃肠道用药
+'xin'nao'xue'guan'yong'yao 心脑血管用药
+'yi'liao'qi'xie 医疗器械
+'zhi'ke'hua'tan 止咳化痰

@@ -1,0 +1,9 @@
+'fei'men 非门
+'hong'shi 红石
+'huo'men 或门
+'mo'di 末地
+'mo'di'shi 末地石
+'xiao'bai'ku'lou 小白骷髅
+'yi'huo'men 异或门
+'yu'huo'men 与或门
+'yu'men 与门

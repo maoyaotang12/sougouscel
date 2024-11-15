@@ -1,0 +1,7 @@
+'fan'yi'qi 翻译器
+'kong'tiao'wang'guan 空调网关
+'nei'qian'shi'kai'guan 内嵌式开关
+'wu'ji'suan 雾计算
+'yi'ti'hua'gui'dao 一体化轨道
+'zhi'neng'jia'ju 智能家居
+'zhu'cong'wang'guan 主从网关

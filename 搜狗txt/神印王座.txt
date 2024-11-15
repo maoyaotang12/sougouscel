@@ -1,0 +1,12 @@
+'cheng'jie'qi'shi 惩戒骑士
+'ci'ke'sheng'dian 刺客圣殿
+'ling'hun'sheng'dian 灵魂圣殿
+'mo'fa'sheng'dian 魔法圣殿
+'mo'fa'shi 魔法师
+'mo'zu 魔族
+'mu'shi'sheng'dian 牧师圣殿
+'qi'shi'sheng'dian 骑士圣殿
+'shen'yin'qi'shi 神印骑士
+'shou'hu'qi'shi 守护骑士
+'zhan'shi'sheng'dian 战士圣殿
+'zhao'huan'shi 召唤师

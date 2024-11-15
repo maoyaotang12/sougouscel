@@ -1,0 +1,17 @@
+'di'bu'lie'chu'ge'can'yu'zhe'gang'wei 第步列出各参与者岗位
+'fa'ding'jie'jia'ri'jia'ban'yao'shen'pi'ma 法定节假日加班要审批吗
+'fu'li'qing'dan 福利清单
+'fu'xin'ri'shi'hao 付薪日是号
+'jia'ban'fei'ru'he'ji'suan 加班费如何计算
+'jing'li'ceng'ji'yuan'fen 经理层级元分
+'mo'kuai'er'xin'chou 模块二薪酬
+'nian'jiang'yu'shen'me'you'guan 年奖与什么有关
+'ren'li'zhi'zhu'bi'sheng'bao'dian'zhu'guan'bi'zhi 人力支柱必胜宝典主管必知
+'she'hui'bao'xian'yu'zhu'fang'gong'ji'jin 社会保险与住房公积金
+'sheng'chan'yi'xian'ji'xiao'gong'zi'ti'cheng'gong'zi 生产一线绩效工资提成工资
+'sheng'chan'yi'xian'yuan'gong'you'kong'tiao'fang'yuan'ren 生产一线员工有空调房元人
+'sheng'chan'zhi'chi'ji'xiao'gong'zi'ti'cheng'gong'zi 生产支持绩效工资提成工资
+'shi'wu'xing'fu'li 实物性福利
+'xing'zheng'bu'men'ji'xiao'gong'zi'ti'cheng'gong'zi 行政部门绩效工资提成工资
+'yuan'gong'ceng'ji'yuan'zuo'you'fen 员工层级元左右分
+'zhu'guan'ceng'ji'yuan'zuo'you'fen 主管层级元左右分

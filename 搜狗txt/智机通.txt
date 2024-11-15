@@ -1,0 +1,5 @@
+'ding'wei'ying'yong 定位应用
+'ji'chu'tong'xin'duan'xin'tong'xin 基础通信短信通信
+'ji'chu'tong'xin'shu'ju'tong'xin 基础通信数据通信
+'ka'fu'wu 卡服务
+'zhi'ji'tong 智机通

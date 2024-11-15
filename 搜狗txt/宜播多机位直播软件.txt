@@ -1,0 +1,9 @@
+'duo'ji'wei 多机位
+'duo'ji'wei'qie'huan 多机位切换
+'duo'ji'wei'qie'huan'ruan'jian 多机位切换软件
+'qie'huan'zhi'bo 切换直播
+'yi'bo 宜播
+'yi'bo'duo'ji'wei'qie'huan 宜播多机位切换
+'yi'bo'zhi'bo 宜播直播
+'yi'bo'zhuan'ye'ban 宜播专业版
+'zhi'bo'ruan'jian 直播软件

@@ -1,0 +1,11 @@
+'chan'pin'gui'ge'li'ping 产品规格粒瓶
+'chan'pin'jian'jie 产品简介
+'guan'yu'shen'me'shi'hou'tui'jian'tao'can'he'shi 关于什么时候推荐套餐合适
+'jie'shu'yu 结束语
+'kai'tou'yu 开头语
+'nian'ling'bu'xian'ji'chu'kuan 年龄不限基础款
+'nian'ling'sui 年龄岁
+'nian'ling'sui'bu'xian 年龄岁不限
+'qin'qing'wen'you'shen'me'ke'yi'bang'zhu'nin'de 亲请问有什么可以帮助您的
+'tui'jian'zhou'qi 推荐周期
+'zhen'dui'sui'zuo'you 针对岁左右

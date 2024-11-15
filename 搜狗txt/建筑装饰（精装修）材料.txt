@@ -1,0 +1,5 @@
+'di'mian'cai'liao 地面材料
+'diao'ding'cai'liao 吊顶材料
+'ji'ceng'gang'cai 基层钢材
+'ji'ceng'long'gu 基层龙骨
+'tu'liao 涂料

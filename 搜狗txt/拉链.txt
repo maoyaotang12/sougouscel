@@ -1,0 +1,13 @@
+'bu'dai 布带
+'cha'xiao 插销
+'da'xiao'cha 大小插
+'fang'kuai'cha'xiao 方块插销
+'la'lian 拉链
+'la'tou 拉头
+'lian'ya 链牙
+'ma'zhuang 码装
+'ni'long'ma'zhuang 尼龙码装
+'shang'xia'zhi 上下止
+'shang'zhi 上止
+'xia'zhi 下止
+'zuo'you'cha 左右插

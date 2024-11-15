@@ -1,0 +1,7 @@
+'jian'hu'ren'shen'fen'zheng'hao'ma 监护人身份证号码
+'jian'hu'ren'shou'ji'hao'ma 监护人手机号码
+'jian'hu'ren'xing'ming'wu'chun'yao 监护人姓名吴纯瑶
+'xing'bie'nan 性别男
+'you'er'chu'sheng'ri'qi 幼儿出生日期
+'you'er'shen'fen'zheng'hao'ma 幼儿身份证号码
+'you'er'xing'ming'xia'qing'feng 幼儿姓名夏清风

@@ -1,0 +1,11 @@
+'fa'xue 法学
+'gong'shang'guan'li'lei 工商管理类
+'guo'ji'zheng'zhi 国际政治
+'jing'ji'xue'lei 经济学类
+'li'shi'xue'lei 历史学类
+'she'hui'xue 社会学
+'wen'ke'shi'yan'ban'lei'yuan'pei'xue'yuan 文科试验班类元培学院
+'xin'wen'chuan'bo'xue'lei 新闻传播学类
+'xin'xi'guan'li'yu'xin'xi'xi'tong 信息管理与信息系统
+'ying'yu 英语
+'zhong'guo'yu'yan'wen'xue'lei 中国语言文学类

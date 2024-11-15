@@ -1,0 +1,5 @@
+'jia'ru'tu'zhi'wen'zi 加入图纸文字
+'kan'tu'wen'zi'ku 看图文字库
+'quan'bu'yu'yan 全部语言
+'zeng'jia'sheng'ji'ti'shi 增加升级提示
+'zong'he'quan'bu'ban'ben 综合全部版本

@@ -1,0 +1,15 @@
+'bi'shu 笔数
+'ding'shu 定数
+'ge'wei'dang 个位档
+'kan'xin'suan 看心算
+'kan'zhu'suan 看珠算
+'quan'pan'bo'zhu 全盘拨珠
+'shi'wei'dang 十位档
+'shuang'shou'bo'zhu 双手拨珠
+'ting'xin'suan 听心算
+'ting'zhu'suan 听珠算
+'you'shou'quan'pan'bo'zhu 右手全盘拨珠
+'yu'su 语速
+'zhi'jia'zhi'jian 直加直减
+'zhu'xin'suan 珠心算
+'zuo'shou'quan'pan'bo'zhu 左手全盘拨珠

@@ -1,0 +1,6 @@
+'gu'li'ci'shi'bie 孤立词识别
+'lian'xu'ci'shi'bie 连续词识别
+'ping'gu'wen'ti 评估问题
+'xue'xi'mo'xing'can'shu 学习模型参数
+'xun'zhao'zhuang'tai'xu'lie 寻找状态序列
+'zi'ran'yu'yan'li'jie'yu'dui'hua'xi'tong 自然语言理解与对话系统

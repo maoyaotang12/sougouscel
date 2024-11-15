@@ -1,0 +1,6 @@
+'fei'qi'fa 废气阀
+'huo'sai'huan 活塞环
+'jie'qi'men 节气门
+'jin'qi'men 进气门
+'pai'qi'men 排气门
+'qi'men 气门

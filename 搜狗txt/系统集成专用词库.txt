@@ -1,0 +1,10 @@
+'dang'ji 宕机
+'dou'dong 抖动
+'feng'zhi 峰值
+'gong'wu'wang 公务网
+'rong'cuo 容错
+'rong'yu 冗余
+'shang'xing'lian'lu 上行链路
+'shi'yan 时延
+'xia'xing'lian'lu 下行链路
+'xin'xi'xi'tong 信息系统

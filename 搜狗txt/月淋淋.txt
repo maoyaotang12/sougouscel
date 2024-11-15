@@ -1,0 +1,5 @@
+'ai'xin'jun'tuan 爱心军团
+'hu'die'jun'tuan 蝴蝶军团
+'jiang'shi'jun'tuan 僵尸军团
+'tong'xin'jun'tuan 童心军团
+'xiao'zhu'jun'tuan 小猪军团

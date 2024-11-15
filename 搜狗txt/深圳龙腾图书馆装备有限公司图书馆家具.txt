@@ -1,0 +1,14 @@
+'bao'zhu'jia 包柱架
+'dan'mian'bi'jia 单面笔架
+'dan'mian'er'tong'shu'jia 单面儿童书架
+'dan'mian'jing'pin'jia 单面精品架
+'dan'mian'shu'jia 单面书架
+'dan'mian'wen'ju'jia 单面文具架
+'shuang'mian'bi'jia 双面笔架
+'shuang'mian'er'tong'shu'jia 双面儿童书架
+'shuang'mian'jing'pin'jia 双面精品架
+'shuang'mian'shu'jia 双面书架
+'shuang'mian'wen'ju'jia 双面文具架
+'tu'shu'zhan'tai 图书展台
+'yi'xing'jia 异性架
+'za'zhi'jia 杂志架

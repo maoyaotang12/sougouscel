@@ -1,0 +1,7 @@
+'bi're'rong 比热容
+'dian'neng 电能
+'gong'lv 功率
+'li'de'dan'wei 力的单位
+'mi'du'de'dan'wei 密度的单位
+'ou'mu 欧姆
+'su'du'de'dan'wei 速度的单位

@@ -1,0 +1,11 @@
+'beng'kui'fan'kui 崩溃反馈
+'bu'shi'wen'ti 不是问题
+'hao'sheng'yin 好声音
+'huai'sheng'yin 坏声音
+'jian'yi'lei 建议类
+'pin'yin'zheng'shi'ban 拼音正式版
+'tui'guang'lei 推广类
+'yong'hu'ci'ku 用户词库
+'you'jie'lun 有结论
+'zheng'zai'gen'jin'zhong 正在跟进中
+'zi'ding'yi'duan'yu'diu'shi 自定义短语丢失

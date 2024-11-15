@@ -1,0 +1,8 @@
+'gong'cheng'xi'che'ji 工程洗车机
+'gong'di'xi'che'ji 工地洗车机
+'gong'di'xi'che'tai 工地洗车台
+'gun'lun 滚轮
+'xi'che 洗车
+'xi'che'chang 洗车场
+'xi'che'tai 洗车台
+'xiu'che 修车

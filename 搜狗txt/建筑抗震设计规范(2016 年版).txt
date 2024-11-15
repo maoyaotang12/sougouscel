@@ -1,0 +1,11 @@
+'chang'di 场地
+'di'zhen'dong'can'shu'qu'hua'tu 地震动参数区划图
+'di'zhen'zuo'yong 地震作用
+'jian'zhu'kang'zhen'gai'nian'she'ji 建筑抗震概念设计
+'kang'zhen'cuo'shi 抗震措施
+'kang'zhen'gou'zao'cuo'shi 抗震构造措施
+'kang'zhen'she'fang'biao'zhun 抗震设防标准
+'kang'zhen'she'fang'lie'du 抗震设防烈度
+'she'ji'di'zhen'dong'can'shu 设计地震动参数
+'she'ji'ji'ben'di'zhen'jia'su'du 设计基本地震加速度
+'she'ji'te'zheng'zhou'qi 设计特征周期

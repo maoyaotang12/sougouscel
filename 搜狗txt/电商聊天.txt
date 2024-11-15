@@ -1,0 +1,5 @@
+'dian'shang'ci'ku 电商词库
+'jing'dong'liao'tian 京东聊天
+'ri'chang'wen'ti 日常问题
+'shou'hou'wen'ti 售后问题
+'wang'wang'liao'tian 旺旺聊天

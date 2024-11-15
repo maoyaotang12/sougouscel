@@ -1,0 +1,8 @@
+'ban'zi'dong'bu'qiang 半自动步枪
+'bu'qiang 步枪
+'chong'feng'qiang 冲锋枪
+'shi'chong'feng'qiang 式冲锋枪
+'shi'ma'ke'qin'shui'leng'shi'ji'qiang 式马克沁水冷式机枪
+'shou'qiang 手枪
+'tong'yong'ji'qiang 通用机枪
+'zi'dong'bu'qiang 自动步枪

@@ -1,0 +1,10 @@
+'jian'zhan'dou'ji 歼战斗机
+'meng'qin'zhan'dou'ji 猛禽战斗机
+'mi'ge'zhan'dou'ji 米格战斗机
+'shan'dian'zhan'dou'ji 闪电战斗机
+'su'jin'diao'zhan'dou'ji 苏金雕战斗机
+'xian'jin'zhong'xing'zhan'dou'ji 先进中型战斗机
+'xin'shen'zhan'dou'ji 心神战斗机
+'ye'ying'zhan'dou'ji 夜鹰战斗机
+'you'ling'hong'zha'ji 幽灵轰炸机
+'zhan'dou'ji 战斗机

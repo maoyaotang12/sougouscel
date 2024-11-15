@@ -1,0 +1,5 @@
+'ci'pan 磁盘
+'cun'chu'qi 存储器
+'dian'zi'guan 电子管
+'san're'pian 散热片
+'ying'pan 硬盘

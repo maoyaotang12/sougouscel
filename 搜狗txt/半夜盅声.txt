@@ -1,0 +1,6 @@
+'gang'jie'gou 钢结构
+'gong'cheng'jing'ji 工程经济
+'hun'ning'tu 混凝土
+'liu'ti'li'xue 流体力学
+'qi'ti'jie'gou 砌体结构
+'tan'xing'li'xue 弹性力学

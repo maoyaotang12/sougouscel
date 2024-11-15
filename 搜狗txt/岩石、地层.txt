@@ -1,0 +1,9 @@
+'bao'ceng 薄层
+'cu'jing'da'li'yan 粗晶大理岩
+'hou'ceng 厚层
+'ju'hou'ceng 巨厚层
+'kuai'ceng 块层
+'wen'ceng 纹层
+'xi'jing'da'li'yan 细晶大理岩
+'xi'li'yan 细砾岩
+'zhong'ceng 中层

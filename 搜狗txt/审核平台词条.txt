@@ -1,0 +1,6 @@
+'cai'ji'zi'liao'bu'fen'que'shi 采集资料部分缺失
+'cai'ji'zi'liao'mo'hu'bu'qing 采集资料模糊不清
+'cai'ji'zi'liao'pi'pei'cuo'wu 采集资料匹配错误
+'cai'ji'zi'liao'yi'si'guo'qi 采集资料疑似过期
+'gen'ju're'li'xuan'zhong'dao'lu'mo'ren'fang'xiang'kai'tong 根据热力选中道路默认方向开通
+'wu'xian'you'cai'ji'tu'pian'xu'xia'fa'cai'ji 无现有采集图片需下发采集

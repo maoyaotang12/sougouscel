@@ -1,0 +1,15 @@
+'bi'shua 笔刷
+'cai'zhi 材质
+'ci'biao'mian'san'she 次表面散射
+'dong'tai'wang'ge 动态网格
+'duo'bian'xing 多边形
+'duo'bian'xing'wang'ge 多边形网格
+'fa'xian 法线
+'huan'jing'guang'zhe'bi 环境光遮蔽
+'jing'xiang 镜像
+'tie'tu 贴图
+'tuo'pu 拓扑
+'xi'fen'ji'bie 细分级别
+'xian'kuang'tu 线框图
+'zhi'huan'tie'tu 置换贴图
+'zi'gong'ju 子工具

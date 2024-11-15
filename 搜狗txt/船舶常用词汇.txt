@@ -1,0 +1,11 @@
+'chuan'shou 船艏
+'chuan'wei 船艉
+'ji'kong'shi 集控室
+'jia'ban 甲板
+'jiu'sheng'fa 救生筏
+'jiu'sheng'quan 救生圈
+'jiu'sheng'ting 救生艇
+'jiu'sheng'yi 救生衣
+'mie'huo'qi 灭火器
+'you'xian 右舷
+'zuo'xian 左舷

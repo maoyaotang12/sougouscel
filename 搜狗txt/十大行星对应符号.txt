@@ -1,0 +1,10 @@
+'hai'wang'xing 海王星
+'huo'xing 火星
+'jin'xing 金星
+'ming'wang'xing 冥王星
+'mu'xing 木星
+'shui'xing 水星
+'tai'yang 太阳
+'tian'wang'xing 天王星
+'tu'xing 土星
+'yue'liang 月亮

@@ -1,0 +1,5 @@
+'an'niu 按钮
+'biao'qian 标签
+'chuang'ti 窗体
+'lie'biao'kuang 列表框
+'wen'ben'kuang 文本框

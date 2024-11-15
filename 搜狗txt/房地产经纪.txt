@@ -1,0 +1,11 @@
+'bao'pan 报盘
+'bao'pan'cheng'jiao'lv 报盘成交率
+'bao'pan'lv 报盘率
+'gong'pan 公盘
+'gua'pan 挂盘
+'ju'jian'dai'li 居间代理
+'ju'jian'fang 居间方
+'ju'jian'fu'wu 居间服务
+'na'fang 拿房
+'shi'chang'zhan'you'lv 市场占有率
+'shi'zhan'lv 市占率

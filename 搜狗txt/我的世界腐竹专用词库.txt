@@ -1,0 +1,13 @@
+'cha'jian 插件
+'chong'qi'fu'wu'qi 重启服务器
+'fu'wu'qi'beng'kui 服务器崩溃
+'fu'zhu 腐竹
+'guan'li'yuan 管理员
+'hui'fu 毁服
+'mo'zu 模组
+'ruan'jian'fu 软件服
+'wan'jia 玩家
+'xiang'zi'cha'jian 箱子插件
+'xiong'hai'zi 熊孩子
+'ying'jian'fu 硬件服
+'zai'xian'ren'shu 在线人数

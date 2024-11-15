@@ -1,0 +1,17 @@
+'cha'kan'mou'ren'de'bao'guo 查看某人的包裹
+'cha'kan'mou'ren'zui'hou'tui'chu'de'shi'jian 查看某人最后退出的时间
+'fa'she'yi'ge'huo'qiu'hui'po'huai'fang'kuai 发射一个火球会破坏方块
+'hou'mian'jia'shen'me'qing'qu'can'kao'tie'zi 后面加什么请去参考帖子
+'ji'yu'zi'ji'wu'xian'de'mou'wu'pin 给予自己无限的某物品
+'jiang'mou'ren'chuan'song'zhi'zi'ji'shen'pang 将某人传送至自己身旁
+'jiang'ren'wu'chuan'song'zhi'ren'wu'shen'pang 将人物传送至人物身旁
+'jiang'zi'ji'chuan'song'zhi'mou'ren'shen'pang 将自己传送至某人身旁
+'jin'yan'mou'ren 禁言某人
+'ping'pang 乒乓
+'qing'kong'bei'bao 清空背包
+'she'ding'chu'sheng'dian 设定出生点
+'sheng'cun'chuang'zao'mao'xian 生存创造冒险
+'shi'chuang'zao'mo'shi 是创造模式
+'tiao'zheng'nan'du'he'ping'jian'dan'pu'tong'kun'nan 调整难度和平简单普通困难
+'yun'xing'bei'fen'ming'ling 运行备份命令
+'zhi'liao'mou'ren 治疗某人

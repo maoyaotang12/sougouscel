@@ -1,0 +1,13 @@
+'ai'xiu'dong'man'ying'yu 爱秀动漫英语
+'ai'xiu'guo'ji'ying'yu 爱秀国际英语
+'ai'xiu'shao'er'ying'yu 爱秀少儿英语
+'ai'xiu'ying'yu 爱秀英语
+'dong'man'ying'yu 动漫英语
+'gao'ji'ban 高级班
+'guo'ji'ying'yu 国际英语
+'shao'er'ying'yu 少儿英语
+'ying'shi'ban 影视班
+'ying'yu 英语
+'ying'yu'kou'yu'pei'xun 英语口语培训
+'ying'yu'kou'yu'pei'xun'ban 英语口语培训班
+'zhong'ji'ban 中级班

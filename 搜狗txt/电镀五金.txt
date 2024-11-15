@@ -1,0 +1,14 @@
+'dian'qi 点漆
+'gua'bai 挂白
+'gua'dai'jin 挂代金
+'gua'guang'dong'jin 挂广东金
+'gua'hei'ba 挂黑巴
+'gua'qiang 挂枪
+'gua'wu'sha 挂雾沙
+'gun'bai'te'liang 滚白特亮
+'gun'dai'jin 滚代金
+'gun'guang'dong'jin'te'liang 滚广东金特亮
+'gun'qiang'te'liang 滚枪特亮
+'pen'qi 喷漆
+'pen'wu'you 喷雾油
+'pen'you 喷油

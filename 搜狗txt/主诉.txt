@@ -1,0 +1,5 @@
+'fa'yi'shi 法医师
+'ji'shui'tan 积水潭
+'zhu'jian'fa'yi'shi 主检法医师
+'zhu'ren'fa'yi'shi 主任法医师
+'zhu'su 主诉

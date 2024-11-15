@@ -1,0 +1,7 @@
+'fu'ban 腹板
+'gang'jin'hun'ning'tu 钢筋混凝土
+'jian'zhi'yu'ying'li'xiang'liang 简支预应力箱梁
+'kong'xin'ban'liang 空心板梁
+'shen'suo'feng 伸缩缝
+'yu'ying'li'hun'ning'tu 预应力混凝土
+'zhi'zuo 支座

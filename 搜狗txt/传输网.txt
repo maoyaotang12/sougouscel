@@ -1,0 +1,12 @@
+'ben'di'huan 本地环
+'er'ceng'lian'lu 二层链路
+'gu'gan'huan 骨干环
+'guang'gong'lv 光功率
+'hui'ju'huan 汇聚环
+'jiao'cha 交叉
+'jie'ru'huan 接入环
+'lian'lu'lei'xing 链路类型
+'shi'xi 时隙
+'tuo'pu 拓扑
+'wang'yuan 网元
+'zhi'lu'ban 支路板

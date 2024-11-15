@@ -1,0 +1,6 @@
+'fa'gui 法规
+'fa'lv 法律
+'gong'shang 工商
+'gong'si 公司
+'guang'gao 广告
+'jian'guan 监管

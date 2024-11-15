@@ -1,0 +1,5 @@
+'ce'jing'ji'shu 测井技术
+'ce'jing'jie'shi 测井解释
+'ce'jing'lian'jing'dui'bi 测井连井对比
+'di'zhen'lian'jing'pou'mian 地震连井剖面
+'zhen'fu'bian'hua'lv 振幅变化率

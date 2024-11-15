@@ -1,0 +1,13 @@
+'bai'chi'deng 白炽灯
+'dian'cha'zuo 电插座
+'dian'deng 电灯
+'dian'hua'zuo'ji 电话座机
+'dian'shi'ji 电视机
+'dian'shi'ping'mu 电视屏幕
+'die'ji 碟机
+'feng'shan 风扇
+'kong'tiao 空调
+'shou'yin'ji 收音机
+'tai'shi'dian'nao 台式电脑
+'xi'yi'ji 洗衣机
+'xiao'du'wan'gui 消毒碗柜

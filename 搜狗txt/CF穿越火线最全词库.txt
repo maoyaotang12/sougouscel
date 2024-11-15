@@ -1,0 +1,6 @@
+'jin'xiang 进箱
+'shang'fang 上房
+'sheng'hua'mo'shi 生化模式
+'sheng'hua'sha 生化沙
+'sheng'hua'sha'mo 生化沙漠
+'sheng'hua'you'ling 生化幽灵

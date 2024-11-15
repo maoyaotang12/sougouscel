@@ -1,0 +1,10 @@
+'bian'ma 编码
+'fang'wen 访问
+'jia'mi 加密
+'jiao'ben 脚本
+'jie'ma 解码
+'qu'chu'zhong'jian'wen'ben 取出中间文本
+'qu'zhong'jian'wen'ben 取中间文本
+'wang'ye 网页
+'wang'ye'fang'wen 网页访问
+'wen'ben 文本

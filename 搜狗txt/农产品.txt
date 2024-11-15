@@ -1,0 +1,16 @@
+'chan'di'an'quan 产地安全
+'jian'ce'jian'yan 检测检验
+'jian'ce'shi 检测室
+'nei'jian'yuan 内检员
+'nei'jian'yuan'zheng 内检员证
+'nong'chan'pin 农产品
+'nong'chan'pin'zhi'liang'an'quan 农产品质量安全
+'nong'jian'zhan 农检站
+'nong'jian'zhong'xin 农检中心
+'nong'yao'can'liu'jian'ce'yi 农药残留检测仪
+'nong'ye'tou'ru'pin 农业投入品
+'shou'yao'yao'can'liu'jian'ce'yi 兽药药残留检测仪
+'tou'ru'pin'gou'mai'shi'yong'dang'an 投入品购买使用档案
+'zhen'jian'guan'zhan 镇监管站
+'zhi'liang'an'quan'ping'gu'bao'gao 质量安全评估报告
+'zhui'su'xi'tong 追溯系统

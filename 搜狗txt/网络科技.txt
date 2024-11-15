@@ -1,0 +1,5 @@
+'cao'zuo'xi'tong 操作系统
+'cheng'xu'she'ji 程序设计
+'duo'mei'ti'ji'shu 多媒体技术
+'ruan'jian'gong'cheng 软件工程
+'shu'ju'ku'xi'tong'yuan'li'yu'ji'shu 数据库系统原理与技术

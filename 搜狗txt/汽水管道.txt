@@ -1,0 +1,6 @@
+'bei'ya'ji'zu 背压机组
+'bei'ya'shi'qi'lun'ji 背压式汽轮机
+'chan'qi'liang 产汽量
+'chou'ning'ji'zu 抽凝机组
+'chou'ning'shi'qi'lun'ji 抽凝式汽轮机
+'qi'liang 汽量

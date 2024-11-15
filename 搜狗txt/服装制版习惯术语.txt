@@ -1,0 +1,12 @@
+'da'xiu 大袖
+'hou'ce 后侧
+'hou'shang 后上
+'hou'xia 后下
+'hou'xiu 后袖
+'hou'zhong 后中
+'qian'ce 前侧
+'qian'shang 前上
+'qian'xia 前下
+'qian'xiu 前袖
+'qian'zhong 前中
+'xiao'xiu 小袖

@@ -1,0 +1,5 @@
+'bian'liang 变量
+'chang'liang 常量
+'gou'zao'qi 构造器
+'han'shu 函数
+'shu'ju'ku 数据库

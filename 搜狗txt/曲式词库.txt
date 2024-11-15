@@ -1,0 +1,5 @@
+'da'san'he'xian 大三和弦
+'he'xian 和弦
+'jian'qi'he'xian 减七和弦
+'xiao'san'he'xian 小三和弦
+'zeng'san'he'xian 增三和弦

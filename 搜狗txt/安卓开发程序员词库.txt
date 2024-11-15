@@ -1,0 +1,5 @@
+'cheng'yuan'bian'liang 成员变量
+'chu'shi'hua 初始化
+'gou'zao'han'shu 构造函数
+'jie'kou 接口
+'ju'bu'bian'liang 局部变量

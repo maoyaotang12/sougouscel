@@ -1,0 +1,11 @@
+'cai'duan'bu 裁断部
+'cai'duan'guan'li 裁断管理
+'cheng'pin'cang 成品仓
+'cheng'pin'yan'shou 成品验收
+'cheng'xing'che'jian 成型车间
+'cheng'xing'zhu'ren 成型主任
+'sheng'chan'jing'li 生产经理
+'tuo'li'xie'ye'you'xian'gong'si 驼力鞋业有限公司
+'zhen'che'bu 针车部
+'zhen'che'yan'shou 针车验收
+'zhong'cang 中仓

@@ -1,0 +1,12 @@
+'bian'cheng 编程
+'biao'zhi'fu 标识符
+'dui'xiang 对象
+'duo'tai 多态
+'duo'xian'cheng 多线程
+'feng'zhuang 封装
+'gou'zao'han'shu 构造函数
+'ji'cheng 继承
+'la'ji'hui'shou 垃圾回收
+'luo'ji'yun'suan'fu 逻辑运算符
+'mian'xiang'dui'xiang 面向对象
+'yun'suan 运算

@@ -1,0 +1,10 @@
+'dao'pao 道袍
+'duan'he 短褐
+'he'chang 鹤氅
+'ji'fu 祭服
+'pan'ling'lan'shan 盘领斓衫
+'qu'ju'pao 曲裾袍
+'yuan'ling'pao 圆领袍
+'zhi'duo 直裰
+'zhi'ju'shen'yi 直裾深衣
+'zhu'zi'shen'yi 朱子深衣

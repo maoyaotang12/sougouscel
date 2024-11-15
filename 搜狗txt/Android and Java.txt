@@ -1,0 +1,8 @@
+'chou'xiang'fang'fa 抽象方法
+'chou'xiang'lei 抽象类
+'fang'wen'kong'zhi'xiu'shi'fu 访问控制修饰符
+'ni'ming'lei 匿名类
+'ni'ming'nei'bu'lei 匿名内部类
+'shu'zu 数组
+'ying'yong'cheng'xu'jie'kou 应用程序接口
+'zi'dong'bian'liang 自动变量

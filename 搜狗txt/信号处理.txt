@@ -1,0 +1,5 @@
+'cai'yang'pin'lv 采样频率
+'jie'shu'bi 阶数比
+'jie'zhi'pin'lv 截止频率
+'lv'bo'qi 滤波器
+'xin'zao'bi 信噪比

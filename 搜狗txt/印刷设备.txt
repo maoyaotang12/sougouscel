@@ -1,0 +1,5 @@
+'ao'ban'yin'shua'ji 凹版印刷机
+'dan'zhang'zhi'jiao'yin'ji 单张纸胶印机
+'juan'tong'zhi'yin'shua'ji 卷筒纸印刷机
+'rou'ban'yin'shua'ji 柔版印刷机
+'si'wang'yin'shua'ji 丝网印刷机

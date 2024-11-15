@@ -1,0 +1,6 @@
+'jie'dian'zhi'yi'shi 节点之一是
+'li'ceng'de'zhong'yao 理层的重要
+'qi'wang'luo'jie'dian 器网络节点
+'shi'wu'xian'chuan'gan 是无线传感
+'xian'chuan'gan'qi'wang'luo'jie'dian'neng'hao'de'zhu'yao'mo'kuai 线传感器网络节点能耗的主要模块
+'ying'xiang'wu 影响无

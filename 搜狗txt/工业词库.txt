@@ -1,0 +1,6 @@
+'di'hou'you 底后右
+'di'hou'zuo 底后左
+'di'qian'gai 底前盖
+'di'you'ce 底右侧
+'di'zuo'ce 底左侧
+'dong'ruan 东软

@@ -1,0 +1,6 @@
+'jian'qiu 剑球
+'jian'yu 剑玉
+'ping'heng'jian'qiu 平衡剑球
+'ping'heng'jian'yu 平衡剑玉
+'zhong'guo'jian'qiu 中国剑球
+'zhong'guo'jian'yu 中国剑玉

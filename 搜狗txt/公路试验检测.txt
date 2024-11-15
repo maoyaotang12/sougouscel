@@ -1,0 +1,9 @@
+'dian'zi'tian'ping 电子天平
+'gong'lu'gong'cheng'zhi'liang'jian'yan'yu'ping'ding 公路工程质量检验与评定
+'gong'lu'ji'shu'zhuang'kuang'ping'ding 公路技术状况评定
+'shi'yan'jian'ce'shu'ju'zheng'li'fang'fa 试验检测数据整理方法
+'shi'yan'shi'ming'cheng 试验室名称
+'tu'de'wu'li'xing'zhi'shi'yan 土的物理性质试验
+'tu'gong 土工
+'ya'li'shi'yan'ji 压力试验机
+'zhen'pian'zhuang'gui'zhun'yi 针片状规准仪

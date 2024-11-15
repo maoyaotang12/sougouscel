@@ -1,0 +1,10 @@
+'biao'ku 表库
+'biao'ku'xi'tong 表库系统
+'dian'dong'mi'ji'gui 电动密集柜
+'dian'dong'mi'ji'jia 电动密集架
+'dian'dong'zhi'neng'biao'ku 电动智能表库
+'mi'ji'gui'biao'ku 密集柜表库
+'mi'ji'jia'biao'ku 密集架表库
+'zhi'neng'biao'gui 智能表柜
+'zhi'neng'biao'ku 智能表库
+'zhi'neng'biao'ku'mi'ji'jia 智能表库密集架

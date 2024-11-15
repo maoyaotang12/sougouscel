@@ -1,0 +1,16 @@
+'dui'ding'jiao 对顶角
+'dui'ding'jiao'xiang'deng 对顶角相等
+'liang'zhi'xian'ping'xing 两直线平行
+'liang'zhi'xian'ping'xing'nei'cuo'jiao'xiang'deng 两直线平行内错角相等
+'liang'zhi'xian'ping'xing'tong'pang'nei'hu'bu 两直线平行同旁内互补
+'liang'zhi'xian'ping'xing'tong'wei'jiao'xiang'deng 两直线平行同位角相等
+'ling'xing 菱形
+'nei'cuo'jiao 内错角
+'ping'xing'si'bian'xing 平行四边形
+'ping'xing'xian 平行线
+'san'jiao'xing 三角形
+'san'xian'ba'jiao 三线八角
+'si'bian'xing 四边形
+'tong'pang'nei'jiao 同旁内角
+'tong'wei'jiao 同位角
+'xiang'jiao'xian 相交线

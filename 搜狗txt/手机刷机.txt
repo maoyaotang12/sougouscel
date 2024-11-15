@@ -1,0 +1,10 @@
+'di'yi'ping 第一屏
+'ding'ping 定屏
+'guan'ji 关机
+'jie'suo 解锁
+'kai'ji'an'jian 开机按键
+'kai'ji'dong'hua 开机动画
+'qu'dong 驱动
+'san'ge'an'jian'yi'qi'an 三个按键一起按
+'shua'ji 刷机
+'yin'liang'shang'yu'yin'liang'xia 音量上与音量下

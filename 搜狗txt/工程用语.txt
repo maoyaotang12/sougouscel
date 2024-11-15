@@ -1,0 +1,7 @@
+'gao'cha 高差
+'gao'cheng 高程
+'he'yi'xing 和易性
+'hou'shi 后视
+'pei'he'bi 配合比
+'qian'shi 前视
+'wan'qu'du 弯曲度

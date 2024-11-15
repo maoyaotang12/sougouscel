@@ -1,0 +1,5 @@
+'fen'li'qi'chu'kou'peng'zhang'jie 分离器出口膨胀节
+'hui'liao'fa 回料阀
+'hui'liao'fa'peng'zhang'jie 回料阀膨胀节
+'hui'liao'guan 回料管
+'re'peng'zhang 热膨胀

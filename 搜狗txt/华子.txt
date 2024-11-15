@@ -1,0 +1,5 @@
+'dao'pin'wu'ran 导频污染
+'fan'pin 翻频
+'gong'can 工参
+'lin'qu 邻区
+'rao'ma 扰码

@@ -1,0 +1,5 @@
+'duan'kou'hao 端口号
+'hou'tai'lu'jing'yong'hu'ming'mi'ma 后台路径用户名密码
+'jiao'huan'ji 交换机
+'jing'xiang 镜像
+'ruan'lu'you 软路由

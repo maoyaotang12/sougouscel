@@ -1,0 +1,16 @@
+'dian'xue 电学
+'fan'she 反射
+'guang'de'fan'she'ding'lv 光的反射定律
+'guang'de'zhe'she'gui'lv 光的折射规律
+'guang'xian'xiang 光现象
+'guang'xue 光学
+'li'xue 力学
+'ping'mian'jing'cheng'xiang 平面镜成像
+'re'xue 热学
+'sheng'xian'xiang 声现象
+'sheng'xue 声学
+'shou'li'mian'ji 受力面积
+'tu'tou'jing'cheng'xiang 凸透镜成像
+'wu'tai'bian'hua 物态变化
+'wu'ti'jian'li'de'zuo'yong'shi'xiang'hu'de 物体间力的作用是相互的
+'zhe'she 折射

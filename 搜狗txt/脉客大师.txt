@@ -1,0 +1,5 @@
+'mai'ke'da'shi 脉客大师
+'mai'ke'da'shi'tong'xun'lu'guan'li'ruan'jian 脉客大师通讯录管理软件
+'ri'cheng'yun'kong'zhi 日程云控制
+'wang'luo'xing'tong'bu'yuan 网络型同步源
+'yun'ji'suan'ji'cheng'guan'li 云计算集成管理

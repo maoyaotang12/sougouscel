@@ -1,0 +1,5 @@
+'ku'zi 裤子
+'nv'shi 女士
+'qun'zi 裙子
+'shang'yi 上衣
+'wai'tao 外套

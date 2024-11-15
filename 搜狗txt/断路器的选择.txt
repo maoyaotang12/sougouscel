@@ -1,0 +1,6 @@
+'biao'shi'hui'lu'li'mian'ke'yi'zhuang'wei'de'duan'lu'qi 表示回路里面可以装位的断路器
+'er'lou'dian'duan'lu'qi'de'xuan'ze 二漏电断路器的选择
+'san'duan'lu'qi'de'an'zhuang 三断路器的安装
+'si'xian'lu'xuan'ze 四线路选择
+'wu'zhao'ming'xiang 五照明箱
+'xiao'de'zhao'ming'xiang'ba'duan'lu'qi'zhuang'zhao'xiang'xiang'shang 小的照明箱把断路器装照相箱上

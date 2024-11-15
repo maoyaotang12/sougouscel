@@ -1,0 +1,11 @@
+'bo'tao'jiu'dian 铂涛酒店
+'han'ting'jiu'dian 汉庭酒店
+'lang'hua'guo'ji'jiu'dian 朗华国际酒店
+'qian'li'xing'ke'zhan 千里行客栈
+'ru'jia'jiu'dian 如家酒店
+'shang'ke'you'kuai'jie'jiu'dian 尚客优快捷酒店
+'tang'nian'shang'lv'jiu'dian 唐年商旅酒店
+'tian'jiu'dian 天酒店
+'xiong'mao'yi'zhan 熊猫驿站
+'yi'jia'lian'suo'jiu'dian 驿家连锁酒店
+'zhong'zhou'kuai'jie'jiu'dian 中州快捷酒店

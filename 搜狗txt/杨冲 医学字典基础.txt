@@ -1,0 +1,5 @@
+'ge'yao'pin'ming'cheng 各药品名称
+'sheng'chan'chang'jia 生产厂家
+'yao'pin'zi'dian 药品字典
+'yi'xue 医学
+'zi'dian'ji'chu 字典基础

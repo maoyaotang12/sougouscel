@@ -1,0 +1,5 @@
+'cun'fang'tong'ye 存放同业
+'cun'fang'zhong'yang'yin'hang'kuan'xiang 存放中央银行款项
+'ku'cun'xian'jin 库存现金
+'qi'ta'huo'bi'zi'jin 其他货币资金
+'yin'hang'cun'kuan 银行存款

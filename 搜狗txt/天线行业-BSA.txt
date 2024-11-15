@@ -1,0 +1,14 @@
+'ban'kuan 瓣宽
+'bo'shu'kuan'du 波束宽度
+'di'yi'shang'pang'ban 第一上旁瓣
+'fan'she'ban 反射板
+'fang'xiang'tu 方向图
+'ji'hua 极化
+'jiao'cha'ji'hua 交叉极化
+'kui'xian 馈线
+'ling'dian'tian'chong 零点填充
+'shang'pang'ban 上旁瓣
+'wang'luo 网络
+'zhe'wan'bian 折弯边
+'zhen'zi 阵子
+'zhu'kui'xian 主馈线

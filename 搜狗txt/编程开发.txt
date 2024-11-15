@@ -1,0 +1,6 @@
+'bian'cheng 编程
+'bian'liang 变量
+'chang'liang 常量
+'cheng'xu 程序
+'kai'fa 开发
+'shi'wu 事物

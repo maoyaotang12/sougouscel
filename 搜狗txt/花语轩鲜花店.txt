@@ -1,0 +1,14 @@
+'ding'hua'dian'hua 订花电话
+'he'ka'nei'rong 贺卡内容
+'hua'yu'xuan'xian'hua'dian 花语轩鲜花店
+'hua'yu'xuan'xian'hua'dian'chan'pin 花语轩鲜花店产品
+'hua'yu'xuan'xian'hua'dian'di'zhi 花语轩鲜花店地址
+'hua'yu'xuan'xian'hua'dian'dian'hua 花语轩鲜花店电话
+'hua'yu'xuan'xian'hua'dian'fu'wu 花语轩鲜花店服务
+'hua'yu'xuan'xian'hua'dian'huo'dong 花语轩鲜花店活动
+'hua'yu'xuan'xian'hua'dian'jia'ge 花语轩鲜花店价格
+'qi'wang'song'da'shi'jian 期望送达时间
+'shi'fou'xu'yao'he'ka 是否需要贺卡
+'shou'hua'di'zhi 收花地址
+'shou'hua'dian'hua 收花电话
+'shou'hua'xing'ming 收花姓名

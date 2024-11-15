@@ -1,0 +1,9 @@
+'a'li'ba'ba 阿里巴巴
+'gang'gu 港股
+'gang'jiao'suo 港交所
+'mei'gu 美股
+'na'si'da'ke 纳斯达克
+'niu'jiao'suo 纽交所
+'teng'xun'kong'gu 腾讯控股
+'xue'ying'zheng'quan 雪盈证券
+'ying'tou'zheng'quan 盈透证券

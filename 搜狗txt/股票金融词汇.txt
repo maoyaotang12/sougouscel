@@ -1,0 +1,15 @@
+'chou'ma'fen'bu 筹码分布
+'da'gu'dong 大股东
+'gu'jia 股价
+'gu'piao 股票
+'gu'piao'jia'ge 股票价格
+'gu'piao'ruan'jian 股票软件
+'gu'shi 股市
+'hang'qing 行情
+'ji'ben'fen'xi 基本分析
+'ji'ben'mian 基本面
+'ji'shu'fen'xi 技术分析
+'pai'xu 排序
+'shi'ying'lv 市盈率
+'shou'yi'lv 收益率
+'zhi'biao 指标

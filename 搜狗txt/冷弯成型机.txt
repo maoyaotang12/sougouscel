@@ -1,0 +1,6 @@
+'cheng'xing'ji 成型机
+'gun'ya'cheng'xing'ji 辊压成型机
+'leng'wan'cheng'xing'ji 冷弯成型机
+'si'fu'qie'ge 伺服切割
+'ye'ya 液压
+'ye'ya'beng'zhan 液压泵站

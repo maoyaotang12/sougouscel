@@ -1,0 +1,7 @@
+'bian'liang 变量
+'can'shu 参数
+'diao'yong 调用
+'fang'fa 方法
+'ji'cheng 继承
+'jie'kou 接口
+'yuan'yin 原因

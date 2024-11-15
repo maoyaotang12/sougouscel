@@ -1,0 +1,13 @@
+'an'quan'xing 安全性
+'ben'lei'dui'xiang 本类对象
+'cheng'yuan'bian'liang 成员变量
+'cheng'yuan'bian'liang'zuo'yong'zai'zheng'ge'lei'zhong 成员变量作用在整个类中
+'chu'shi'hua 初始化
+'diao'yong 调用
+'dui'xiang 对象
+'fang'fa 方法
+'feng'zhuang 封装
+'gou'zao'han'shu 构造函数
+'ju'bu'bian'liang 局部变量
+'yi'ban'han'shu 一般函数
+'zhong'yong'xing 重用性

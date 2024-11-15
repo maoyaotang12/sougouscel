@@ -1,0 +1,8 @@
+'zhen'hun'duan'dao 镇魂短刀
+'zhen'hun'fa'zhang 镇魂法杖
+'zhen'hun'ju'jian 镇魂巨剑
+'zhen'hun'lian'dao 镇魂镰刀
+'zhen'hun'mo'zhang 镇魂魔杖
+'zhen'hun'quan'tao 镇魂拳套
+'zhen'hun'tai'dao 镇魂太刀
+'zhen'hun'zhan'fu 镇魂战斧

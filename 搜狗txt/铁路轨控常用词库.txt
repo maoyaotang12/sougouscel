@@ -1,0 +1,9 @@
+'che'zai'shi'huang'che'yi 车载式晃车仪
+'dong'jian'che 动检车
+'gui'kong 轨控
+'san'jiao'keng 三角坑
+'shui'ping 水平
+'you'gao'di 右高低
+'you'gui'xiang 右轨向
+'zuo'gao'di 左高低
+'zuo'gui'xiang 左轨向

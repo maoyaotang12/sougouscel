@@ -1,0 +1,5 @@
+'lei'xing'can'shu'lie'biao 类型参数列表
+'ren'gong'zhi'hui'yu'yan 人工智慧语言
+'ri'zhi'wen'jian'xi'tong 日志文件系统
+'tu'ceng'nei'rong'xuan'xiang 图层内容选项
+'zi'dong'wen'jian'fen'lei 自动文件分类

@@ -1,0 +1,6 @@
+'fan'she'lv 反射率
+'guang'xian'guang'pu'yi 光纤光谱仪
+'jin'hong'wai'guang'pu'yi 近红外光谱仪
+'ke'jian'guang 可见光
+'tou'she'lv 透射率
+'xi'guang'du 吸光度

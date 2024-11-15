@@ -1,0 +1,5 @@
+'dian'zi'ci'hui'shuo'ming 电子词汇说明
+'jian'ti'zhong'wen'han'zi 简体中文汉子
+'shou'ji'ying'yong'ming'cheng 手机应用名称
+'wang'luo'ying'yong'xia'zai 网络应用下载
+'wen'jian'bian'ji'jiao'cheng 文件编辑教程

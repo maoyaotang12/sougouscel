@@ -1,0 +1,9 @@
+'fa'gui 法规
+'fa'lv 法律
+'lv'shi 律师
+'min'shang 民商
+'sheng'gao'ji'ren'min'fa'yuan 省高级人民法院
+'shi'zhong'ji'ren'min'fa'yuan 市中级人民法院
+'si'fa 司法
+'si'fa'jie'shi 司法解释
+'zui'gao'ren'min'fa'yuan 最高人民法院

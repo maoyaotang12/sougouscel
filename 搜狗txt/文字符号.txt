@@ -1,0 +1,9 @@
+'dian'hua 电话
+'tai'yang 太阳
+'yin'fu 音符
+'you'shang 右上
+'you'xia 右下
+'yu'san 雨伞
+'yue'liang 月亮
+'zuo'shang 左上
+'zuo'xia 左下

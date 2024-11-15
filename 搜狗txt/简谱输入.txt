@@ -1,0 +1,6 @@
+'di'yin 低音
+'fan'fu'fu'hao 反复符号
+'gao'yin 高音
+'lian'yin'fu'hao 连音符号
+'xiao'jie'xian 小节线
+'zhong'zhi'fu 终止符

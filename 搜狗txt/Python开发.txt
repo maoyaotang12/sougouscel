@@ -1,0 +1,13 @@
+'duo'tai 多态
+'feng'zhuang 封装
+'gou'zao'han'shu 构造函数
+'ji'cheng 继承
+'ju'ming'yuan'zu 具名元组
+'lei'shu'xing 类属性
+'lei'xing'ti'shi 类型提示
+'lie'biao 列表
+'qie'pian 切片
+'shu'zu 数组
+'xu'lie 序列
+'ya'zi'lei'xing 鸭子类型
+'yuan'zu 元组

@@ -1,0 +1,6 @@
+'fang'shou'dui'yuan 防守队员
+'jin'gong'dui'yuan 进攻队员
+'kai'jiao 开角
+'qin'ren'fan'gui 侵人犯规
+'wei'ti'fan'gui 违体犯规
+'yuan'zhu'ti 圆柱体

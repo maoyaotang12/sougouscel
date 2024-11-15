@@ -1,0 +1,7 @@
+'ban'sui'fa 伴随法
+'mo'tai'die'jia'fa 模态叠加法
+'shi'yu'xian'shi'fa 时域显式法
+'shi'yu'xian'shi'mo'ni'fa 时域显式模拟法
+'shi'yu'xian'shi'zhi'jie'fa 时域显式直接法
+'xian'shi'fa 显式法
+'zhen'xing'jia'su'du'fa 阵型加速度法

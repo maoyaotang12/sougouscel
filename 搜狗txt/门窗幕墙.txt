@@ -1,0 +1,5 @@
+'gong'neng'kuai 功能块
+'jian'zhu'men'chuang'mu'qiang 建筑门窗幕墙
+'lv'dan'ban 铝单板
+'lv'su'ban 铝塑板
+'lv'su'fu'he'ban 铝塑复合板

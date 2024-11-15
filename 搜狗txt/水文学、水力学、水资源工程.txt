@@ -1,0 +1,15 @@
+'chan'liu 产流
+'da'xun'huan 大循环
+'di'biao'jing'liu 地表径流
+'hui'liu 汇流
+'jiang'shui'li'shi 降水历时
+'liu'yu'huo'qu'yu'shui'wen'xun'huan 流域或区域水文循环
+'rang'zhong'liu 壤中流
+'shui'liang'ping'heng'fang'cheng 水量平衡方程
+'shui'ping'heng 水平衡
+'shui'wen'xu'lie 水文序列
+'shui'wen'xun'huan 水文循环
+'sui'ji'shui'wen 随机水文
+'xi'tong'shui'wen'xun'huan 系统水文循环
+'xiao'xun'huan 小循环
+'yu'qiang 雨强

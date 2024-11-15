@@ -1,0 +1,5 @@
+'fu'wu'qi'duan 服务器端
+'ke'hu'duan 客户端
+'qian'duan 前端
+'shu'ju'ku 数据库
+'wei'xin 微信

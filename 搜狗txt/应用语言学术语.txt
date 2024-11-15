@@ -1,0 +1,6 @@
+'bing'li'yu'yan'xue 病理语言学
+'ji'suan'yu'yan'xue 计算语言学
+'she'hui'yu'yan'xue 社会语言学
+'shen'jing'yu'yan'xue 神经语言学
+'shu'li'yu'yan'xue 数理语言学
+'tong'ji'yu'yan'xue 统计语言学

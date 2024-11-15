@@ -1,0 +1,5 @@
+'cha'lang'hei'cha'yin 茶浪嘿茶饮
+'cha'lang'hei'gu'fa'nai'cha 茶浪嘿古法奶茶
+'cha'lang'hei'gu'fa'xian'wei'nai'cha 茶浪嘿古法咸味奶茶
+'cha'lang'hei'nai'gai'cha 茶浪嘿奶盖茶
+'cha'lang'hei'xian'guo'cha 茶浪嘿鲜果茶

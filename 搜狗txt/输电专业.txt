@@ -1,0 +1,17 @@
+'fen'xian'ping'gu 分险评估
+'jin'ju 金具
+'jun'ya'huan 均压环
+'lian'ban 联板
+'san'jiao'lian'ban 三角联板
+'she'bei'shou'ce 设备手册
+'sheng'chan'guan'li'xi'tong 生产管理系统
+'shu'bian'dian 输变电
+'ti'bao'xian'jia 提包线夹
+'wei'tuo'yun'xing 委托运行
+'xing'gua'huan 型挂环
+'xing'luo'shuan 型螺栓
+'xuan'chui'xian'jia 悬垂线夹
+'zhi'cheng'ti 支撑体
+'zhi'jiao'gua'huan 直角挂环
+'zhuan'xiang'ping'jia 专项评价
+'zhuang'tai'jian'xiu 状态检修

@@ -1,0 +1,6 @@
+'lin'chuang'yong'yao 临床用药
+'lin'chuang'zhen'duan 临床诊断
+'nei'fen'mi 内分泌
+'shen'nei'ke 肾内科
+'sheng'hua'chang'gui 生化常规
+'xin'nei'ke 心内科

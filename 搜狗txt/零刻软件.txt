@@ -1,0 +1,5 @@
+'ling'ke'ji'qi'ren 零刻机器人
+'ling'ke'ruan'jian 零刻软件
+'ling'ke'ruan'jian'duo'kai'liu'lan'qi 零刻软件多开浏览器
+'ling'ke'ruan'jian'qun'kong'ban 零刻软件群控板
+'qie'huan'dao'duo'kai'mo'shi 切换到多开模式

@@ -1,0 +1,9 @@
+'dai'lian'nei'rong 代练内容
+'dai'lian'shi'jian'wu'xu'tian'xie'ke'fu'tian'xie 代练时间无需填写客服填写
+'ding'dan'bian'hao'wu'xu'tian'xie'ke'fu'tian'xie 订单编号无需填写客服填写
+'jue'se'ming'cheng 角色名称
+'mu'qian'you'shen'me'che'che'gai'zhuang'le'duo'shao'ji 目前有什么车车改装了多少级
+'shou'ji'hao'ma 手机号码
+'you'xi'mi'ma 游戏密码
+'you'xi'ming'cheng'pao'pao'ka'ding'che'shou'you 游戏名称跑跑卡丁车手游
+'you'xi'zhang'hao 游戏账号

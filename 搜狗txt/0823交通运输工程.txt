@@ -1,0 +1,14 @@
+'chao'gao 超高
+'chong'tu'dian 冲突点
+'guan'jian'che'liu 关键车流
+'hou'bu'chang'shi'jian 后补偿时间
+'hou'sun'shi'shi'jian 后损失时间
+'hui'che'shi'ju 会车视距
+'lv'deng'jian'ge'shi'jian 绿灯间隔时间
+'lv'xin'bi 绿信比
+'qian'sun'shi'shi'jian 前损失时间
+'ting'che'shi'ju 停车视距
+'xian'zhi'che'su 限制车速
+'xin'hao'zhou'qi 信号周期
+'you'xiao'lv'deng'shi'jian 有效绿灯时间
+'zui'duan'lv'deng'xian'shi'shi'jian 最短绿灯显示时间

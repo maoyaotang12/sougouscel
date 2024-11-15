@@ -1,0 +1,16 @@
+'chang'shi'jian'mei'you'deng'lu 长时间没有登录
+'deng'lu'kong'jian'chu'cuo 登录控件出错
+'deng'lu'nei'bu'cuo'wu 登录内部错误
+'gou'zi'zhu'ru'xing'wei 钩子注入行为
+'guan'jia'an'zhuang'chan'sheng'hen'duo'la'ji 管家安装产生很多垃圾
+'jia'su'yi'zhi'wu'fa'wan'cheng 加速一直无法完成
+'kai'ji'jin'yong'wu'xiao 开机禁用无效
+'kai'ji'shi'jian'man 开机时间慢
+'kai'ji'shi'jian'xian'shi 开机时间显示
+'kun'bang'le'guan'jia 捆绑了管家
+'pan'fu'wu'fa'an'zhuang'guan'jia 盘符无法安装管家
+'ruan'jian'ban'jia 软件搬家
+'ruan'jian'xian'zhi'ce'lue'de'zu'zhi 软件限制策略的阻止
+'zhang'hao'deng'lu'shi'bai 账号登录失败
+'zi'dong'guan'lian 自动关联
+'zu'zhi'le'yi'ci'zhu'ru'xing'wei 阻止了一次注入行为

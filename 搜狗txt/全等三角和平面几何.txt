@@ -1,0 +1,12 @@
+'bian'bian'bian'ding'li 边边边定理
+'bian'jiao'bian'ding'li 边角边定理
+'dui'ying'bian 对应边
+'dui'ying'ding'dian 对应顶点
+'dui'ying'jiao 对应角
+'dui'ying'xiang'deng 对应相等
+'jiao'bian'jiao'ding'li 角边角定理
+'jiao'jiao'bian'ding'li 角角边定理
+'quan'deng 全等
+'quan'deng'san'jiao'xing 全等三角形
+'quan'deng'xing 全等形
+'xie'bian'zhi'jiao'bian'ding'li 斜边直角边定理

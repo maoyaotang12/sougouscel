@@ -1,0 +1,8 @@
+'di'li 地理
+'hua'xue 化学
+'jun'shi 军事
+'ke'xue 科学
+'li'shi 历史
+'tian'wen 天文
+'wen'xue 文学
+'wu'li 物理

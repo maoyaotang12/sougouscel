@@ -1,0 +1,5 @@
+'chuang'jian'qiu'dui 创建球队
+'ji'shu'tong'ji 技术统计
+'sheng'ya'shu'ju 生涯数据
+'yu'ding'cai'pan 预订裁判
+'yu'ding'chang'di 预订场地

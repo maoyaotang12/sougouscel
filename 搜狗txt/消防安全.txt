@@ -1,0 +1,5 @@
+'fang'huo'fen'ge 防火分隔
+'fang'huo'jian'ju 防火间距
+'fang'huo'juan'lian 防火卷帘
+'fang'huo'tiao'yan 防火挑檐
+'zi'dong'pen'shui'mie'huo'xi'tong 自动喷水灭火系统

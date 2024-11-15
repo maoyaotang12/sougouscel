@@ -1,0 +1,9 @@
+'dao'gan 导杆
+'dao'gan'zhi'zuo 导杆支座
+'ding'chu'ban 顶出板
+'er'ban 二板
+'hou'ban 后板
+'qian'ban 前板
+'tou'ban 头板
+'tui'li'zuo 推力座
+'wei'ban 尾板

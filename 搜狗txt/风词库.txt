@@ -1,0 +1,8 @@
+'da'feng 大风
+'ju'feng 飓风
+'long'juan'feng 龙卷风
+'qing'feng 清风
+'tai'feng 台风
+'wu'feng 无风
+'xiao'feng 小风
+'xuan'feng 旋风

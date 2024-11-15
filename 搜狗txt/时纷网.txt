@@ -1,0 +1,9 @@
+'bin'fen 缤纷
+'dian'shang 电商
+'fu'zhuang'pin'pai 服装品牌
+'hu'lian'wang 互联网
+'ping'tai 平台
+'she'ji'shi 设计师
+'shi'shang 时尚
+'shi'zhuang'zhou 时装周
+'wang'zhan 网站

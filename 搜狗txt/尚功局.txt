@@ -1,0 +1,6 @@
+'shang'fu'ju 尚服局
+'shang'gong'ju 尚功局
+'shang'gong'ju 尚宫局
+'shang'qin'ju 尚寝局
+'shang'shi'ju 尚食局
+'shang'yi'ju 尚仪局

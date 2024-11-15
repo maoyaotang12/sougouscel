@@ -1,0 +1,16 @@
+'fan'qie 反切
+'shang'yang'ru 上阳入
+'shang'yin'ru 上阴入
+'xia'yang'ru 下阳入
+'xia'yin'ru 下阴入
+'yang'ping 阳平
+'yang'qu 阳去
+'yang'shang 阳上
+'yi'ruo 义若
+'yin'ping 阴平
+'yin'qu 阴去
+'yin'ruo 音若
+'yin'shang 阴上
+'you'yin 又音
+'you'zuo 又作
+'zhi'yin 直音

@@ -1,0 +1,14 @@
+'bao'zheng'jin 保证金
+'da'lian'shang'pin'jiao'yi'suo 大连商品交易所
+'duo'tou 多头
+'ji'ben'mian 基本面
+'ji'shu'zhi'biao 技术指标
+'kong'tou 空头
+'qi'huo 期货
+'shang'hai'qi'huo'jiao'yi'suo 上海期货交易所
+'shang'zhang 上涨
+'shou'xu'fei 手续费
+'tou'cun 头寸
+'xia'die 下跌
+'xing'tai 形态
+'zheng'zhou'shang'pin'jiao'yi'suo 郑州商品交易所

@@ -1,0 +1,17 @@
+'an'quan'guan'li'zhuan'ye 安全管理专业
+'an'quan'zhi'liang'biao'zhun'hua 安全质量标准化
+'cai'mei'zhuan'ye 采煤专业
+'di'ce'fang'zhi'shui'zhuan'ye 地测防治水专业
+'di'mian'she'shi'zhuan'ye 地面设施专业
+'diao'du'zhuan'ye 调度专业
+'er'ji'biao'zhun 二级标准
+'ji'dian'zhuan'ye 机电专业
+'jue'jin'zhuan'ye 掘进专业
+'san'ji'biao'zhun 三级标准
+'tong'feng'zhuan'ye 通风专业
+'wei'da'biao 未达标
+'xian'dai'hua'kuang'jing 现代化矿井
+'yi'ji'biao'zhun 一级标准
+'ying'ji'jiu'yuan'zhuan'ye 应急救援专业
+'yun'shu'zhuan'ye 运输专业
+'zhi'ye'wei'sheng'zhuan'ye 职业卫生专业

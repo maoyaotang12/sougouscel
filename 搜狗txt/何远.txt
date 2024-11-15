@@ -1,0 +1,5 @@
+'bian'yi 编译
+'chu'li 处理
+'kai'fa 开发
+'she'ji 设计
+'zhi'xing 执行

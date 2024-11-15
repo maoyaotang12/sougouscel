@@ -1,0 +1,8 @@
+'chuo'zou 戳走
+'dian'zou 点走
+'fu'zhi 复制
+'ji'bai 击败
+'mai'zou 买走
+'na'zou 拿走
+'qu'diao 去掉
+'xia'zai 下载

@@ -1,0 +1,5 @@
+'ci'fang 次方
+'fang'cheng 方程
+'han'shu 函数
+'li'fang 立方
+'ping'fang 平方

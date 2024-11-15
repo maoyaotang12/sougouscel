@@ -1,0 +1,5 @@
+'dan'xia'di'mao 丹霞地貌
+'ka'si'te'di'mao 喀斯特地貌
+'rong'yan'di'mao 熔岩地貌
+'shi'hui'yan'di'mao 石灰岩地貌
+'ya'dan'di'mao 雅丹地貌

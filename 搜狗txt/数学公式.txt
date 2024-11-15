@@ -1,0 +1,5 @@
+'chang'fang'xing'mian'ji'chang'kuan 长方形面积长宽
+'chang'fang'xing'zhou'chang'chang'kuan 长方形周长长宽
+'san'jiao'xing'mian'ji'di'gao 三角形面积底高
+'zheng'fang'xing'mian'ji'bian'chang'bian'chang 正方形面积边长边长
+'zheng'fang'xing'zhou'chang'bian'chang 正方形周长边长

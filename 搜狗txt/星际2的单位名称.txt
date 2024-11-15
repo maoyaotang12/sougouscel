@@ -1,0 +1,10 @@
+'ci'she 刺蛇
+'du'bao 毒爆
+'fei'long 飞龙
+'fei'she 飞蛇
+'gou'du'bao 狗毒爆
+'huan'jia 换家
+'huo'zhang'lang 火蟑螂
+'ti'su'gou 提速狗
+'wang'chong 王虫
+'yan'chong 眼虫

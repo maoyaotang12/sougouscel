@@ -1,0 +1,15 @@
+'fen'chen'yi 粉尘仪
+'gan'hui 干灰
+'gan'zha'ji 干渣机
+'guo'zha 锅渣
+'hui'chang 灰场
+'hui'ku 灰库
+'lu'di'zha 炉底渣
+'pen'lin'beng 喷淋泵
+'qian'shui'beng 潜水泵
+'san'zhuang'tou 散装头
+'shi'shi'dian'chu'chen 湿式电除尘
+'tiao'shi'hui 调湿灰
+'tiao'shi'ji 调湿机
+'ying'ji'hui'chang 应急灰场
+'zheng'ya'shu'hui 正压输灰

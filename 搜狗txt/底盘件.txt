@@ -1,0 +1,10 @@
+'chen'tao 衬套
+'hou'jian'zhen 后减震
+'jiao'tao 胶套
+'qian'jian'zhen 前减震
+'shang'qiu'tou 上球头
+'shang'xuan'gua 上悬挂
+'shang'xuan'gua'jiao'tao 上悬挂胶套
+'xia'qiu'tou 下球头
+'xia'xuan'gua 下悬挂
+'xia'xuan'gua'jiao'tao 下悬挂胶套

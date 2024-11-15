@@ -1,0 +1,10 @@
+'chou'xiang 抽象
+'dui'xiang 对象
+'fu'lei 父类
+'ji'ben'lei'xing 基本类型
+'jie'kou 接口
+'qiang'zhi'zhuan'huan 强制转换
+'xiang'shang'zhuan'xing 向上转型
+'zhuan'xing 转型
+'zi'jie 字节
+'zi'lei 子类

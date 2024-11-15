@@ -1,0 +1,12 @@
+'dan'pian'ji 单片机
+'dian'gan 电感
+'dian'kang 电抗
+'dian'rong 电容
+'dian'zu 电阻
+'jing'ti'zhen'dang'qi 晶体振荡器
+'jing'zhen 晶振
+'mo'ni'kou 模拟口
+'mo'ni'shu'chu 模拟输出
+'mo'ni'shu'ru 模拟输入
+'shu'chu 输出
+'shu'zi'kou 数字口

@@ -1,0 +1,10 @@
+'che'pai'shi'bie 车牌识别
+'ming'pian'shi'bie 名片识别
+'shen'fen'zheng'shi'bie 身份证识别
+'shi'bie 识别
+'shi'bie'ji'shu 识别技术
+'tu'wen'shi'bie 图文识别
+'tu'xiang'shi'bie 图像识别
+'wen'dang'shi'bie 文档识别
+'yin'hang'ka'shi'bie 银行卡识别
+'zheng'jian'shi'bie 证件识别
