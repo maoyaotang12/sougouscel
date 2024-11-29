@@ -1,5 +1,0 @@
-矿机	kuang'ji	0
-链变矿机	lian'bian'kuang'ji	0
-星际	xing'ji	0
-星际魔方	xing'ji'mo'fang	0
-星际魔方矿机	xing'ji'mo'fang'kuang'ji	0

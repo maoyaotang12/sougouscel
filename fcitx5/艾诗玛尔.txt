@@ -1,5 +1,0 @@
-激光术后	ji'guang'shu'hou	0
-修复因子	xiu'fu'yin'zi	0
-药妆	yao'zhuang	0
-医疗美容术后	yi'liao'mei'rong'shu'hou	0
-医学护肤品	yi'xue'hu'fu'pin	0

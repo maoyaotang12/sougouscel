@@ -1,7 +1,0 @@
-代理词	dai'li'ci	0
-代理合同	dai'li'he'tong	0
-律师事务所接受本案委托	lv'shi'shi'wu'suo'jie'shou'ben'an'wei'tuo	0
-审判长审判员	shen'pan'zhang'shen'pan'yuan	0
-现在我发表代理意见如下	xian'zai'wo'fa'biao'dai'li'yi'jian'ru'xia	0
-依据民事诉讼法第五十八条规定	yi'ju'min'shi'su'song'fa'di'wu'shi'ba'tiao'gui'ding	0
-指派我出庭参加诉讼	zhi'pai'wo'chu'ting'can'jia'su'song	0

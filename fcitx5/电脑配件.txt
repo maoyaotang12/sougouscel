@@ -1,5 +1,0 @@
-传出神经	chuan'chu'shen'jing	0
-传入神经	chuan'ru'shen'jing	0
-神经病学	shen'jing'bing'xue	0
-神经元	shen'jing'yuan	0
-乙酰胆碱	yi'xian'dan'jian	0

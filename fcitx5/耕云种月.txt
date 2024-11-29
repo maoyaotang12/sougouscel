@@ -1,6 +1,0 @@
-耕云种月	geng'yun'zhong'yue	0
-月种云耕	yue'zhong'yun'geng	0
-云耕月种	yun'geng'yue'zhong	0
-云间种月	yun'jian'zhong'yue	0
-云田种月	yun'tian'zhong'yue	0
-种月耕云	zhong'yue'geng'yun	0

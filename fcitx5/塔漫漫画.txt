@@ -1,7 +1,0 @@
-顶通	ding'tong	0
-韩国漫画	han'guo'man'hua	0
-漫画	man'hua	0
-日韩漫画	ri'han'man'hua	0
-塔漫	ta'man	0
-塔漫漫画	ta'man'man'hua	0
-污漫画	wu'man'hua	0

@@ -1,6 +1,0 @@
-临床用药	lin'chuang'yong'yao	0
-临床诊断	lin'chuang'zhen'duan	0
-内分泌	nei'fen'mi	0
-肾内科	shen'nei'ke	0
-生化常规	sheng'hua'chang'gui	0
-心内科	xin'nei'ke	0

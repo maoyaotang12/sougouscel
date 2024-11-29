@@ -1,9 +1,0 @@
-阿里巴巴	a'li'ba'ba	0
-到账没	dao'zhang'mei	0
-零售通	ling'shou'tong	0
-没货了	mei'huo'le	0
-门店	men'dian	0
-实体店	shi'ti'dian	0
-未来之窗	wei'lai'zhi'chuang	0
-新零售	xin'ling'shou	0
-支付宝账户	zhi'fu'bao'zhang'hu	0

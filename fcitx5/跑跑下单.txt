@@ -1,9 +1,0 @@
-代练内容	dai'lian'nei'rong	0
-代练时间无需填写客服填写	dai'lian'shi'jian'wu'xu'tian'xie'ke'fu'tian'xie	0
-订单编号无需填写客服填写	ding'dan'bian'hao'wu'xu'tian'xie'ke'fu'tian'xie	0
-角色名称	jue'se'ming'cheng	0
-目前有什么车车改装了多少级	mu'qian'you'shen'me'che'che'gai'zhuang'le'duo'shao'ji	0
-手机号码	shou'ji'hao'ma	0
-游戏密码	you'xi'mi'ma	0
-游戏名称跑跑卡丁车手游	you'xi'ming'cheng'pao'pao'ka'ding'che'shou'you	0
-游戏账号	you'xi'zhang'hao	0

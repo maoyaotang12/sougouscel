@@ -1,6 +1,0 @@
-编程	bian'cheng	0
-变量	bian'liang	0
-常量	chang'liang	0
-程序	cheng'xu	0
-开发	kai'fa	0
-事物	shi'wu	0

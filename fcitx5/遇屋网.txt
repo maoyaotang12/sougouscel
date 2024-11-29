@@ -1,5 +1,0 @@
-房产交易	fang'chan'jiao'yi	0
-房产直买	fang'chan'zhi'mai	0
-房产直卖	fang'chan'zhi'mai	0
-遇屋	yu'wu	0
-遇屋网	yu'wu'wang	0

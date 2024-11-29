@@ -1,6 +1,0 @@
-车名	che'ming	0
-车型	che'xing	0
-名称	ming'cheng	0
-汽车	qi'che	0
-硬派	ying'pai	0
-越野	yue'ye	0

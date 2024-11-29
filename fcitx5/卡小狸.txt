@@ -1,5 +1,0 @@
-电商	dian'shang	0
-卡狐狸	ka'hu'li	0
-卡小狸	ka'xiao'li	0
-礼品卡	li'pin'ka	0
-预付卡	yu'fu'ka	0

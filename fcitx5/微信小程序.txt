@@ -1,5 +1,0 @@
-即速	ji'su	0
-即速应用	ji'su'ying'yong	0
-微信小程序	wei'xin'xiao'cheng'xu	0
-微信应用号	wei'xin'ying'yong'hao	0
-小程序	xiao'cheng'xu	0

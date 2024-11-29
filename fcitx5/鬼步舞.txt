@@ -1,7 +1,0 @@
-鬼步	gui'bu	0
-鬼步舞	gui'bu'wu	0
-鬼狼鬼步舞	gui'lang'gui'bu'wu	0
-墨尔本鬼步舞	mo'er'ben'gui'bu'wu	0
-墨尔本曳步舞	mo'er'ben'ye'bu'wu	0
-曳舞	ye'wu	0
-曳舞王国	ye'wu'wang'guo	0

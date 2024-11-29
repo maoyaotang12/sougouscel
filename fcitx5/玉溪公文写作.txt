@@ -1,7 +1,0 @@
-科技信息化委员会	ke'ji'xin'xi'hua'wei'yuan'hui	0
-科技信息化支队	ke'ji'xin'xi'hua'zhi'dui	0
-网络安全管理支队	wang'luo'an'quan'guan'li'zhi'dui	0
-玉溪市公安局	yu'xi'shi'gong'an'ju	0
-玉溪市公安局警令部	yu'xi'shi'gong'an'ju'jing'ling'bu	0
-玉溪市公安局政治部	yu'xi'shi'gong'an'ju'zheng'zhi'bu	0
-治安管理支队	zhi'an'guan'li'zhi'dui	0

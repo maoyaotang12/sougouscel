@@ -1,9 +1,0 @@
-合肥鹏派	he'fei'peng'pai	0
-合肥鹏派网络	he'fei'peng'pai'wang'luo	0
-合肥鹏派网络技术有限公司	he'fei'peng'pai'wang'luo'ji'shu'you'xian'gong'si	0
-鹏派	peng'pai	0
-鹏派棋牌开发	peng'pai'qi'pai'kai'fa	0
-鹏派棋牌游戏开发	peng'pai'qi'pai'you'xi'kai'fa	0
-鹏派手游开发	peng'pai'shou'you'kai'fa	0
-鹏派游戏	peng'pai'you'xi	0
-鹏派游戏开发	peng'pai'you'xi'kai'fa	0

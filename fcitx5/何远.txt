@@ -1,5 +1,0 @@
-编译	bian'yi	0
-处理	chu'li	0
-开发	kai'fa	0
-设计	she'ji	0
-执行	zhi'xing	0

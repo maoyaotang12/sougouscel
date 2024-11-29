@@ -1,9 +1,0 @@
-动态聚类	dong'tai'ju'lei	0
-共轭先验	gong'e'xian'yan	0
-机器学习	ji'qi'xue'xi	0
-离散聚类	li'san'ju'lei	0
-无限离散	wu'xian'li'san	0
-学习	xue'xi	0
-在线聚类	zai'xian'ju'lei	0
-智能算法	zhi'neng'suan'fa	0
-最大熵学习	zui'da'shang'xue'xi	0

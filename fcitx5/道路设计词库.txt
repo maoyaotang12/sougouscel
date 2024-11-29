@@ -1,8 +1,0 @@
-戴帽	dai'mao	0
-放坡	fang'po	0
-拉坡	la'po	0
-平曲线	ping'qu'xian	0
-设计速度	she'ji'su'du	0
-竖曲线	shu'qu'xian	0
-匝道	za'dao	0
-纵断面	zong'duan'mian	0

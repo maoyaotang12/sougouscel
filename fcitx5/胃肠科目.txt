@@ -1,6 +1,0 @@
-内科	nei'ke	0
-十二指肠炎	shi'er'zhi'chang'yan	0
-胃病科目	wei'bing'ke'mu	0
-胃出血	wei'chu'xie	0
-胃疼胃酸	wei'teng'wei'suan	0
-胃胀	wei'zhang	0

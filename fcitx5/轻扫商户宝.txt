@@ -1,6 +1,0 @@
-轻扫商户宝	qing'sao'shang'hu'bao	0
-轻扫商户宝地址	qing'sao'shang'hu'bao'di'zhi	0
-轻扫商户宝份额	qing'sao'shang'hu'bao'fen'e	0
-轻扫商户宝集团	qing'sao'shang'hu'bao'ji'tuan	0
-轻扫商户宝品牌	qing'sao'shang'hu'bao'pin'pai	0
-轻扫商户宝融资	qing'sao'shang'hu'bao'rong'zi	0

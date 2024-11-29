@@ -1,7 +1,0 @@
-半桥	ban'qiao	0
-变换器	bian'huan'qi	0
-反激	fan'ji	0
-全桥	quan'qiao	0
-推挽	tui'wan	0
-线径	xian'jing	0
-正激	zheng'ji	0

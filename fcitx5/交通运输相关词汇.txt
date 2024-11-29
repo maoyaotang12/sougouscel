@@ -1,5 +1,0 @@
-道路货物运输	dao'lu'huo'wu'yun'shu	0
-道路旅客运输	dao'lu'lv'ke'yun'shu	0
-道路运输	dao'lu'yun'shu	0
-交通运输	jiao'tong'yun'shu	0
-中华人民共和国交通运输部	zhong'hua'ren'min'gong'he'guo'jiao'tong'yun'shu'bu	0

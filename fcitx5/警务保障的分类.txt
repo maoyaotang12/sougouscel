@@ -1,8 +1,0 @@
-公安被装保障	gong'an'bei'zhuang'bao'zhang	0
-公安后勤保障	gong'an'hou'qin'bao'zhang	0
-公安基建保障	gong'an'ji'jian'bao'zhang	0
-公安经费保障	gong'an'jing'fei'bao'zhang	0
-公安应急保障	gong'an'ying'ji'bao'zhang	0
-公安政府采购	gong'an'zheng'fu'cai'gou	0
-公安装备保障	gong'an'zhuang'bei'bao'zhang	0
-公安资产保障	gong'an'zi'chan'bao'zhang	0

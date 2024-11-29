@@ -1,6 +1,0 @@
-成型机	cheng'xing'ji	0
-辊压成型机	gun'ya'cheng'xing'ji	0
-冷弯成型机	leng'wan'cheng'xing'ji	0
-伺服切割	si'fu'qie'ge	0
-液压	ye'ya	0
-液压泵站	ye'ya'beng'zhan	0

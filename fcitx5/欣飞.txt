@@ -1,7 +1,0 @@
-阿根廷美食	a'gen'ting'mei'shi	0
-澳大利亚美食	ao'da'li'ya'mei'shi	0
-美国美食	mei'guo'mei'shi	0
-南非美食	nan'fei'mei'shi	0
-西方美食	xi'fang'mei'shi	0
-英国美食	ying'guo'mei'shi	0
-中国美食	zhong'guo'mei'shi	0

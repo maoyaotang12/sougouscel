@@ -1,7 +1,0 @@
-家庭环保工程	jia'ting'huan'bao'gong'cheng	0
-家庭生态	jia'ting'sheng'tai	0
-家庭生态养生	jia'ting'sheng'tai'yang'sheng	0
-生态	sheng'tai	0
-生态家	sheng'tai'jia	0
-生态养生	sheng'tai'yang'sheng	0
-中脉生态家	zhong'mai'sheng'tai'jia	0

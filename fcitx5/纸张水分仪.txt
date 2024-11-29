@@ -1,6 +1,0 @@
-纸板水分仪	zhi'ban'shui'fen'yi	0
-纸张水分测定仪	zhi'zhang'shui'fen'ce'ding'yi	0
-纸张水分测量仪	zhi'zhang'shui'fen'ce'liang'yi	0
-纸张水分测试仪	zhi'zhang'shui'fen'ce'shi'yi	0
-纸张水分检测仪	zhi'zhang'shui'fen'jian'ce'yi	0
-纸张水分仪	zhi'zhang'shui'fen'yi	0

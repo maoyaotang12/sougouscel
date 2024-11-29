@@ -1,5 +1,0 @@
-单梁	dan'liang	0
-单柱	dan'zhu	0
-框架柱	kuang'jia'zhu	0
-条形基础	tiao'xing'ji'chu	0
-有梁板	you'liang'ban	0

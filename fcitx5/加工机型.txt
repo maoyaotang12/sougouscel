@@ -1,9 +1,0 @@
-导杆	dao'gan	0
-导杆支座	dao'gan'zhi'zuo	0
-顶出板	ding'chu'ban	0
-二板	er'ban	0
-后板	hou'ban	0
-前板	qian'ban	0
-头板	tou'ban	0
-推力座	tui'li'zuo	0
-尾板	wei'ban	0

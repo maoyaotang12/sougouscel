@@ -1,5 +1,0 @@
-大三和弦	da'san'he'xian	0
-和弦	he'xian	0
-减七和弦	jian'qi'he'xian	0
-小三和弦	xiao'san'he'xian	0
-增三和弦	zeng'san'he'xian	0

@@ -1,9 +1,0 @@
-壁薄	bi'bo	0
-后壁效应增强	hou'bi'xiao'ying'zeng'qiang	0
-囊肿	nang'zhong	0
-强回声光团	qiang'hui'sheng'guang'tuan	0
-声影	sheng'ying	0
-无回声	wu'hui'sheng	0
-血管瘤	xue'guan'liu	0
-主动脉瓣钙化	zhu'dong'mai'ban'gai'hua	0
-主动脉硬化	zhu'dong'mai'ying'hua	0

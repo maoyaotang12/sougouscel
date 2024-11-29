@@ -1,6 +1,0 @@
-精矿	jing'kuang	0
-精砂	jing'sha	0
-螺旋分级机	luo'xuan'fen'ji'ji	0
-球磨机	qiu'mo'ji	0
-尾砂	wei'sha	0
-真空过滤机	zhen'kong'guo'lv'ji	0

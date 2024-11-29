@@ -1,5 +1,0 @@
-暴风雪	bao'feng'xue	0
-多云	duo'yun	0
-气息	qi'xi	0
-台风	tai'feng	0
-雨夹雪	yu'jia'xue	0

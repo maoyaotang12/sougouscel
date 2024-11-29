@@ -1,5 +1,0 @@
-发电机	fa'dian'ji	0
-汽机	qi'ji	0
-汽轮发电机	qi'lun'fa'dian'ji	0
-汽轮机	qi'lun'ji	0
-小机	xiao'ji	0

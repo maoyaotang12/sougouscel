@@ -1,9 +1,0 @@
-板牙	ban'ya	0
-尺寸	chi'cun	0
-高度	gao'du	0
-公差	gong'cha	0
-攻牙	gong'ya	0
-计算机数值控制	ji'suan'ji'shu'zhi'kong'zhi	0
-螺纹	luo'wen	0
-丝攻	si'gong	0
-直径	zhi'jing	0

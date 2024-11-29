@@ -1,7 +1,0 @@
-变量	bian'liang	0
-参数	can'shu	0
-调用	diao'yong	0
-方法	fang'fa	0
-继承	ji'cheng	0
-接口	jie'kou	0
-原因	yuan'yin	0

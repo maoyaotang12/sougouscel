@@ -1,6 +1,0 @@
-白色乳胶漆	bai'se'ru'jiao'qi	0
-防水乳胶漆	fang'shui'ru'jiao'qi	0
-黑钢	hei'gang	0
-灰色乳胶漆	hui'se'ru'jiao'qi	0
-拉丝不锈钢	la'si'bu'xiu'gang	0
-云多拉灰	yun'duo'la'hui	0

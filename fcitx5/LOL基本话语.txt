@@ -1,5 +1,0 @@
-打野	da'ye	0
-可单	ke'dan	0
-上单	shang'dan	0
-下单	xia'dan	0
-中单	zhong'dan	0

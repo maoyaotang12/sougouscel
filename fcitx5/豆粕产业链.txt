@@ -1,6 +1,0 @@
-豆粕点价	dou'po'dian'jia	0
-豆粕基差	dou'po'ji'cha	0
-豆粕价格	dou'po'jia'ge	0
-豆粕期货	dou'po'qi'huo	0
-豆粕现货	dou'po'xian'huo	0
-玛合雅	ma'he'ya	0

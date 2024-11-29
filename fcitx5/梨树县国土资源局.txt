@@ -1,5 +1,0 @@
-拆迁	chai'qian	0
-耕地保护	geng'di'bao'hu	0
-土地出让	tu'di'chu'rang	0
-土地划拨	tu'di'hua'bo	0
-土地征收	tu'di'zheng'shou	0

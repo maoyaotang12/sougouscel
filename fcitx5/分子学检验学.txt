@@ -1,9 +1,0 @@
-爱普益医学检验中心	ai'pu'yi'yi'xue'jian'yan'zhong'xin	0
-靶向用药	ba'xiang'yong'yao	0
-报告解读	bao'gao'jie'du	0
-错配修复	cuo'pei'xiu'fu	0
-检测申请单	jian'ce'shen'qing'dan	0
-检测意义	jian'ce'yi'yi	0
-适用人群	shi'yong'ren'qun	0
-质控体系	zhi'kong'ti'xi	0
-综合征	zong'he'zheng	0

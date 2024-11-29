@@ -1,9 +1,0 @@
-微宏物业管理	wei'hong'wu'ye'guan'li	0
-微宏智慧社区	wei'hong'zhi'hui'she'qu	0
-微宏智慧物业管理系统	wei'hong'zhi'hui'wu'ye'guan'li'xi'tong	0
-物业管理软件	wu'ye'guan'li'ruan'jian	0
-物业管理软件系统	wu'ye'guan'li'ruan'jian'xi'tong	0
-物业管理系统	wu'ye'guan'li'xi'tong	0
-物业软件	wu'ye'ruan'jian	0
-物业收费软件	wu'ye'shou'fei'ruan'jian	0
-智慧社区	zhi'hui'she'qu	0

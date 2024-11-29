@@ -1,7 +1,0 @@
-比热容	bi're'rong	0
-电能	dian'neng	0
-功率	gong'lv	0
-力的单位	li'de'dan'wei	0
-密度的单位	mi'du'de'dan'wei	0
-欧姆	ou'mu	0
-速度的单位	su'du'de'dan'wei	0

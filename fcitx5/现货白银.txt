@@ -1,7 +1,0 @@
-请问你现在做哪个盘面	qing'wen'ni'xian'zai'zuo'na'ge'pan'mian	0
-收益怎么样	shou'yi'zen'me'yang	0
-现货白银	xian'huo'bai'yin	0
-现货黄金	xian'huo'huang'jin	0
-现在跟进止损	xian'zai'gen'jin'zhi'sun	0
-现在挂单	xian'zai'gua'dan	0
-赚了现在卖掉	zhuan'le'xian'zai'mai'diao	0

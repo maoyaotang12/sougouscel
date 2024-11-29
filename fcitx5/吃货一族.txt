@@ -1,9 +1,0 @@
-冰激凌	bing'ji'ling	0
-重庆火锅	chong'qing'huo'guo	0
-鸡翅	ji'chi	0
-鸡腿	ji'tui	0
-柠檬水	ning'meng'shui	0
-烧烤	shao'kao	0
-薯片	shu'pian	0
-酸奶冰	suan'nai'bing	0
-炸酱面	zha'jiang'mian	0

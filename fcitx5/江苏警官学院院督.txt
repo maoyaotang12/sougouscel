@@ -1,6 +1,0 @@
-管理系二大队	guan'li'xi'er'da'dui	0
-管理系一大队	guan'li'xi'yi'da'dui	0
-侦查系二大队	zhen'cha'xi'er'da'dui	0
-侦查系一大队	zhen'cha'xi'yi'da'dui	0
-治安系二大队	zhi'an'xi'er'da'dui	0
-治安系一大队	zhi'an'xi'yi'da'dui	0

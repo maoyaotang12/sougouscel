@@ -1,5 +1,0 @@
-交通违章	jiao'tong'wei'zhang	0
-交通违章查询	jiao'tong'wei'zhang'cha'xun	0
-交通违章查询办理	jiao'tong'wei'zhang'cha'xun'ban'li	0
-交通违章查询处	jiao'tong'wei'zhang'cha'xun'chu	0
-交通违章查询地点	jiao'tong'wei'zhang'cha'xun'di'dian	0

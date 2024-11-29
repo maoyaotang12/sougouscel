@@ -1,5 +1,0 @@
-店铺	dian'pu	0
-行货	hang'huo	0
-淘宝	tao'bao	0
-正品	zheng'pin	0
-最低	zui'di	0

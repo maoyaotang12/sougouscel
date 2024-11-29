@@ -1,6 +1,0 @@
-尚服局	shang'fu'ju	0
-尚功局	shang'gong'ju	0
-尚宫局	shang'gong'ju	0
-尚寝局	shang'qin'ju	0
-尚食局	shang'shi'ju	0
-尚仪局	shang'yi'ju	0

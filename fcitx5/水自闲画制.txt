@@ -1,7 +1,0 @@
-插画	cha'hua	0
-绘画	hui'hua	0
-毛笔	mao'bi	0
-手工艺	shou'gong'yi	0
-水彩	shui'cai	0
-陶瓷	tao'ci	0
-文房	wen'fang	0

@@ -1,8 +1,0 @@
-工程项目	gong'cheng'xiang'mu	0
-混凝土圈梁	hun'ning'tu'quan'liang	0
-建设基地	jian'she'ji'di	0
-建设项目	jian'she'xiang'mu	0
-可行性研究报告	ke'xing'xing'yan'jiu'bao'gao	0
-设计文本	she'ji'wen'ben	0
-砼工程	tong'gong'cheng	0
-项目建议书	xiang'mu'jian'yi'shu	0

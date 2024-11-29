@@ -1,7 +1,0 @@
-五邑大学餐厅	wu'yi'da'xue'can'ting	0
-五邑大学实验楼	wu'yi'da'xue'shi'yan'lou	0
-五邑大学宿舍	wu'yi'da'xue'su'she	0
-五邑大学体育馆	wu'yi'da'xue'ti'yu'guan	0
-五邑大学图书馆	wu'yi'da'xue'tu'shu'guan	0
-五邑大学研究生楼	wu'yi'da'xue'yan'jiu'sheng'lou	0
-五邑大学主楼	wu'yi'da'xue'zhu'lou	0

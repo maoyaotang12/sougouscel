@@ -1,5 +1,0 @@
-卫计局	wei'ji'ju	0
-卫计委	wei'ji'wei	0
-卫生和计划生育局	wei'sheng'he'ji'hua'sheng'yu'ju	0
-卫生和计划生育局委员会	wei'sheng'he'ji'hua'sheng'yu'ju'wei'yuan'hui	0
-卫生和计划生育委员会委员会	wei'sheng'he'ji'hua'sheng'yu'wei'yuan'hui'wei'yuan'hui	0

@@ -1,6 +1,0 @@
-电脱盐罐	dian'tuo'yan'guan	0
-浮阀塔	fu'fa'ta	0
-辐射	fu'she	0
-脱盐	tuo'yan	0
-温度控制	wen'du'kong'zhi	0
-重质油	zhong'zhi'you	0

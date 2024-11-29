@@ -1,6 +1,0 @@
-右脚大指	you'jiao'da'zhi	0
-右脚指	you'jiao'zhi	0
-右指	you'zhi	0
-左脚大指	zuo'jiao'da'zhi	0
-左脚指	zuo'jiao'zhi	0
-左指	zuo'zhi	0

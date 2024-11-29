@@ -1,8 +1,0 @@
-幻术师	huan'shu'shi	0
-火占师	huo'zhan'shi	0
-奇术师	qi'shu'shi	0
-全知全能的钢铁侠大神	quan'zhi'quan'neng'de'gang'tie'xia'da'shen	0
-亡灵巫师	wang'ling'wu'shi	0
-巫术师	wu'shu'shi	0
-占卜师	zhan'bu'shi	0
-咒术师	zhou'shu'shi	0

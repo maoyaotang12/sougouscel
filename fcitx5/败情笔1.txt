@@ -1,9 +1,0 @@
-鼻塞	bi'se	0
-腹痛	fu'tong	0
-腹泻	fu'xie	0
-腹胀	fu'zhang	0
-关节疼痛	guan'jie'teng'tong	0
-关节肿痛	guan'jie'zhong'tong	0
-咳嗽	ke'sou	0
-扭伤	niu'shang	0
-牙痛	ya'tong	0

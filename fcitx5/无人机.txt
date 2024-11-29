@@ -1,8 +1,0 @@
-八旋翼	ba'xuan'yi	0
-单旋翼	dan'xuan'yi	0
-多旋翼	duo'xuan'yi	0
-固定翼	gu'ding'yi	0
-六旋翼	liu'xuan'yi	0
-扑翼	pu'yi	0
-四旋翼	si'xuan'yi	0
-无人机	wu'ren'ji	0

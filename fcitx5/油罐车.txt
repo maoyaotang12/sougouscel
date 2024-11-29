@@ -1,5 +1,0 @@
-东风吨油罐车	dong'feng'dun'you'guan'che	0
-东风天锦油罐车	dong'feng'tian'jin'you'guan'che	0
-东风天龙油罐车	dong'feng'tian'long'you'guan'che	0
-吨油罐车	dun'you'guan'che	0
-小油罐车	xiao'you'guan'che	0

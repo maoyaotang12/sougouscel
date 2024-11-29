@@ -1,5 +1,0 @@
-简鸽	jian'ge	0
-简鸽名片	jian'ge'ming'pian	0
-简鸽通讯录	jian'ge'tong'xun'lu	0
-简鸽移动名片	jian'ge'yi'dong'ming'pian	0
-移动名片	yi'dong'ming'pian	0

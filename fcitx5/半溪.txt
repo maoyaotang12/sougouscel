@@ -1,5 +1,0 @@
-安全	an'quan	0
-化妆品	hua'zhuang'pin	0
-品牌	pin'pai	0
-天然	tian'ran	0
-温和	wen'he	0

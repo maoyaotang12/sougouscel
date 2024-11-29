@@ -1,5 +1,0 @@
-二计划过程	er'ji'hua'guo'cheng	0
-三执行过程	san'zhi'xing'guo'cheng	0
-四控制过程	si'kong'zhi'guo'cheng	0
-五收尾过程	wu'shou'wei'guo'cheng	0
-一启动过程	yi'qi'dong'guo'cheng	0

@@ -1,6 +1,0 @@
-剑球	jian'qiu	0
-剑玉	jian'yu	0
-平衡剑球	ping'heng'jian'qiu	0
-平衡剑玉	ping'heng'jian'yu	0
-中国剑球	zhong'guo'jian'qiu	0
-中国剑玉	zhong'guo'jian'yu	0

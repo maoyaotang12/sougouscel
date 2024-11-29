@@ -1,5 +1,0 @@
-电气	dian'qi	0
-供排水	gong'pai'shui	0
-流程	liu'cheng	0
-输入模块	shu'ru'mo'kuai	0
-消防	xiao'fang	0

@@ -1,5 +1,0 @@
-怠速量孔	dai'su'liang'kong	0
-化油器	hua'you'qi	0
-泡沫管	pao'mo'guan	0
-溢流管	yi'liu'guan	0
-主喷嘴	zhu'pen'zui	0

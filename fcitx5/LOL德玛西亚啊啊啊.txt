@@ -1,6 +1,0 @@
-插眼	cha'yan	0
-打团	da'tuan	0
-楼打野	lou'da'ye	0
-楼辅助	lou'fu'zhu	0
-楼上单	lou'shang'dan	0
-楼中单	lou'zhong'dan	0

@@ -1,8 +1,0 @@
-镇魂短刀	zhen'hun'duan'dao	0
-镇魂法杖	zhen'hun'fa'zhang	0
-镇魂巨剑	zhen'hun'ju'jian	0
-镇魂镰刀	zhen'hun'lian'dao	0
-镇魂魔杖	zhen'hun'mo'zhang	0
-镇魂拳套	zhen'hun'quan'tao	0
-镇魂太刀	zhen'hun'tai'dao	0
-镇魂战斧	zhen'hun'zhan'fu	0

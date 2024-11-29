@@ -1,5 +1,0 @@
-磨盘	mo'pan	0
-套环	tao'huan	0
-细磨	xi'mo	0
-研磨	yan'mo	0
-研削	yan'xue	0

@@ -1,7 +1,0 @@
-点成本	dian'cheng'ben	0
-经济半小时	jing'ji'ban'xiao'shi	0
-经济频道	jing'ji'pin'dao	0
-收视份额	shou'shi'fen'e	0
-收视率	shou'shi'lv	0
-央视改版	yang'shi'gai'ban	0
-朝闻天下	zhao'wen'tian'xia	0

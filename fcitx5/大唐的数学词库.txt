@@ -1,5 +1,0 @@
-根据图像写出其单调区间	gen'ju'tu'xiang'xie'chu'qi'dan'diao'qu'jian	0
-解下列不等式	jie'xia'lie'bu'deng'shi	0
-求的取值范围	qiu'de'qu'zhi'fan'wei	0
-求下列函数的定义域和值域	qiu'xia'lie'han'shu'de'ding'yi'yu'he'zhi'yu	0
-写出的单调区间及值域	xie'chu'de'dan'diao'qu'jian'ji'zhi'yu	0

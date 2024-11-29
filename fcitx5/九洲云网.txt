@@ -1,6 +1,0 @@
-查询电话	cha'xun'dian'hua	0
-电话号码本	dian'hua'hao'ma'ben	0
-互联网	hu'lian'wang	0
-计算机科技	ji'suan'ji'ke'ji	0
-软件	ruan'jian	0
-同城黄页	tong'cheng'huang'ye	0

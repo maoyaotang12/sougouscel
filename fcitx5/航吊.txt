@@ -1,5 +1,0 @@
-单梁航吊	dan'liang'hang'diao	0
-防爆航吊	fang'bao'hang'diao	0
-龙门航吊	long'men'hang'diao	0
-双梁航吊	shuang'liang'hang'diao	0
-冶金航吊	ye'jin'hang'diao	0

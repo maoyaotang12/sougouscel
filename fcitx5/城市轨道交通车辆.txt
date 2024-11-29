@@ -1,5 +1,0 @@
-第三轨受电	di'san'gui'shou'dian	0
-地铁列车的编组数	di'tie'lie'che'de'bian'zu'shu	0
-独轨铁路	du'gui'tie'lu	0
-架空线受电功受电	jia'kong'xian'shou'dian'gong'shou'dian	0
-新交通系统	xin'jiao'tong'xi'tong	0

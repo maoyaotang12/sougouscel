@@ -1,6 +1,0 @@
-钢筋笼	gang'jin'long	0
-井圈	jing'quan	0
-模板	mu'ban	0
-砼浇筑	tong'jiao'zhu	0
-支模架	zhi'mo'jia	0
-桩机	zhuang'ji	0

@@ -1,6 +1,0 @@
-设备设施与公用系统	she'bei'she'shi'yu'gong'yong'xi'tong	0
-生产管理	sheng'chan'guan'li	0
-文件管理	wen'jian'guan'li	0
-物料管理	wu'liao'guan'li	0
-药品生产质量管理规范	yao'pin'sheng'chan'zhi'liang'guan'li'gui'fan	0
-质量管理	zhi'liang'guan'li	0

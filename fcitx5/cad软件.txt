@@ -1,5 +1,0 @@
-加入图纸文字	jia'ru'tu'zhi'wen'zi	0
-看图文字库	kan'tu'wen'zi'ku	0
-全部语言	quan'bu'yu'yan	0
-增加升级提示	zeng'jia'sheng'ji'ti'shi	0
-综合全部版本	zong'he'quan'bu'ban'ben	0

@@ -1,8 +1,0 @@
-馆配图书	guan'pei'tu'shu	0
-图书编目与上架	tu'shu'bian'mu'yu'shang'jia	0
-图书馆管理软件	tu'shu'guan'guan'li'ruan'jian	0
-图书馆家具	tu'shu'guan'jia'ju	0
-图书馆设计	tu'shu'guan'she'ji	0
-图书馆业务外包	tu'shu'guan'ye'wu'wai'bao	0
-图书馆智能设备	tu'shu'guan'zhi'neng'she'bei	0
-图书馆装修	tu'shu'guan'zhuang'xiu	0

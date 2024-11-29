@@ -1,5 +1,0 @@
-防错	fang'cuo	0
-放行	fang'xing	0
-特采	te'cai	0
-外包	wai'bao	0
-预防性维护	yu'fang'xing'wei'hu	0

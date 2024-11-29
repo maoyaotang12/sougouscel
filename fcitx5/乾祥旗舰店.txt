@@ -1,8 +1,0 @@
-乾祥	qian'xiang	0
-乾祥服饰	qian'xiang'fu'shi	0
-乾祥服饰旗舰店	qian'xiang'fu'shi'qi'jian'dian	0
-乾祥旗舰店	qian'xiang'qi'jian'dian	0
-炎焱妖	yan'yan'yao	0
-炎焱妖服饰	yan'yan'yao'fu'shi	0
-炎焱妖服饰旗舰店	yan'yan'yao'fu'shi'qi'jian'dian	0
-炎焱妖旗舰店	yan'yan'yao'qi'jian'dian	0

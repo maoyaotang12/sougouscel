@@ -1,9 +1,0 @@
-安装包	an'zhuang'bao	0
-当前版本号	dang'qian'ban'ben'hao	0
-非计划更新	fei'ji'hua'geng'xin	0
-环境	huan'jing	0
-计划更新	ji'hua'geng'xin	0
-内网	nei'wang	0
-外网	wai'wang	0
-虚拟机	xu'ni'ji	0
-最新版本	zui'xin'ban'ben	0

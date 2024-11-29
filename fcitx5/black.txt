@@ -1,5 +1,0 @@
-长裙	chang'qun	0
-短裤	duan'ku	0
-短靴	duan'xue	0
-裤子	ku'zi	0
-帽子	mao'zi	0

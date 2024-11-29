@@ -1,5 +1,0 @@
-隔断	ge'duan	0
-酒柜	jiu'gui	0
-榻榻米	ta'ta'mi	0
-卧室衣柜	wo'shi'yi'gui	0
-香脂白玉	xiang'zhi'bai'yu	0

@@ -1,5 +1,0 @@
-函数	han'shu	0
-三角函数	san'jiao'han'shu	0
-余弦函数	yu'xian'han'shu	0
-正切函数	zheng'qie'han'shu	0
-正弦函数	zheng'xian'han'shu	0

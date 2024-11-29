@@ -1,6 +1,0 @@
-仓储	cang'chu	0
-国际国内运输	guo'ji'guo'nei'yun'shu	0
-进出口代理	jin'chu'kou'dai'li	0
-艺术品包装运输	yi'shu'pin'bao'zhuang'yun'shu	0
-展览巡演	zhan'lan'xun'yan	0
-专业定制包装	zhuan'ye'ding'zhi'bao'zhuang	0

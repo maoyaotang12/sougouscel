@@ -1,5 +1,0 @@
-称重传感器的分类	cheng'zhong'chuan'gan'qi'de'fen'lei	0
-磁极变形式称重传感器	ci'ji'bian'xing'shi'cheng'zhong'chuan'gan'qi	0
-电容式称重传感器	dian'rong'shi'cheng'zhong'chuan'gan'qi	0
-电阻应变式称重传感器	dian'zu'ying'bian'shi'cheng'zhong'chuan'gan'qi	0
-光电式称重传感器	guang'dian'shi'cheng'zhong'chuan'gan'qi	0

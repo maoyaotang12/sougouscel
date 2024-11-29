@@ -1,5 +1,0 @@
-重复碗筷	chong'fu'wan'kuai	0
-食安事件	shi'an'shi'jian	0
-食品安全法	shi'pin'an'quan'fa	0
-添加剂	tian'jia'ji	0
-油炸食品	you'zha'shi'pin	0

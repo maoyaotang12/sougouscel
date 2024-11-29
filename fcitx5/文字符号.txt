@@ -1,9 +1,0 @@
-电话	dian'hua	0
-太阳	tai'yang	0
-音符	yin'fu	0
-右上	you'shang	0
-右下	you'xia	0
-雨伞	yu'san	0
-月亮	yue'liang	0
-左上	zuo'shang	0
-左下	zuo'xia	0

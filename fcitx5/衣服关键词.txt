@@ -1,5 +1,0 @@
-裤子	ku'zi	0
-女士	nv'shi	0
-裙子	qun'zi	0
-上衣	shang'yi	0
-外套	wai'tao	0

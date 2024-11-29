@@ -1,6 +1,0 @@
-负激励	fu'ji'li	0
-经营分析	jing'ying'fen'xi	0
-立项	li'xiang	0
-欠付	qian'fu	0
-欠付清理	qian'fu'qing'li	0
-欠付调减	qian'fu'tiao'jian	0

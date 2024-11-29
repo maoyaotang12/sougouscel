@@ -1,5 +1,0 @@
-服务器端	fu'wu'qi'duan	0
-客户端	ke'hu'duan	0
-前端	qian'duan	0
-数据库	shu'ju'ku	0
-微信	wei'xin	0

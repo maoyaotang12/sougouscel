@@ -1,6 +1,0 @@
-焊接	han'jie	0
-激光	ji'guang	0
-机加	ji'jia	0
-气割	qi'ge	0
-铣孔	xi'kong	0
-压型	ya'xing	0

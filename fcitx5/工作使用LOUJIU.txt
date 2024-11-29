@@ -1,7 +1,0 @@
-参照三维加工	can'zhao'san'wei'jia'gong	0
-打印表面化学处理	da'yin'biao'mian'hua'xue'chu'li	0
-反面沉孔	fan'mian'chen'kong	0
-贯通	guan'tong	0
-拼接处满焊表面光滑	pin'jie'chu'man'han'biao'mian'guang'hua	0
-提高光洁度白色	ti'gao'guang'jie'du'bai'se	0
-型槽贯通	xing'cao'guan'tong	0

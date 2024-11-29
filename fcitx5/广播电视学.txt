@@ -1,9 +1,0 @@
-传播模型	chuan'bo'mo'xing	0
-广告主	guang'gao'zhu	0
-拉扎斯菲尔德	la'zha'si'fei'er'de	0
-理解广告	li'jie'guang'gao	0
-默顿	mo'dun	0
-确信广告	que'xin'guang'gao	0
-施拉姆	shi'la'mu	0
-行动广告	xing'dong'guang'gao	0
-知名广告	zhi'ming'guang'gao	0

@@ -1,6 +1,0 @@
-法文和中文	fa'wen'he'zhong'wen	0
-韩文和中文	han'wen'he'zhong'wen	0
-英文和中文	ying'wen'he'zhong'wen	0
-中文和法文	zhong'wen'he'fa'wen	0
-中文和韩文	zhong'wen'he'han'wen	0
-中文和英文	zhong'wen'he'ying'wen	0

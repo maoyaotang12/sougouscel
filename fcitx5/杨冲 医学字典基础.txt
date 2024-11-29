@@ -1,5 +1,0 @@
-各药品名称	ge'yao'pin'ming'cheng	0
-生产厂家	sheng'chan'chang'jia	0
-药品字典	yao'pin'zi'dian	0
-医学	yi'xue	0
-字典基础	zi'dian'ji'chu	0

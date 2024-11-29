@@ -1,8 +1,0 @@
-防御	fang'yu	0
-夹击	jia'ji	0
-近战	jin'zhan	0
-快闪	kuai'shan	0
-买卖	mai'mai	0
-上刀	shang'dao	0
-通商交换	tong'shang'jiao'huan	0
-远攻	yuan'gong	0

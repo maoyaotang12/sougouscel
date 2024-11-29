@@ -1,6 +1,0 @@
-病理语言学	bing'li'yu'yan'xue	0
-计算语言学	ji'suan'yu'yan'xue	0
-社会语言学	she'hui'yu'yan'xue	0
-神经语言学	shen'jing'yu'yan'xue	0
-数理语言学	shu'li'yu'yan'xue	0
-统计语言学	tong'ji'yu'yan'xue	0

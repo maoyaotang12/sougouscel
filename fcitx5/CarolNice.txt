@@ -1,8 +1,0 @@
-白兰地	bai'lan'di	0
-伏特加	fu'te'jia	0
-鸡尾酒	ji'wei'jiu	0
-进口红酒	jin'kou'hong'jiu	0
-酒庄	jiu'zhuang	0
-葡萄酒	pu'tao'jiu	0
-威士忌	wei'shi'ji	0
-洋酒	yang'jiu	0

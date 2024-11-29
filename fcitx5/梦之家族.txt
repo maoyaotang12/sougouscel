@@ -1,8 +1,0 @@
-恶魔卡比血梦	e'mo'ka'bi'xue'meng	0
-格斗卡比星梦	ge'dou'ka'bi'xing'meng	0
-麦克风卡比闪梦	mai'ke'feng'ka'bi'shan'meng	0
-魔法师卡比残梦	mo'fa'shi'ka'bi'can'meng	0
-球之卡比球梦	qiu'zhi'ka'bi'qiu'meng	0
-天使卡比音梦	tian'shi'ka'bi'yin'meng	0
-心之卡比恶梦	xin'zhi'ka'bi'e'meng	0
-心之卡比心梦	xin'zhi'ka'bi'xin'meng	0

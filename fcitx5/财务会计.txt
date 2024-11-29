@@ -1,6 +1,0 @@
-报销	bao'xiao	0
-购货	gou'huo	0
-结转	jie'zhuan	0
-提现	ti'xian	0
-销售	xiao'shou	0
-支付	zhi'fu	0

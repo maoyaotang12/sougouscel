@@ -1,5 +1,0 @@
-电商词库	dian'shang'ci'ku	0
-京东聊天	jing'dong'liao'tian	0
-日常问题	ri'chang'wen'ti	0
-售后问题	shou'hou'wen'ti	0
-旺旺聊天	wang'wang'liao'tian	0

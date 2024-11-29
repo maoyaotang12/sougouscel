@@ -1,6 +1,0 @@
-继发性肺结核	ji'fa'xing'fei'jie'he	0
-结核抗体	jie'he'kang'ti	0
-结核免疫指标	jie'he'mian'yi'zhi'biao	0
-结核性脑膜炎	jie'he'xing'nao'mo'yan	0
-结核性支气管炎	jie'he'xing'zhi'qi'guan'yan	0
-卡介菌纯蛋白衍生物	ka'jie'jun'chun'dan'bai'yan'sheng'wu	0

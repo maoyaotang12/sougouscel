@@ -1,7 +1,0 @@
-楚胜清障车	chu'sheng'qing'zhang'che	0
-大型清障车	da'xing'qing'zhang'che	0
-平板清障车	ping'ban'qing'zhang'che	0
-轻型清障车	qing'xing'qing'zhang'che	0
-一拖二清障车	yi'tuo'er'qing'zhang'che	0
-粤海清障车	yue'hai'qing'zhang'che	0
-重型清障车	zhong'xing'qing'zhang'che	0

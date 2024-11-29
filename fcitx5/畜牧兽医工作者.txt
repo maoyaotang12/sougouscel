@@ -1,6 +1,0 @@
-动检站	dong'jian'zhan	0
-动物防疫	dong'wu'fang'yi	0
-口蹄疫	kou'ti'yi	0
-库尔勒市畜牧兽医局	ku'er'le'shi'xu'mu'shou'yi'ju	0
-库尔勒市畜牧兽医站	ku'er'le'shi'xu'mu'shou'yi'zhan	0
-兰干乡畜牧兽医站	lan'gan'xiang'xu'mu'shou'yi'zhan	0

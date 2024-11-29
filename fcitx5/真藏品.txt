@@ -1,5 +1,0 @@
-藏品	cang'pin	0
-珍藏	zhen'cang	0
-真藏	zhen'cang	0
-珍藏品	zhen'cang'pin	0
-真藏品	zhen'cang'pin	0

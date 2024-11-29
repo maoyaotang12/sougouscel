@@ -1,5 +1,0 @@
-定位应用	ding'wei'ying'yong	0
-基础通信短信通信	ji'chu'tong'xin'duan'xin'tong'xin	0
-基础通信数据通信	ji'chu'tong'xin'shu'ju'tong'xin	0
-卡服务	ka'fu'wu	0
-智机通	zhi'ji'tong	0

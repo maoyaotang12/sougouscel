@@ -1,8 +1,0 @@
-抽象方法	chou'xiang'fang'fa	0
-抽象类	chou'xiang'lei	0
-方法	fang'fa	0
-概要分析	gai'yao'fen'xi	0
-接口	jie'kou	0
-设计模式	she'ji'mo'shi	0
-调试	tiao'shi	0
-注释	zhu'shi	0

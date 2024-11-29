@@ -1,5 +1,0 @@
-次元	ci'yuan	0
-洛氏硬度计	luo'shi'ying'du'ji	0
-三坐标	san'zuo'biao	0
-投影仪	tou'ying'yi	0
-维氏硬度计	wei'shi'ying'du'ji	0

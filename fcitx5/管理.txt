@@ -1,8 +1,0 @@
-地理	di'li	0
-化学	hua'xue	0
-军事	jun'shi	0
-科学	ke'xue	0
-历史	li'shi	0
-天文	tian'wen	0
-文学	wen'xue	0
-物理	wu'li	0
