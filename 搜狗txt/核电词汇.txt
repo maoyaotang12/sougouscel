@@ -1,0 +1,5 @@
+'dui'nei'gou'jian 堆内构件
+'ran'liao'zu'jian 燃料组件
+'ya'li'rong'qi 压力容器
+'zhu'beng 主泵
+'zhuang'xie'liao'ji 装卸料机

@@ -1,0 +1,9 @@
+'bai'du'xiao'cheng'xu 百度小程序
+'dou'yin'xiao'cheng'xu 抖音小程序
+'jie'kou 接口
+'kai'fang'ping'tai 开放平台
+'tou'tiao'xiao'cheng'xu 头条小程序
+'wei'xin'gong'zhong'hao 微信公众号
+'wei'xin'xiao'cheng'xu 微信小程序
+'zhi'fu'bao'xiao'cheng'xu 支付宝小程序
+'zi'jie'xiao'cheng'xu 字节小程序

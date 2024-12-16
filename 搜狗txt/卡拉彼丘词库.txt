@@ -12,6 +12,8 @@
 'feng'chang'lei 风场雷
 'feng'zhuang 封装
 'fu'la'wei'ya 芙拉薇娅
+'hong'pi 红皮
+'hu'die 蝴蝶
 'huan'shuang 幻霜
 'ji'ban 基板
 'ji'dian 奇点
@@ -22,6 +24,7 @@
 'jian'dao'shou 剪刀手
 'jian'su'lei 减速雷
 'jin'bi'kua'ke 禁闭夸克
+'jin'pi 金皮
 'jing'bao'qi 警报器
 'jing'tan 警探
 'ju'bian'zhi'zi 聚变质子
@@ -34,6 +37,7 @@
 'lan'jie'zhe 拦截者
 'li'xiang'bi 理想币
 'ma'de'lei'na 玛德雷娜
+'mao'mao 猫猫
 'mei'rui'di'si 梅瑞狄斯
 'mi'xue'er 米雪儿
 'ming'huo 鸣火
@@ -48,12 +52,16 @@
 'shen'pan'guan 审判官
 'sheng'ge'fen'zi 升格分子
 'shu'fu'dian'zi 束缚电子
+'si'fu 私服
+'tiao'xiang'shi 调香师
 'tuan'dui'luan'dou 团队乱斗
 'wei'mian 卫冕
+'wo'wo 蜗蜗
 'wu'er'bi'nuo 乌尔比诺
 'wu'xian'chao'xian 无限超弦
 'wu'xian'tuan'jing 无限团竞
 'xiang'nai'mei 香奈美
+'xiao'xiong 小熊
 'xie'mu'qu 谢幕曲
 'xin'xia 心夏
 'xing'hui 星绘
@@ -69,5 +77,6 @@
 'zhan'fang 绽放
 'zhi'chun'wu'zhi 至纯物质
 'zhong'yan 重焰
+'zi'pi 紫皮
 'zi'you'yi'zhi 自由意志
 'zi'you'zhong'zi 自由中子

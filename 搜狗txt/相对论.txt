@@ -160,6 +160,7 @@
 'fu'lian'tong 复连通
 'fu'she 辐射
 'fu'ya'qiang 负压强
+'fu'zhi'xing'shi'chang 复值形式场
 'gang'xing'biao'jia 刚性标架
 'gang'xing'can'kao'xi 刚性参考系
 'gang'xing'xi 刚性系
@@ -197,6 +198,7 @@
 'guang'du'ju'li 光度距离
 'guang'hua'han'shu 光滑函数
 'guang'hua'liu'xing 光滑流形
+'guang'hua'ying'she 光滑映射
 'guang'yi'li'man'kong'jian 广义黎曼空间
 'guang'zhui 光锥
 'gui'dao 轨道
@@ -262,8 +264,11 @@
 'jiao'san'xian 焦散线
 'jiao'su'du'er'xing'shi 角速度二形式
 'jie'gou'chang'shu 结构常数
+'jie'gou'chang'zhang'liang 结构常张量
 'jie'gou'qun 结构群
 'jie'gou'zhang'liang 结构张量
+'jie'hua'li'dai'shu 阶化李代数
+'jie'hua'li'kuo'hao 阶化李括号
 'jie'mian 截面
 'jie'yue'han'shu 阶跃函数
 'jin'bi 禁闭
@@ -276,6 +281,7 @@
 'ju'bu'yin'guo'xing'lin'yu 局部因果性邻域
 'ju'dian 聚点
 'ju'ti'zhi'biao 具体指标
+'ju'yu'gui'fan'bian'huan 局域规范变换
 'ju'yu'jie'mian 局域截面
 'ju'yu'neng'dong'shou'heng 局域能动守恒
 'ju'yu'ping'fan 局域平凡
@@ -346,6 +352,8 @@
 'leng'an'wu'zhi 冷暗物质
 'li'bian'huan'qun 李变换群
 'li'dai'shu 李代数
+'li'dai'shu'tong'gou 李代数同构
+'li'dai'shu'tong'tai 李代数同态
 'li'dao'shu 李导数
 'li'kuo'hao 李括号
 'li'man'fa'zuo'biao 黎曼法坐标
@@ -409,6 +417,7 @@
 'ou'he 耦合
 'ou'ji'ju 偶极矩
 'ou'la'la'ge'lang'ri'fang'cheng 欧拉拉格朗日方程
+'ou'pai'lie 偶排列
 'ou'shi'du'gui 欧氏度规
 'pan'lie'wei'nei'xiang'zuo'biao 潘列维内向坐标
 'pan'lie'wei'wai'xiang'zuo'biao 潘列维外向坐标
@@ -431,6 +440,7 @@
 'pu'tong'neng'liang'tiao'jian 普通能量条件
 'qi'dian 奇点
 'qi'huan 奇环
+'qi'pai'lie 奇排列
 'qi'xing 奇性
 'qi'xing'ding'li 奇性定理
 'qi'yi 奇异
@@ -487,6 +497,7 @@
 'shi'kong 时空
 'shi'kong'jiao'cha'xiang 时空交叉项
 'shi'kong'lian'he'fan'yan 时空联合反演
+'shi'liang'kong'jian 矢量空间
 'shi'liang'ping'yi 矢量平移
 'shi'pei 适配
 'shi'pei'mian'yuan 适配面元
@@ -504,15 +515,21 @@
 'shi'xu'wei'lai 时序未来
 'shi'xu'xing'po'huai'ji 时序性破坏集
 'shi'yi'han'shu 时移函数
+'shi'zhi'xing'shi'chang 实值形式场
 'shou'heng'liang 守恒量
 'shou'heng'liu 守恒流
 'shou'xing 手性
 'shu'zhi'shi'liang 竖直矢量
+'shu'zhi'shi'liang'chang 竖直矢量场
 'shu'zhi'zi'kong'jian 竖直子空间
 'shuang'qu'zheng'qie'han'shu 双曲正切函数
 'shuang'she 双射
+'shuang'xian'xing'ying'she 双线性映射
+'shui'ping'shi'liang 水平矢量
+'shui'ping'shi'liang'chang 水平矢量场
 'shui'ping'ti'sheng 水平提升
 'shui'ping'ti'sheng'qu'xian 水平提升曲线
+'shui'ping'ti'sheng'shi'liang 水平提升矢量
 'shui'ping'ti'sheng'shi'liang'chang 水平提升矢量场
 'shui'ping'zi'kong'jian 水平子空间
 'shui'xing'jin'dong 水星进动
@@ -536,6 +553,7 @@
 'tao'yi'jiao 逃逸角
 'ti'yuan 体元
 'tong'gou 同构
+'tong'gou'ying'she 同构映射
 'tong'pei 同胚
 'tou'ying'ying'she 投影映射
 'tou'ying'zhang'liang 投影张量
@@ -654,6 +672,7 @@
 'you'dao'du'gui 诱导度规
 'you'dao'tuo'pu 诱导拓扑
 'you'nao'lian'luo 有挠联络
+'you'ping'yi 右平移
 'you'shou'xi 右手系
 'you'xian'zi'fu'gai 有限子覆盖
 'you'xiao'shi 有效势
@@ -687,11 +706,13 @@
 'zheng'jiao'gui'yi'biao'jia'cong 正交归一标架丛
 'zheng'jiao'gui'yi'ji'di 正交归一基底
 'zheng'neng'ding'li 正能定理
+'zheng'ti'gui'fan'bian'huan 整体规范变换
 'zheng'ti'jie'mian 整体截面
 'zheng'ti'shuang'qu'shi'kong 整体双曲时空
 'zheng'ze'neng'dong'zhang'liang 正则能动张量
 'zheng'ze'qian'ru 正则嵌入
 'zheng'ze'qian'ru'zi'liu'xing 正则嵌入子流形
+'zheng'ze'xing'shi 正则形式
 'zhi'he 直和
 'zhi'huan'zhang'liang 置换张量
 'zhi'liang'bao'zhang 质量暴涨
@@ -717,10 +738,14 @@
 'zhuan'zhi 转置
 'zhuang'tai'fang'cheng 状态方程
 'zi'fu'gai 子覆盖
+'zi'kong'jian 子空间
 'zi'liu'xing 子流形
 'zi'qia'xing'tiao'jian 自洽性条件
+'zi'ran'zuo'biao 自然坐标
 'zi'ran'zuo'biao'xi 自然坐标系
 'zi'shi'kong 子时空
+'zi'tong'gou 自同构
+'zi'xiang'jiao'qu'xian 自相交曲线
 'zi'you'you'zuo'yong 自由右作用
 'zi'you'zhi'biao 自由指标
 'zui'da'ke'xi'fa'zhan 最大柯西发展
