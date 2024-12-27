@@ -38,6 +38,8 @@
 'biao'jia'cong 标架丛
 'biao'liang'chang 标量场
 'biao'mian'yin'li 表面引力
+'biao'shi 表示
+'biao'shi'kong'jian 表示空间
 'biao'zhun'zheng'jiao'ji 标准正交基
 'biao'zhun'zhong 标准钟
 'bo'dong'fang'cheng 波动方程
@@ -509,6 +511,8 @@
 'shi'wa'xi'nei'jie 史瓦西内解
 'shi'wa'xi'shi'kong 史瓦西时空
 'shi'wa'xi'wai'jie 史瓦西外解
+'shi'xian 实现
+'shi'xian'kong'jian 实现空间
 'shi'xu'bao'hu'cai'xiang 时序保护猜想
 'shi'xu'guo'qu 时序过去
 'shi'xu'tiao'jian 时序条件
@@ -720,6 +724,8 @@
 'zhi'shu'ying'she 指数映射
 'zhong'can'shu'hua 重参数化
 'zhong'man'xiao'ying 钟慢效应
+'zhong'shi'biao'shi 忠实表示
+'zhong'shi'shi'xian 忠实实现
 'zhong'tai'bu'ke'fen'guo'qu'ji 终态不可分过去集
 'zhong'tai'bu'ke'fen'wei'lai'ji 终态不可分未来集
 'zhong'tong'bu 钟同步
