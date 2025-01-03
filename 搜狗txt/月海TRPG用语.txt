@@ -17,6 +17,7 @@
 'jing'shen'pan'ding 精神判定
 'jing'yan'zhi 经验值
 'lan'se'xin'pian 蓝色芯片
+'li'fu'gui 李富贵
 'li'liang'pan'ding 力量判定
 'lv'se'xin'pian 绿色芯片
 'min'jie'pan'ding 敏捷判定
@@ -35,10 +36,13 @@
 'te'zhi 特质
 'ti'zhi'pan'ding 体质判定
 'tuan'dui'zhan'dou'gui'ze 团队战斗规则
+'wang'pin'ru 王品儒
 'xie'zhu'dong'zuo 协助动作
 'xing'yun'jian'ding 幸运鉴定
 'xiu'xi'dong'zuo 休息动作
+'xun'nan'zhe 荀南哲
 'ya'zhong 亚种
+'yi'nu 伊努
 'yi'ze'lu 伊泽露
 'yi'zhao 疫沼
 'ying'dui 应对
