@@ -74,6 +74,7 @@
 'bo'hui'gu'fen 博汇股份
 'bo'ji'yi'yao 博济医药
 'bo'jun'ke'ji 博俊科技
+'bo'ke'ce'shi 博科测试
 'bo'ke'xin'cai 铂科新材
 'bo'shi'jie 博实结
 'bo'shi'ke 博世科
@@ -105,6 +106,7 @@
 'chao'jie'gu'fen 超捷股份
 'chao'pin'san 超频三
 'chao'tu'ruan'jian 超图软件
+'chao'yan 超研
 'chao'yue'ke'ji 超越科技
 'chen'an'ke'ji 辰安科技
 'chen'guang'sheng'wu 晨光生物
@@ -435,6 +437,7 @@
 'hua'zhong'shu'kong 华中数控
 'hua'zi'ke'ji 华自科技
 'huan'le'jia 欢乐家
+'huang'shan'gu'jie 黄山谷捷
 'hui'bai'xin'cai 惠柏新材
 'hui'bo'yun'tong 慧博云通
 'hui'chang'tong'xun 会畅通讯
@@ -450,6 +453,7 @@
 'hui'na'ke'ji 汇纳科技
 'hui'sheng'sheng'wu 回盛生物
 'hui'tian'xin'cai 回天新材
+'hui'tong'ke'ji 惠通科技
 'hui'yun'tai'ye 惠云钛业
 'hui'zhong'gu'fen 汇中股份
 'huo'pu'gu'fen 霍普股份
@@ -573,6 +577,7 @@
 'jun'cheng'ke'ji 骏成科技
 'jun'ding'da 骏鼎达
 'jun'ting'jiu'dian 君亭酒店
+'jun'wai'dian'zi 钧崴电子
 'jun'xin'gu'fen 军信股份
 'jun'yi'shu'ma 君逸数码
 'ka'bei'yi 卡倍亿
@@ -640,6 +645,7 @@
 'lan'wei'yi'xue 兰卫医学
 'lan'xiao'ke'ji 蓝晓科技
 'lan'ying'zhuang'bei 蓝英装备
+'lan'yu'gu'fen 蓝宇股份
 'lang'jin'ke'ji 朗进科技
 'lang'ke'ke'ji 朗科科技
 'lang'ke'zhi'neng 朗科智能
