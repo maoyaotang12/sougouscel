@@ -178,6 +178,7 @@
 'ding'gu'ji'chuang 顶固集创
 'ding'han'ji'shu 鼎汉技术
 'ding'jie'ruan'jian 鼎捷软件
+'ding'jie'shu'zhi 鼎捷数智
 'ding'long'gu'fen 鼎龙股份
 'ding'tai'gao'ke 鼎泰高科
 'dong'bao'sheng'wu 东宝生物
