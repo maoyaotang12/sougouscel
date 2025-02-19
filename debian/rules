@@ -1,0 +1,12 @@
+#!/usr/bin/make -f
+#export DH_VERBOSE = 1
+%:
+	dh $@
+
+override_dh_auto_configure:
+	chmod +x scel/txt.sh
+	sh scel/txt.sh
+	cat *.txt sougouciku.txt
+override_dh_auto_build:	      
+	libime_pinyindict sougouciku.txt sougouciku.dict
+	

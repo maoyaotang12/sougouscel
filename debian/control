@@ -1,0 +1,19 @@
+Source: sougouscel-git
+Section: utils
+Priority: optional
+Maintainer: Yaotang Mao <maoyaotang@debian.org>
+Uploaders: maoyaotang <maoyaotang@deepin.org>,
+Build-Depends:
+ debhelper-compat (= 13), libime-bin
+Standards-Version: 4.7.0
+Vcs-Browser: https://github.com/maoyaotang12/sougouscel/
+Vcs-Git: https://github.com/maoyaotang12/sougouscel.git
+Homepage: https://pinyin.sogou.com/dict/
+Rules-Requires-Root: no
+
+Package: fcitx5-pinyin-sougou-dict
+Architecture: all
+Multi-Arch: foreign
+Depends:
+ ${misc:Depends},
+Description: Fcitx5-pinyin搜狗官网词库全部词量
