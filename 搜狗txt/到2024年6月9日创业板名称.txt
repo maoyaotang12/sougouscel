@@ -107,6 +107,7 @@
 'chao'pin'san 超频三
 'chao'tu'ruan'jian 超图软件
 'chao'yan 超研
+'chao'yan'gu'fen 超研股份
 'chao'yue'ke'ji 超越科技
 'chen'an'ke'ji 辰安科技
 'chen'guang'sheng'wu 晨光生物
@@ -1032,6 +1033,8 @@
 'tong'hua'shun'piao'liang 同花顺漂亮
 'tong'lan 铜缆
 'tong'lan'gao'su'lian'jie 铜缆高速连接
+'tong'lan'guang'xue 铜缆光学
+'tong'lan'guang'xue'lian'jie 铜缆光学连接
 'tong'li'ke'ji 通力科技
 'tong'ling'gu'fen 通灵股份
 'tong'niu'xin'xi 铜牛信息

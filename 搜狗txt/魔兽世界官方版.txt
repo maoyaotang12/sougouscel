@@ -1027,6 +1027,7 @@
 'an'de'ma 安德玛
 'an'de'mai 安德麦
 'an'de'mai'bang'rou'za'hui 安德麦蚌肉杂烩
+'an'de'mai'feng'yun 安德麦风云
 'an'de'wen 安德温
 'an'de'wu'de 安德伍德
 'an'di 安蒂
@@ -2509,6 +2510,7 @@
 'bai'lang'shou'tao 白狼手套
 'bai'lei 拜雷
 'bai'li'fu 拜里弗
+'bai'lin'she 白鳞蛇
 'bai'ling'shang'yi 百灵上衣
 'bai'long'jiao 拜龙教
 'bai'long'jiao'de'long'luan 拜龙教的龙卵
@@ -10173,6 +10175,7 @@
 'feng'chao'shuang'zu'fei'long 风巢双足飞龙
 'feng'chao'shuang'zu'fei'long'de'dan 风巢双足飞龙的蛋
 'feng'chao'shuang'zu'fei'long'de'du'nang 风巢双足飞龙的毒囊
+'feng'chao'yu'tan 风潮淤滩
 'feng'cheng 风程
 'feng'chi'dian'che 风驰电掣
 'feng'ci'fang'hu'xiong'jia 蜂刺防护胸甲
@@ -10473,7 +10476,6 @@
 'fu'bing'zhi'xue 浮冰之靴
 'fu'cao'nong'chang 腐草农场
 'fu'che 弗彻
-'fu'chong 俯冲
 'fu'chong'qian'fu'zhe 腐虫潜伏者
 'fu'chou'an'ying'jian'shi 复仇暗影尖石
 'fu'chou'bao'wei'zhe'tou'kui 复仇保卫者头盔
@@ -11063,6 +11065,7 @@
 'fu'ye'ruan'ni'guai 腐液软泥怪
 'fu'ye'zhi'yun 腐液之云
 'fu'yi'dou'peng 蝠翼斗篷
+'fu'yi'hai'e'yu 副翼海蛾鱼
 'fu'yin 符印
 'fu'yin'chuan'bo 福音传播
 'fu'yin'fa'shu'hu'wan 符印法术护腕
@@ -11181,7 +11184,6 @@
 'gan'zao'de'xie'ke 干燥的蝎壳
 'gan'zao'de'yan'kuai 干燥的盐块
 'gan'zao'de'zhao'ze'mu'gong 干燥的沼泽木弓
-'gan'zhi 感知
 'gan'zhi'e'mo 感知恶魔
 'gan'zhi'wang'ling 感知亡灵
 'gang'ban'jing'jia 钢板胫甲
@@ -13359,6 +13361,7 @@
 'hai'yang'zhi'nu'chang'xue 海洋之怒长靴
 'hai'yang'zhi'yan 海洋之眼
 'hai'yao 海妖
+'hai'yao'dao 海妖岛
 'hai'yao'hua'fen 海妖花粉
 'hai'yao'tou'shi 海妖头饰
 'hai'yao'zhi'ge 海妖之歌
@@ -14496,6 +14499,7 @@
 'hong'se'dong'yi 红色冬衣
 'hong'se'e'luan 红色蛾卵
 'hong'se'fa'mu'gong'chen'shan 红色伐木工衬衫
+'hong'se'fei'e 红色飞蛾
 'hong'se'gong'jiang'chen'shan 红色工匠衬衫
 'hong'se'ha'ka'lai'bao'shi 红色哈卡莱宝石
 'hong'se'hai'gu'jun'ma 红色骸骨军马
@@ -15378,6 +15382,7 @@
 'huang'se'chuan'kong'ka'pian 黄色穿孔卡片
 'huang'se'e'luan 黄色蛾卵
 'huang'se'fa'mu'gong'chen'shan 黄色伐木工衬衫
+'huang'se'fei'e 黄色飞蛾
 'huang'se'ha'ka'lai'bao'shi 黄色哈卡莱宝石
 'huang'se'jun'yong'chen'shan 黄色军用衬衫
 'huang'se'long'dan 黄色龙蛋
@@ -16851,6 +16856,7 @@
 'ji'yuan'ying'di 积怨营地
 'ji'yuan'zhi'shi 纪元之石
 'ji'yue'man'tuo'luo'zhui'shi 激越曼陀罗坠石
+'ji'ze'er'chao'zhen 吉泽尔超震
 'ji'ze'er'dun 基泽尔顿
 'ji'ze'er'dun'che'dui 基泽尔顿车队
 'ji'ze'er'dun'che'dui'ke'duo'shou 基泽尔顿车队科多兽
@@ -17888,6 +17894,7 @@
 'jie'dian'zhi'wang'de'yin'ji 节点之王的印记
 'jie'dian'zhi'wang'de'zhan'fu 节点之王的战斧
 'jie'en'ke'han'de'tou'lu 杰恩可汗的头颅
+'jie'fang'an'de'mai 解放安德麦
 'jie'fang'hu'wan 解放护腕
 'jie'fang'zhe'zhi'pao 解放者之袍
 'jie'fei'de'shou'tao 劫匪的手套
@@ -18925,12 +18932,6 @@
 'jiu'shu'jian'kai 救赎肩铠
 'jiu'shu'jiang'lin'yao'dai 救赎降临腰带
 'jiu'shu'ling'hun 救赎灵魂
-'jiu'shu'ling'hun'chang'xue 救赎灵魂长靴
-'jiu'shu'ling'hun'pi'feng 救赎灵魂披风
-'jiu'shu'ling'hun'sheng'qi 救赎灵魂圣契
-'jiu'shu'ling'hun'shu'dai 救赎灵魂束带
-'jiu'shu'ling'hun'tui'jia 救赎灵魂腿甲
-'jiu'shu'ling'hun'wan'jia 救赎灵魂腕甲
 'jiu'shu'shou'bei'guan'hu'shou 救赎守备官护手
 'jiu'shu'shu'dai 救赎束带
 'jiu'shu'tou'shi 救赎头饰
@@ -19059,6 +19060,7 @@
 'ju'da'de'tie'hu'jian 巨大的铁护肩
 'ju'da'de'xiang'pu'hu'shi'ban'yu 巨大的香蒲湖石斑鱼
 'ju'da'de'xiang'pu'hu'shi'ban'yu'ya'chi 巨大的香蒲湖石斑鱼牙齿
+'ju'da'er'jian'ying'de'gu'gu 巨大而坚硬的股骨
 'ju'dan 巨蛋
 'ju'dian'chang'pao 据点长袍
 'ju'dian'chang'xue 据点长靴
@@ -19135,13 +19137,10 @@
 'ju'lang'zhi'san 巨浪之三
 'ju'lang'zhi'si 巨浪之四
 'ju'lang'zhi'wu 巨浪之五
-'ju'li'hu'bi 巨力护臂
+'ju'li 巨力
 'ju'li'hu'shou 巨力护手
 'ju'li'hu'tui 巨力护腿
 'ju'li'jian'jia 巨力肩甲
-'ju'li'pi'feng 巨力披风
-'ju'li'shu'dai 巨力束带
-'ju'li'tou'shi 巨力头饰
 'ju'li'wai'tao 巨力外套
 'ju'lie'bao'fa 剧烈爆发
 'ju'lie'bao'po'xiong'jia 剧烈爆破胸甲
@@ -19295,11 +19294,6 @@
 'ju'shou'ling'zhu'duo'ha'man 巨兽领主多哈曼
 'ju'shou'yao'dai 巨兽腰带
 'ju'shou'zhi'wang 巨兽之王
-'ju'shou'zhi'wang'hu'shou 巨兽之王护手
-'ju'shou'zhi'wang'hu'tui 巨兽之王护腿
-'ju'shou'zhi'wang'jian'jia 巨兽之王肩甲
-'ju'shou'zhi'wang'tou'kui 巨兽之王头盔
-'ju'shou'zhi'wang'xiong'jia 巨兽之王胸甲
 'ju'shu'wan'jia 巨树腕甲
 'ju'ti 巨蹄
 'ju'tong'bian'chi 剧痛鞭笞
@@ -19643,6 +19637,7 @@
 'ka'er'jia'ci'lei'de'jie'zhang 卡尔加刺肋的节杖
 'ka'er'jia'ci'lei'de'xin'zang 卡尔加刺肋的心脏
 'ka'er'jiang'jun 卡尔将军
+'ka'er'ke'de'zhi'huan 喀耳刻的指环
 'ka'er'la'shi 卡尔拉什
 'ka'er'lei'mao'de'ding'dan 卡尔雷矛的订单
 'ka'er'lin'da'de'cheng'jie'juan'zhou 卡尔琳达的惩戒卷轴
@@ -19767,6 +19762,7 @@
 'ka'lei'gou'si'zhi'ya 卡雷苟斯之牙
 'ka'lei'si 卡雷斯
 'ka'li 卡利
+'ka'li'chu'niao 卡利雏鸟
 'ka'li'fu 卡利夫
 'ka'li'fu'si'ke'bi'si'ting'de'tou'lu 卡利夫斯科比斯汀的头颅
 'ka'li'ma 卡里玛
@@ -22044,6 +22040,7 @@
 'lao'bing'san'chong'chang 老兵三重唱
 'lao'che'fu'de'lu'gu 老车夫的颅骨
 'lao'chen'de'zhuang'dan'jiu 老陈的壮胆酒
+'lao'da'niang 老大娘
 'lao'di'ke 劳迪克
 'lao'die'de'chao'kuan'bei'bao 老爹的潮款背包
 'lao'die'de'xin'kuan'bei'bao 老爹的新款背包
@@ -22528,6 +22525,7 @@
 'leng'guang'liu'ying'hu'wan 冷光流萤护腕
 'leng'guang'pi'jian 冷光披肩
 'leng'guang'sha'xing'xie 冷光沙行蟹
+'leng'guang'yue'gui 棱光跃鲑
 'leng'guang'zhi'qiu 棱光之球
 'leng'hun'chang'pao 冷魂长袍
 'leng'hun'chang'xue 冷魂长靴
@@ -25699,6 +25697,7 @@
 'mi'luan'xiang'lian 迷乱项链
 'mi'lun'de'yin'jiu'mao 米伦的饮酒帽
 'mi'luo'er 米洛尔
+'mi'luo'he 米罗赫
 'mi'luo'ke 米罗克
 'mi'luo'qi 米洛奇
 'mi'men'xi'jie 秘门玺戒
@@ -27244,6 +27243,7 @@
 'nai'fa'li'ao'si'hu'jian 奈法里奥斯护肩
 'nai'fa'li'ao'si'qi'yue'hu'wan 奈法里奥斯契约护腕
 'nai'fa'lu 奈法鲁
+'nai'fei'lei'si 奈非蕾丝
 'nai'fu'lin 奈夫林
 'nai'gu'la'shi 奈古拉什
 'nai'jia'en'de'chang'xue 奈加恩的长靴
@@ -28067,6 +28067,7 @@
 'ou'er'ta 欧尔塔
 'ou'er'ta'po'sui'shan'luan 欧尔塔破碎山峦
 'ou'ge'lu'mu 欧格鲁姆
+'ou'hu'na 欧胡纳
 'ou'ku'le'si 欧库勒斯
 'ou'ku'ta'er 欧库塔尔
 'ou'lei'ba'si 欧雷巴斯
@@ -28441,6 +28442,7 @@
 'piao'liang'de'xiang'lian 漂亮的项链
 'piao'liang'de'ye'yu'hu'tui 漂亮的野羽护腿
 'piao'liang'de'yi'yan 漂亮的义眼
+'piao'liu'qian'tan 漂流浅滩
 'piao'miao'jiu 飘渺酒
 'piao'miao'sui'pian 飘渺碎片
 'piao'mu'jin'gong 漂木紧弓
@@ -28536,6 +28538,7 @@
 'po'bu'wai'yi 破布外衣
 'po'bu'yao'dai 破布腰带
 'po'bu'zhan'xue 破布战靴
+'po'chai'shuang'ren'zu 破拆双人组
 'po'chao'chang'ji 破潮长戟
 'po'chao'ruan'xie 破潮软鞋
 'po'chen'hao 破晨号
@@ -29188,6 +29191,7 @@
 'qian'qu'zhi'xue 前驱之靴
 'qian'ren 千刃
 'qian'san 前三
+'qian'shi'shui'hu'yu 千噬水虎鱼
 'qian'shou 钳手
 'qian'shui'quan'zhang 浅水权杖
 'qian'shui'ri'ji 潜水日记
@@ -30633,6 +30637,7 @@
 'rou'yi 肉翼
 'rou'zhou'de'cang'bao'tu 揉皱的藏宝图
 'ru'bai'mo'shui 乳白墨水
+'ru'chi'xiang'zhang'ya 乳齿象长牙
 'ru'dong'zhi'pi 蠕动之皮
 'ru'er 儒尔
 'ru'he'jia'yu'ni'de'long 如何驾驭你的龙
@@ -31026,6 +31031,7 @@
 'sa'wei'ya'pu'bu 萨维亚瀑布
 'sa'wei'ya'zhao'mo'shi 萨维亚招魔师
 'sa'wen 萨文
+'sa'yi'er'hai'yao'zhi'mu 萨伊尔海妖之目
 'sa'you'si 萨尤斯
 'sa'zu 萨祖
 'sai'an'de'er 塞安德尔
@@ -31587,6 +31593,7 @@
 'sha'er'tu'la 沙尔图拉
 'sha'er'tu'la'de'li'liang 沙尔图拉的力量
 'sha'er'wa'sa 沙尔瓦萨
+'sha'er'wei'lun 沙尔维伦
 'sha'er'zha'lu 沙尔扎鲁
 'sha'er'zi'gong'jue 沙尔兹公爵
 'sha'fa'er 沙法尔
@@ -33571,6 +33578,7 @@
 'shi'guang'ling'zhu'ai'bo'ke 时光领主埃博克
 'shi'guang'ling'zhu'xiang'lian 时光领主项链
 'shi'guang'liu'hui 时光流汇
+'shi'guang'long'tou'yu 时光龙头鱼
 'shi'guang'lv'xing'zhe 时光旅行者
 'shi'guang'sha'lou 时光沙漏
 'shi'guang'shou'hu'zhe 时光守护者
@@ -35184,6 +35192,7 @@
 'shui'yuan'su'he'xin 水元素核心
 'shui'yuan'su'wei'mian'zhi'lian 水元素位面之链
 'shui'yuan'su'zhi'lian 水元素之链
+'shui'zha'xing'dong 水闸行动
 'shui'zhan'shi 水占师
 'shui'zhan'shi'wei'lei'sa 水占师维蕾萨
 'shui'zhi'hu'dun 水之护盾
@@ -35781,6 +35790,7 @@
 'song'jiao'lu'de'sheng'rou 耸角鹿的生肉
 'song'lu'dan'nai'su 松露蛋奶酥
 'song'mu'shao'zhan 松木哨站
+'song'qi'jin'qiang'yu 淞鳍金枪鱼
 'song'ran'jiao'dou'shi 悚然角斗士
 'song'ruan'de'lv'se'sha'fa'dian 松软的绿色沙发垫
 'song'ruan'de'ni'tu 松软的泥土
@@ -36098,6 +36108,7 @@
 'sui'ya 碎牙
 'sui'yan 燧焰
 'sui'yan'de'ji'pin 燧焰的祭品
+'sui'yan'zhi'yan 碎岩之盐
 'sui'yin'kuang'mai 碎银矿脉
 'sui'yu'shan'dian 碎玉闪电
 'sui'yu'zhi'xin 碎玉之心
@@ -37168,6 +37179,7 @@
 'tian'kong'zhi'ren 天空之刃
 'tian'kong'zhi'xiang 天空之箱
 'tian'lan'bao'shi 天蓝宝石
+'tian'lan'ci'pi'yu 天蓝刺皮鱼
 'tian'lan'hu'fu 天蓝护符
 'tian'lan'jie'zhi 天蓝戒指
 'tian'lan'mo'xian 天蓝魔线
@@ -38717,6 +38729,7 @@
 'wang'ming'zhe'dou'peng 亡命者斗篷
 'wang'pai'ci'ke'de'zi'luo'lan'hui'ji 王牌刺客的紫罗兰徽记
 'wang'pai'lie'qiang 王牌猎枪
+'wang'qi'zhao'di 亡鳍沼地
 'wang'quan'tou'shi 王权头饰
 'wang'quan'zai'wang'de'nan'hai 王权在望的男孩
 'wang'que'zhe 忘却者
@@ -40671,6 +40684,7 @@
 'xian'shui'long'xia'ren 咸水龙虾人
 'xian'wang'de'zhen'lie 先王的阵列
 'xian'wang'zhi'hun 先王之魂
+'xian'wei'she'shi'ban 衔尾蛇石板
 'xian'wei'zhi 纤维质
 'xian'xi'an'ying'shui'jing 纤细暗影水晶
 'xian'xi'kong'ju'shi 纤细恐惧石
@@ -41000,7 +41014,6 @@
 'xiao'la'ge 小拉格
 'xiao'leng'guang 小棱光
 'xiao'ling'hun'bao 小灵魂包
-'xiao'lv 效率
 'xiao'mei'tou 小煤头
 'xiao'mi'feng'ruan'xie 小蜜蜂软鞋
 'xiao'mo'chen 消魔尘
@@ -43342,6 +43355,7 @@
 'yan'jia'chong'ji 焰甲冲击
 'yan'jian'ni'tan 盐碱泥滩
 'yan'jiang 岩浆
+'yan'jiang'chang'wei'sha 岩浆长尾鲨
 'yan'jiang'chang'xue 岩浆长靴
 'yan'jiang'he'xin 岩浆核心
 'yan'jiang'pen'jian 岩浆喷溅
@@ -43542,6 +43556,7 @@
 'yan'zhou'zhi'wo 炎咒之握
 'yan'zhu'de'ya'li'fa 炎诛的压力阀
 'yan'zhu'yao'shi 焰铸钥匙
+'yan'zhu'zhi'tie 焰祝之铁
 'yan'zhuo'chang'xue 炎灼长靴
 'yan'zhuo'duan'ku 炎灼短裤
 'yan'zhuo'hu'wan 炎灼护腕
@@ -44578,6 +44593,7 @@
 'yi'yue'ku'ke'de'shi'xi'yin'jie 伊约库克的世袭印戒
 'yi'zai'de'gao'yang 已宰的羔羊
 'yi'ze'er 伊泽尔
+'yi'zeng 遗赠
 'yi'zhan'chang'xue 翼展长靴
 'yi'zhang'bei'si'po'de'ri'ji'shu'ye 一张被撕破的日记书页
 'yi'zhao'bei'yao'shi'nian'dan'xiao 一朝被咬十年胆小
@@ -44633,7 +44649,6 @@
 'yin'an'qi'yue'hu'wan 阴暗契约护腕
 'yin'an'zhi'huo'hong'hu'wan 阴暗之火红护腕
 'yin'bang 银棒
-'yin'bao 音爆
 'yin'bei 银背
 'yin'bi 隐蔽
 'yin'bi'de'bao'xian'xiang 隐蔽的保险箱
@@ -44665,6 +44680,7 @@
 'yin'fu'nu'si'da'shi 因弗努斯大使
 'yin'gang'hu'shou 银钢护手
 'yin'ge 因格
+'yin'ge'huang'shui'jing 吟歌黄水晶
 'yin'ge'wa'er'de'ju'shi'fu 因格瓦尔的巨石斧
 'yin'ge'wa'er'de'tou'lu 因格瓦尔的头颅
 'yin'guo'bao'ying'ming'yun'fu'wen 因果报应命运符文
@@ -45750,6 +45766,7 @@
 'you'shang 忧伤
 'you'shang'shi'di 忧伤湿地
 'you'sheng'lie'yan 有生烈焰
+'you'shi'wa'jue'chang 幽石挖掘场
 'you'shou'huang'tong'zhi'hu 右手黄铜指虎
 'you'shou'ren 右手刃
 'you'shou'zhao 右手爪
@@ -45896,6 +45913,7 @@
 'yu'die 玉碟
 'yu'er 鱼饵
 'yu'er'cai'wei 玉儿采苇
+'yu'er'zhu 育儿蛛
 'yu'fa'shi'dou'peng 雨法师斗篷
 'yu'feng 语风
 'yu'feng'fa'zhang 御风法杖
@@ -46340,12 +46358,14 @@
 'yuan'shi'nu'huo'jian'jia 原始怒火肩甲
 'yuan'shi'pi'ge 原始皮革
 'yuan'shi'rong'huo'he'jin 原始熔火合金
+'yuan'shi'rong'mao 原始绒毛
 'yuan'shi'shen'ling'diao'xiang 原始神灵雕像
 'yuan'shi'shou'tao 原始手套
 'yuan'shi'wai'yi 原始外衣
 'yuan'shi'wang'quan'yao'dai 原始王权腰带
 'yuan'shi'wu'ren'bao'de'chang'xian 原始雾刃豹的肠线
 'yuan'shi'wu'xia'zi'huang'jing 原始无瑕紫黄晶
+'yuan'shi'xiong'ji'gu 原始熊脊骨
 'yuan'shi'xue'ren'mao'pi 原始雪人毛皮
 'yuan'shi'xue'shi'fa'zhang 原始学识法杖
 'yuan'shi'xun'meng'long 原始迅猛龙
@@ -47578,6 +47598,7 @@
 'zhao'jing'zhi'nu 沼精之怒
 'zhao'kui 罩盔
 'zhao'lue 爪掠
+'zhao'mian 沼面
 'zhao'ming'dan 照明弹
 'zhao'ni'zhi'pi 沼泥之皮
 'zhao'ti 爪蹄

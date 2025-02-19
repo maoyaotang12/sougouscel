@@ -1,0 +1,10 @@
+'beng'fang 泵房
+'bian'dian'suo 变电所
+'ding'pan 顶盘
+'dong'beng'fang 东泵房
+'fu'jing'da'men 付井大门
+'gui'dao'an'xie'jing'jiao'che'fang 轨道暗斜井绞车房
+'rao'dao 绕道
+'shang'shan 上山
+'zhong'san'gui'dao'an'xie'jing'jiao'che'fang 中三轨道暗斜井绞车房
+'zhu'jing'da'men 主井大门
