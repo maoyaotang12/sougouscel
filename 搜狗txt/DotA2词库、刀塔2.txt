@@ -15,6 +15,7 @@
 'ai'rui'da 艾瑞达
 'ai'zi'shuang'ren'zu 矮子双人组
 'an'dan'xiong'zhen 暗淡胸针
+'an'hei'kuang'huan'zhu'chi 暗黑狂欢主持
 'an'hei'shi'ji'ye'ying 暗黑世纪夜影
 'an'hei'tuan'jie 暗黑团结
 'an'hei'zhi'jiao 暗黑之礁
@@ -48,6 +49,7 @@
 'ao'shu'ji'lei 奥术积累
 'ao'shu'shen'fu 奥术神符
 'ao'shu'tian'qiu 奥术天球
+'ao'shu'wai'yi 奥术外溢
 'ao'shu'xie 奥术鞋
 'ao'shu'zhi'huan 奥术指环
 'ao'si'ta'li'ang'da'di 奥斯塔里昂大帝
@@ -89,6 +91,7 @@
 'bei'dong'ji'neng 被动技能
 'bei'en'huo'le 贝恩霍勒
 'bei'shang'chang'hao 悲伤长号
+'ben'liu'ying'di 奔流营地
 'ben'ming'yi'ji 本命一击
 'ben'qian 本钱
 'ben'teng 奔腾
@@ -117,6 +120,7 @@
 'bie'dang'gou 别挡钩
 'bie'ren'bu'yong'zhi'dao 别人不用知道
 'bing'chuan 冰川
+'bing'chuan'hu'ti 冰川护体
 'bing'feng'jin'zhi 冰封禁制
 'bing'feng'lu'jing 冰封路径
 'bing'feng'mo'yin 冰封魔印
@@ -136,11 +140,13 @@
 'bing'shuang'xin'xing 冰霜新星
 'bing'shuang'xuan'wo 冰霜漩涡
 'bing'shuang'zhi'fu 冰霜之缚
+'bing'shuang'zhi'zhu 冰霜之珠
 'bing'yan 冰眼
 'bo'lang'xing'tai 波浪形态
 'bo'luan'fan'zheng 拨乱反正
 'bo'zang 薄葬
 'bu'bing 补兵
+'bu'dong'ru'she 不动如蛇
 'bu'ji'jia'qiao 不羁甲壳
 'bu'jie'kuang're 不洁狂热
 'bu'ke'qin'fan 不可侵犯
@@ -150,6 +156,7 @@
 'bu'lan'de'wa'deng 布兰德瓦登
 'bu'lao 捕捞
 'bu'liang'ying'xiang 不良影响
+'bu'qu'zhi'yan 不屈之眼
 'bu'wen'ding'dian'liu 不稳定电流
 'bu'wen'ding'hua'he'wu 不稳定化合物
 'bu'xiang'miao'mi 不详喵咪
@@ -180,6 +187,7 @@
 'chang'dun 长盾
 'chang'jian'geng 常见梗
 'chang'pian'gua'ca 唱片刮擦
+'chang'xu'wa 长须蛙
 'chang'ye'zhi'zhi 长夜之治
 'chang'yong 常用
 'chang'yong'yu'yin 常用语音
@@ -199,6 +207,7 @@
 'chao'xin'xing 超新星
 'chao'zhang 潮涨
 'chao'zhen'sheng'bo 超震声波
+'chao'zhong'pai 超重派
 'chao'zi'ran 超自然
 'chen'jian'tun'pao 沉舰豚炮
 'chen'juan'xuan'feng 尘卷旋风
@@ -211,6 +220,7 @@
 'chi'hun 炽魂
 'chi'lie'huo'yu 炽烈火雨
 'chi'long 赤龙
+'chi're'wen'zhang 炽热纹章
 'chong'chao'si'wei 虫巢思维
 'chong'ji'bo 冲击波
 'chong'neng'shi'jian 充能时间
@@ -227,6 +237,7 @@
 'chuan'zhang 船长
 'chuan'zhen'yin'xian 穿针引线
 'chui'feng 吹风
+'chui'feng'ci'bao'bang'bang'wo 吹风磁暴帮帮我
 'chui'tiao'lv'yin'tui 吹跳绿隐推
 'chun'jie'zhi'chui 纯洁之锤
 'ci'bao 磁暴
@@ -235,12 +246,14 @@
 'ci'hua 磁化
 'ci'ji'fu'shi 次级腐蚀
 'ci'ji'jing'shen'ti 次级精神体
+'ci'neng'bu'huo 磁能捕获
 'ci'shu'xing 次属性
 'cong'lin'chi'hou 丛林斥候
 'cong'lin'zhi'hun 丛林之魂
 'cong'lin'zhi'wu 丛林之舞
 'cong'ming'ren'shang'fen 聪明人上分
 'cong'zhong'xin'li 从众心理
+'cu'bao 粗暴
 'cui'du'wu'qi 淬毒武器
 'cui'du'zhi'zhu 淬毒之珠
 'cui'xi'si 崔希丝
@@ -313,12 +326,14 @@
 'di'ci'zhi'wo 地磁之握
 'di'er'ji 第二级
 'di'fa'shi 敌法师
+'di'gui 递归
 'di'jing'de'tan'lan 地精的贪婪
 'di'jing'gong'cheng'shi 地精工程师
 'di'jing'si'lie'zhe 地精撕裂者
 'di'jing'xiu'bu'jiang 地精修补匠
 'di'kang'zhuan'yi 抵抗转移
 'di'lei'gun'gun 地雷滚滚
+'di'ling'ren'jie 地灵人杰
 'di'qiao'ji'lei 地壳积累
 'di'san'ji 第三级
 'di'san'zhi'yan 第三只眼
@@ -341,6 +356,7 @@
 'dian'feng'biao'yan 巅峰表演
 'dian'guang'shi'huo 电光石火
 'dian'gun 电棍
+'dian'hun 电魂
 'dian'ji'kai'wan 点击开玩
 'dian'ji'xiang'quan 电击项圈
 'dian'jiao'shi 垫脚石
@@ -349,6 +365,7 @@
 'dian'yan'jue'shou 电炎绝手
 'dian'zi'wo'liu 电子涡流
 'diao'xiang 雕像
+'die'xue'feng'bao 喋血风暴
 'ding'feng'zhuang'tai 顶峰状态
 'ding'ji'lue'shi'zhe 顶级掠食者
 'ding'wei 定位
@@ -368,6 +385,7 @@
 'du'jiao'shou'qiu 独角兽球
 'du'lai'du'wang 独来独往
 'du'long 毒龙
+'du'lun'che 独轮车
 'du'qiu 毒球
 'du'wu'hu'zhao 毒雾护罩
 'du'xing'gong'ji 毒性攻击
@@ -443,6 +461,7 @@
 'fei'xue'zhi'mao 沸血之矛
 'fei'zei'zhi'ren 飞贼之刃
 'fen'ge'tu'xiang 分割图像
+'fen'hong 分红
 'fen'lie'jian 分裂箭
 'fen'nu'xiao'guai 愤怒小怪
 'fen'shen'fu 分身斧
@@ -489,6 +508,7 @@
 'fu'la'di'mi'er'de'ji'pin 弗拉迪米尔的祭品
 'fu'la'di'mi'er'guang'huan 弗拉迪米尔光环
 'fu'lan 腐烂
+'fu'lan'zhi'he 腐烂之核
 'fu'ling'suo 缚灵锁
 'fu'long'dao 伏龙岛
 'fu'rou'dui'ji 腐肉堆积
@@ -519,12 +539,14 @@
 'gang'bei'zhu 钢背猪
 'gang'duo 刚铎
 'gang'mao'hou'bei 刚毛后背
+'gang'qiang'ju'dun 刚强巨盾
 'gang'shao'shou'wei 岗哨守卫
 'gao'chao'zhang'qi 高潮涨起
 'gao'di'ta 高地塔
 'gao'ji'xian'ling'zhi'huo 高级仙灵之火
 'gao'she'huo'pao 高射火炮
 'gao'tu'zheng'dao 高徒正道
+'gao'yuan 高远
 'ge'kong'qu'wu 隔空取物
 'ge'kong'qu'wu'zhuo'lu 隔空取物着陆
 'ge'lie 割裂
@@ -602,6 +624,7 @@
 'han'di'zhe 撼地者
 'han'dong'fei'long 寒冬飞龙
 'han'dong'zu'zhou 寒冬诅咒
+'han'jin 悍劲
 'han'shuang'bao'fa 寒霜暴发
 'han'shuang'gong'ji 寒霜攻击
 'han'shuang'zhi'zu 寒霜之足
@@ -611,8 +634,10 @@
 'hao'jiao 嗥叫
 'hao'jie'ju'chui 浩劫巨锤
 'hao'shi'duo'tan'mo 好事多贪魔
+'hao'you'xi'tong 好友系统
 'hao'zhu 豪猪
 'he'cheng'juan'zhou 合成卷轴
+'he'sheng'guang'huan 河生光环
 'he'xin 核心
 'hei'an'fei'sheng 黑暗飞升
 'hei'an'ju'mo'zhao'huan'fa'shi 黑暗巨魔召唤法师
@@ -655,6 +680,7 @@
 'hu'wei'shu 护卫术
 'hu'xing'shan'dian 弧形闪电
 'hu'you 忽悠
+'hu'yue'chan'rao 虎跃缠扰
 'hua'mu'ji 花母鸡
 'hua'xing'zhi'ying 滑行之影
 'hua'xue'kuang'bao 化学狂暴
@@ -678,6 +704,8 @@
 'huan'ying'zhi'yu 幻影之域
 'huan'yue 环月
 'huang'chong 蝗虫
+'huang'dian 黄点
+'huang'dian'liu 黄点流
 'huang'mo'zhuo'yin 荒漠灼印
 'huang'quan'chan'dou 黄泉颤抖
 'huang'sha'man'tian 黄沙漫天
@@ -713,6 +741,7 @@
 'hun'duan 魂断
 'hun'dun 混沌
 'hun'dun'cheng'ba 混沌称霸
+'hun'dun'fen'hua 混沌分化
 'hun'dun'qi'shi 混沌骑士
 'hun'dun'yi'ji 混沌一击
 'hun'dun'yun'shi 混沌陨石
@@ -753,7 +782,9 @@
 'huo'yan'fei'xing 火焰飞行
 'huo'yan'feng'bao 火焰风暴
 'huo'yan'qi'xi 火焰气息
+'huo'yao'shou'tao 火药手套
 'ji'ban 羁绊
+'ji'ben'fa'ze'duan'zao 基本法则锻造
 'ji'chu'fen'lei 基础分类
 'ji'chu'gong'ji'jian'ge 基础攻击间隔
 'ji'chu'ji'neng 基础技能
@@ -792,6 +823,7 @@
 'ji'shao'cheng'duo 积少成多
 'ji'sheng'zhong'zi 寄生种子
 'ji'shi'gong'ji 即时攻击
+'ji'shou'zhi 鸡手指
 'ji'su 极速
 'ji'su'fu 极速符
 'ji'su'leng'que 急速冷却
@@ -807,6 +839,8 @@
 'ji'zhong'yin'bao 集中引爆
 'jia'dun'chong'ji 甲盾冲击
 'jia'gu 加固
+'jia'la'long 加拉隆
+'jia'la'long'dang'yu 加拉隆党羽
 'jia'li'ran'shao'qi 加力燃烧器
 'jia'su'hu'fu 加速护符
 'jia'su'mo'shi 加速模式
@@ -823,6 +857,7 @@
 'jian'jia'qiu 减甲球
 'jian'jia'shi 减甲石
 'jian'pu'duan'mao 简朴短帽
+'jian'qiang 坚强
 'jian'ren 坚韧
 'jian'ren'feng'bao 剑刃风暴
 'jian'ren'qiu 坚韧球
@@ -846,8 +881,11 @@
 'jie'jian'qie'zei 节俭窃贼
 'jie'ke'si 杰克斯
 'jie'qi'luo 杰奇洛
+'jie'song'fu'wu 接送服务
 'jie'xin'guang'huan 竭心光环
+'jie'zu 捷足
 'jin'gu'bang 金箍棒
+'jin'hua'kuang're 进化狂热
 'jin'hui'chong'bai'shi'dai 金辉崇拜时代
 'jin'ji'zhuo'lu 紧急着陆
 'jin'peng'zhi'xing 金鹏之幸
@@ -862,7 +900,9 @@
 'jing'hun'zhi'ren 净魂之刃
 'jing'ji'cong'sheng 荆棘丛生
 'jing'ji'mi'gong 荆棘迷宫
+'jing'jin'bu'xiu 精进不休
 'jing'jiu'bu'shuai 经久不衰
+'jing'jue 警觉
 'jing'ling'bu'dai 精灵布带
 'jing'ling'lang 精灵狼
 'jing'ling'long 精灵龙
@@ -883,11 +923,14 @@
 'jing'zhi'xian'jing 静止陷阱
 'jing'zhi'xian'jing 静滞陷阱
 'jing'zhun'guang'huan 精准光环
+'jiu'liao 灸疗
 'jiu'xian 酒仙
 'jiu'xian'xiong'mao 酒仙熊猫
 'jiu'you 酒友
 'ju'bian 剧变
 'ju'bu'sheng'feng 举步生风
+'ju'chi'dao 锯齿刀
+'ju'chi'duan'dao 锯齿短刀
 'ju'chi'fei'lun 锯齿飞轮
 'ju'chi'fei'lun'er 锯齿飞轮二
 'ju'chi'lun'xuan 锯齿轮旋
@@ -898,6 +941,7 @@
 'ju'du'zhi'hua 剧毒之花
 'ju'feng 飓风
 'ju'feng'chang'ji 飓风长戟
+'ju'feng'hu'dun 飓风护盾
 'ju'feng'zhi'li 飓风之力
 'ju'guang'deng 聚光灯
 'ju'he'shen'fu 聚合神符
@@ -913,6 +957,7 @@
 'ju'mo'zhan'jiang 巨魔战将
 'ju'ren'zhi'jie 巨人之戒
 'ju'she'shou'wei 巨蛇守卫
+'ju'shen 巨神
 'ju'shen'ben'fang'you 巨神奔放游
 'ju'shen'can'tie 巨神残铁
 'ju'shi'chong'ji 巨石冲击
@@ -937,17 +982,23 @@
 'ka'luo'ke 卡洛克
 'ka'te'er 卡特尔
 'kai'guo 开锅
+'kai'lu'xian'feng 开路先锋
 'kai'ta'fang 开塔防
 'kai'wu 开雾
 'kai'zu'ma'li 开足马力
+'kang'han 抗寒
 'kang'jia'wu 康加舞
 'kang'mo'dou'peng 抗魔斗篷
 'kao'lin 考林
 'ke'di'ji'xian 克敌机先
+'ke'dou 蝌蚪
+'ke'dou'hu'fu 蝌蚪护符
 'ke'kao'tie'chan 可靠铁铲
 'ke'li'ao'si'te'luo 科里奥斯特罗
 'ke'li'se'li'si 克里瑟历斯
 'ke'lin'ke'zi 克林克兹
+'ke'rui'ke'si 科瑞克斯
+'ke'rui'ke'si'xue'zhe 科瑞克斯学者
 'ke'te 柯特
 'kong'ao'zhi'xin 恐鳌之心
 'kong'bu'bo'dong 恐怖波动
@@ -964,6 +1015,7 @@
 'ku'lou'wang 骷髅王
 'ku'lou'zhan'shi 骷髅战士
 'ku'wei'zhi'shi 枯萎之石
+'ku'wei'zhi'zhu 枯萎之珠
 'kuai'qi'lai'zhao'mi 快起来着迷
 'kuai'su'fu'xiu 快速腐朽
 'kuan'rong'zhi'xue 宽容之靴
@@ -972,11 +1024,13 @@
 'kuang'bao'yao'ji 狂暴药剂
 'kuang'feng 狂风
 'kuang'feng'quan'fa 狂风拳法
+'kuang'huan'jing'dian 狂欢经典
 'kuang'lie 狂猎
 'kuang'meng 狂猛
 'kuang'nu'lian'ji 狂怒连技
 'kuang're 狂热
 'kuang'shan 矿山
+'kuang'shi 狂石
 'kuang'zhan'fu 狂战斧
 'kuang'zhan'shi'de'nu'hou 狂战士的怒吼
 'kuang'zhan'shi'zhi'hou 狂战士之吼
@@ -1053,11 +1107,13 @@
 'liang'ge'chi'shu'xie'xie 两个吃树谢谢
 'liang'ji'fan'zhuan 两级反转
 'liang'mian'san'dao 两面三刀
+'liao'shang'lian'hua 疗伤莲花
 'liao'shang'zhi'chui 疗伤之锤
 'liao'tian'lun'pan 聊天轮盘
 'liao'ya'chong'ci 獠牙冲刺
 'lie'di'gou'he 裂地沟壑
 'lie'di'jian'ci 裂地尖刺
+'lie'feng'hu'ti 烈风护体
 'lie'hun'ren 裂魂人
 'lie'huo 烈火
 'lie'huo'hu'dun 烈火护盾
@@ -1115,6 +1171,7 @@
 'liu'pai'bian'huan 流派变换
 'liu'xian'dan 榴霰弹
 'liu'xing 流星
+'liu'xing'gan'yue 流星赶月
 'long'fu'guang'huan 龙肤光环
 'long'juan'feng 龙卷风
 'long'po'zhan 龙破斩
@@ -1152,6 +1209,7 @@
 'mao'ji 锚击
 'mao'mao'mao 毛毛帽
 'mao'tuan 毛团
+'mao'xian 冒险
 'mei'du'sha 美杜莎
 'mei'huo 魅惑
 'mei'huo'mo'nv 魅惑魔女
@@ -1241,6 +1299,7 @@
 'mo'li'fa'zhang 魔力法杖
 'mo'li'jian'dai 魔力箭袋
 'mo'li'ming'deng 魔力明灯
+'mo'li'yao'shui 魔力药水
 'mo'long'qiang 魔龙枪
 'mo'long'zhi'neng 魔龙之能
 'mo'neng'zhi'hun 魔能之魂
@@ -1272,6 +1331,7 @@
 'nai'jiu 耐久
 'nai'ke'si 奈克斯
 'nai'lao 奶酪
+'nai'lao'kuai 奶酪块
 'nai'lv 奶绿
 'nai'sa'ji 耐萨基
 'nai'wen'mo'er 奈文摩尔
@@ -1301,8 +1361,10 @@
 'nong'mo'zhong'cai 浓墨重彩
 'nu'pao 弩炮
 'nu'quan'po 怒拳破
+'nu'quan'yi'xian 怒拳一现
 'nu'yi'kuang'ji 怒意狂击
 'nuo'chong 诺崇
+'ou'ji'ren'qun 殴击人群
 'pa'ge'na 帕格纳
 'pa'ge'na'min'zui 帕格纳抿嘴
 'pa'ji 帕吉
@@ -1317,12 +1379,15 @@
 'peng'you'na'shi'ni'de 朋友那是你的
 'pi'li'tie'shou 霹雳铁手
 'pi'li'zhi'shou 霹雳之手
+'pi'luo'shi'dou'peng 皮洛士斗篷
 'piao'bo'jue'ying 漂泊绝影
 'piao'hu'bu'ding 飘忽不定
 'ping'shi'jian 平世剑
+'po'bing'xing'dong 破冰行动
 'po'fa 破法
 'po'huai 破坏
 'po'sui 破碎
+'po'sui'zhi'guan 破碎之冠
 'po'xiao'chen'xing 破晓辰星
 'pu'gong'ying'hu'fu 蒲公英护符
 'pu'li'si'te'lei'ting 普利斯特雷霆
@@ -1343,6 +1408,7 @@
 'qi'zha'shi'dou'peng 欺诈师斗篷
 'qian'bian'huan'jing 千变幻景
 'qian'dan 铅弹
+'qian'fu'hou'ji 前赴后继
 'qian'jie'shen'gou 千劫神钩
 'qian'jie'shen'tu 千劫神屠
 'qian'kun'zhi'yue 乾坤之跃
@@ -1417,10 +1483,12 @@
 're'xue'yun'dong 热血运动
 're'xue'zhan'hun 热血战魂
 'ren'ai'zhi'you 仁爱之友
+'ren'bu'jian'le 人不见了
 'ren'ci'yu'en'ze 仁慈与恩泽
 'ren'gu 韧鼓
 'ren'jia 刃甲
 'ren'ma 人马
+'ren'mei'le 人没了
 'ren'qun'tan'xi 人群叹息
 'ren'shu 忍术
 'ren'xin'ren'shu 仁心仁树
@@ -1443,6 +1511,7 @@
 'rui'si'tu'er'jian'bi 瑞斯图尔尖匕
 'rui'tuo'cui'pu 瑞托崔普
 'rui'wen'te'er 瑞文特尔
+'rui'zhi 睿智
 'rui'zi'la'ke 瑞兹拉克
 'ruo'hua'neng'liu 弱化能流
 'sa'dan'zhi'xie'li 撒旦之邪力
@@ -1458,6 +1527,7 @@
 'san'cha'ji 三叉戟
 'san'dan 散弹
 'san'hua 散华
+'san'huang'dui'dian 三黄对点
 'san'hui'dui'jian 散慧对剑
 'san'hun'jian 散魂剑
 'san'shi 散失
@@ -1506,15 +1576,18 @@
 'shang'lu'fu 上路符
 'shang'lu'mei'le 上路没了
 'shang'lu'mei'ren'le 上路没人了
+'shang'lu'ren'mei'le 上路人没了
 'shang'lu'shi'zong 上路失踪
 'shang'lu'ying'xiong'shi'zong 上路英雄失踪
 'shang'wai'ta 上外塔
 'shang'xia'qiu'suo 上下求索
+'shao'shi 烧蚀
 'she'bang 蛇棒
 'she'fa'nv'yao 蛇发女妖
 'she'shou'tian'fu 射手天赋
 'shen'chu'mi'shu'tuan'huo 身处秘术团伙
 'shen'fu 神符
+'shen'fu'fu'zhi 神符复制
 'shen'fu'guan'zhu 神符灌注
 'shen'hai'chu'xu 深海触须
 'shen'hai'hu'zhao 深海护罩
@@ -1525,6 +1598,7 @@
 'shen'ling'wu'shi 神灵武士
 'shen'long'bai'wei 神龙摆尾
 'shen'long'zhi'xue 神龙之血
+'shen'mi 神秘
 'shen'mi'fa'zhang 神秘法杖
 'shen'mi'shang'dian 神秘商店
 'shen'mi'tiao'zhan 神秘挑战
@@ -1538,6 +1612,9 @@
 'shen'sheng'yi'tiao 神圣一跳
 'shen'sheng'zhi'nu 神圣之怒
 'shen'sheng'zhi'xin'kun'bang'bao 神圣之心捆绑包
+'shen'shui'chu'xu 深水触须
+'shen'shui'wu'qi 深水武器
+'shen'shui'yu'qun 深水鱼群
 'shen'wang 神王
 'shen'xin 身心
 'shen'xing'bai'bian 神行百变
@@ -1642,6 +1719,7 @@
 'shou'wang 兽王
 'shou'wei'chong'ci 守卫冲刺
 'shou'wei'jiang'lin 守卫降临
+'shou'yi'di'jian 收益递减
 'shou'yu'li'liang 授予力量
 'shou'zhe'mo'de'ling'hun 受折磨的灵魂
 'shu'fu'ji 束缚击
@@ -1674,13 +1752,16 @@
 'shuang'leng'shou'hu 霜冷守护
 'shuang'long 霜龙
 'shuang'ren'jian 双刃剑
+'shuang'sheng'kong'bu 双生恐怖
 'shuang'sheng'zhi'men 双生之门
 'shuang'tou'long 双头龙
 'shuang'zhi'ai'shang 霜之哀伤
 'shui'dao 水刀
 'shui'jing 水井
 'shui'jing'jian 水晶剑
+'shui'jing'qiu 水晶球
 'shui'jing'shi'nv 水晶室女
+'shui'pao'pao 水泡泡
 'shui'ren 水人
 'shuo'feng'zhan'dou'fa'shi 朔风战斗法师
 'si'bu'en 斯布恩
@@ -1695,6 +1776,7 @@
 'si'la'ke 斯拉克
 'si'lie'da'di 撕裂大地
 'si'lie'shang'kou 撕裂伤口
+'si'lie'zhi'bian 撕裂之鞭
 'si'ling'fa 死灵法
 'si'ling'fa'shi 死灵法师
 'si'ling'fei'long 死灵飞龙
@@ -1732,6 +1814,7 @@
 'sui'lu'chui 碎颅锤
 'sui'mu'ji 碎木机
 'sui'tu'kui'lei 碎土傀儡
+'sun'ying 隼影
 'suo'bi 锁闭
 'suo'di 缩地
 'suo'xiao'she'xian 缩小射线
@@ -1745,6 +1828,7 @@
 'tai'xu'zhi'ren 太虚之刃
 'tai'yang'jin'hui 太阳金辉
 'tai'yang'neng'chong'dian 太阳能充电
+'tan'lan'xi'li 贪婪犀利
 'tan'mo 贪魔
 'tan'mo'de'tan'lan 贪魔的贪婪
 'tan'she'fa'zhang 弹射法杖
@@ -1756,6 +1840,7 @@
 'tao'sheng 逃生
 'tao'sheng'ji 逃生技
 'tao'tai'zhi'ren 淘汰之刃
+'te'bie'chu'bei 特别储备
 'te'kuai'zhuan'di 特快专递
 'te'lei'si'ting 特蕾斯汀
 'te'zhi'xue'tiao 特制血条
@@ -1770,6 +1855,7 @@
 'tian'guo'en'ci 天国恩赐
 'tian'hui 天辉
 'tian'hui'jian'zhu 天辉建筑
+'tian'mi'shi'fang 甜蜜释放
 'tian'ming'wu'chang'wu'qi 天命无常武器
 'tian'ming'zhi'yu 天命之雨
 'tian'nu'fa'shi 天怒法师
@@ -1782,6 +1868,7 @@
 'tian'ya'mo'ke 天涯墨客
 'tian'yi'zhi'dun 天裔之盾
 'tian'yi'zhi'zhang 天裔之杖
+'tian'yin'zhi'chu 天隐之触
 'tian'ying'jie 天鹰戒
 'tian'ying'zhi'jie 天鹰之戒
 'tian'you'yong'zhe 天佑勇者
@@ -1829,6 +1916,8 @@
 'tun'shi 吞噬
 'tun'shi'jing'hua 吞食精华
 'tun'shi'ku'lou 吞噬骷髅
+'tuo'na'lu'si 托纳鲁斯
+'tuo'na'lu'si'xin'zhi 托纳鲁斯心智
 'wa'jue 挖掘
 'wai'ta 外塔
 'wan'chu'feng'cai 玩出风采
@@ -1862,6 +1951,7 @@
 'wen'yi'shou'wei 瘟疫守卫
 'wen'zi'weng'weng'sheng 蚊子嗡嗡声
 'wo'men'hai'mei'jie'shu 我们还没结束
+'wu'bian 无边
 'wu'di'zhan 无敌斩
 'wu'du'bian'shen'shu 巫毒变身术
 'wu'du'hui'fu'shu 巫毒回复术
@@ -1878,6 +1968,7 @@
 'wu'shu 巫术
 'wu'shu'jing'yan 巫术精研
 'wu'shuang'gui'mei 无双鬼魅
+'wu'tai'zhong'yang 舞台中央
 'wu'wei 无畏
 'wu'xuan 无玄
 'wu'yao 巫妖
@@ -1892,6 +1983,7 @@
 'xi'wa 希瓦
 'xi'wa'de'shou'hu 希瓦的守护
 'xi'xue'guang'huan 吸血光环
+'xi'xue'gui 吸血鬼
 'xi'xue'gui'liao'ya 吸血鬼獠牙
 'xi'xue'mian'ju 吸血面具
 'xi'xue'zhi'hun 吸血之魂
@@ -1932,6 +2024,7 @@
 'xiang'wei'xie 相位鞋
 'xiang'wei'yi'dong 相位移动
 'xiang'wei'zhuan'yi 相位转移
+'xiang'yi'wei'ming 相依为命
 'xiang'ying'zhi'chai 翔影之钗
 'xiao'an'mie 小暗灭
 'xiao'bing'bing 小冰冰
@@ -2000,12 +2093,14 @@
 'xiong'miao 凶喵
 'xiong'xin'bao'dan 熊心豹胆
 'xiong'xin'bo'bo 熊心勃勃
+'xiong'yi'qiu'jing 熊亦求精
 'xiong'zhan'shi 熊战士
 'xiong'zi'ying'fa 熊姿英发
 'xiu'bu'jiang 修补匠
 'xiu'dou'mo'dao'shi 秀逗魔导士
 'xu'kong 虚空
 'xu'kong'jia'mian 虚空假面
+'xu'kong'shi'zhe 虚空使者
 'xu'ling'dao 虚灵刀
 'xu'ling'ti 虚灵体
 'xu'ling'zhi'ren 虚灵之刃
@@ -2037,6 +2132,7 @@
 'xue'ping 血瓶
 'xue'qiu 雪球
 'xue'rou'kui'lei 血肉傀儡
+'xue'rou'sheng'yan 血肉盛宴
 'xue'se'chong'feng 血色冲锋
 'xue'se'wai'yi 血色外衣
 'xue'tiao'hu'dun 血条护盾
@@ -2053,6 +2149,7 @@
 'xun'ji'shan'guang 迅疾闪光
 'xun'jie'guang'huan 迅捷光环
 'xun'shou'shu 驯兽术
+'xun'su 迅速
 'ya'ba'dun 亚巴顿
 'ya'dao'xing'you'shi 压倒性优势
 'ya'te'lan'feng'suo'jian'chuan'shuo 亚特兰封锁舰传说
@@ -2076,6 +2173,7 @@
 'yang'yan'chong'ji 阳炎冲击
 'yao'da'ge 要大哥
 'yao'kong'zha'dan 遥控炸弹
+'yao'she 腰射
 'yao'shu 妖术
 'yao'yao'le 摇摇乐
 'ye'cha 夜叉
@@ -2145,8 +2243,12 @@
 'ying'te'er'shi'jie'gong'kai'sai 英特尔世界公开赛
 'ying'wu'chang'dao 影武长刀
 'ying'xiong 英雄
+'ying'xiong'hao'li 英熊好礼
+'ying'xiong'shi'zong 英雄失踪
 'ying'yong 英勇
 'ying'zhi'ling'kan 影之灵龛
+'yong'heng 永恒
+'yong'heng'li'liang 永恒力量
 'yong'heng'suo'lian 永恒锁链
 'yong'heng'yi'bao 永恒异宝
 'yong'heng'yi'wu 永恒遗物
@@ -2207,6 +2309,7 @@
 'yuan'cheng'dan'dao 远程弹道
 'yuan'dun 圆盾
 'yuan'gu'bing'hun 远古冰魂
+'yuan'gu'chang'xu'wa 远古长须蛙
 'yuan'gu'han'bing'sa'man 远古寒冰萨满
 'yuan'gu'hei'fu'you 远古黑蜉蝣
 'yuan'gu'hei'long 远古黑龙
@@ -2217,6 +2320,7 @@
 'yuan'gu'shi'seng'qian'xing'zhe 远古侍僧潜行者
 'yuan'gu'shuang'hai'kui'lei 远古霜害傀儡
 'yuan'gu'yan'shi'kui'lei 远古岩石傀儡
+'yuan'gu'zhao'wa'fa'shi 远古沼蛙法师
 'yuan'hai'jue'ying 渊海绝影
 'yuan'hou'bu'fa 猿猴步法
 'yuan'huan 圆环
@@ -2252,6 +2356,7 @@
 'yun'chui 晕锤
 'yun'xing'chui 陨星锤
 'za'ji'wan'ju 杂技玩具
+'za'shua'ao'mi 杂耍奥秘
 'za'yun'shi 砸陨石
 'zai'zhuang'tian 再装填
 'ze'te 泽特
@@ -2288,6 +2393,9 @@
 'zhao'mi 着迷
 'zhao'ming'huo'jian 照明火箭
 'zhao'niao 找鸟
+'zhao'wa 沼蛙
+'zhao'wa'fa'shi 沼蛙法师
+'zhao'wa'fa'shi'xue'tu 沼蛙法师学徒
 'zhe'du 蛰毒
 'zhe'guang 折光
 'zhe'guang'jing 折光镜
@@ -2311,15 +2419,19 @@
 'zhen'wang'jiang'lin 真王降临
 'zhen'xiong'xing'tai 真熊形态
 'zhen'yan 真眼
+'zhen'yi 振翼
 'zhen'ying 阵营
 'zhen'ying'yu'huo'dong 阵营与活动
 'zheng'bu 正补
 'zheng'gu'dian 整蛊垫
 'zheng'yi'zhi'fu 正义之斧
+'zhi'ai'duan'bi 窒碍短匕
 'zhi'bao 至宝
+'zhi'can'zhi'nu 致残之弩
 'zhi'di'zhao'gou 制敌爪钩
 'zhi'hui'fu 智慧符
 'zhi'hui'shen'fu 智慧神符
+'zhi'hui'shen'kan 智慧神龛
 'zhi'hui'zhi'ren 智慧之刃
 'zhi'jie 肢解
 'zhi'li 智力
@@ -2335,6 +2447,7 @@
 'zhi'mie 智灭
 'zhi'ming'lian'jie 致命连接
 'zhi'ming'yi'ji 致命一击
+'zhi'ming'yi'jian 致命一箭
 'zhi'pei'si'ling 支配死灵
 'zhi'pei'tou'kui 支配头盔
 'zhi'shi'zhi'shu 知识之书
@@ -2351,14 +2464,18 @@
 'zhong'li'dai'bi 中立代币
 'zhong'li'jing 重力井
 'zhong'li'sheng'wu 中立生物
+'zhong'li'sheng'wu'fu'mo 中立生物附魔
 'zhong'li'sheng'wu'ming'cheng 中立生物名称
 'zhong'li'sheng'wu'wu'pin 中立生物物品
+'zhong'li'wu'pin 中立物品
+'zhong'li'wu'pin'fu'mo 中立物品附魔
 'zhong'lu 中路
 'zhong'lu'bu'jian'le 中路不见了
 'zhong'lu'mei'le 中路没了
 'zhong'lu'mei'ren'le 中路没人了
 'zhong'lu'shi'zong 中路失踪
 'zhong'lu'ying'xiong'shi'zong 中路英雄失踪
+'zhong'mao'zhi'de 众矛之的
 'zhong'shen'zhi'wang 众神之王
 'zhong'shi'bu'xia 忠实部下
 'zhong'shi'shu'xia 忠实属下
@@ -2382,6 +2499,7 @@
 'zhuan'shen'su'lv 转身速率
 'zhuang'han'shang'fen 壮汉上分
 'zhuang'jia'li'liang 装甲力量
+'zhuang'shi 壮实
 'zhui'bi 追逼
 'zhui'ji'zhi'mao 追击之矛
 'zhui'zong'dao'dan 追踪导弹

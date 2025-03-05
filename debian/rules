@@ -4,7 +4,7 @@
 	dh $@
 
 override_dh_auto_configure:
-	chmod +x scel/txt.sh
+	chmod +x scel/debian.sh
 	sh scel/txt.sh
 	cat *.txt > sougouciku.txt
 override_dh_auto_build:	      

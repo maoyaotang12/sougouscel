@@ -252,6 +252,7 @@
 'e'xing'xiong'mo'jie'jie 恶性胸膜结节
 'e'xing'xiong'qiang'ji'ye 恶性胸腔积液
 'er'tong'qi'xiao'chuan 儿童期哮喘
+'er'xing'hu'xi'shuai'jie 贰型呼吸衰竭
 'er'yang'hua'tan'bo'xing'tu 二氧化碳波形图
 'er'yang'hua'tan'chan'sheng'liang 二氧化碳产生量
 'er'yang'hua'tan'jie'li'qu'xian 二氧化碳解离曲线
@@ -1553,7 +1554,6 @@
 'xin'yuan'xing'fa'gan 心源性发绀
 'xin'yuan'xing'fei'shui'zhong 心源性肺水肿
 'xin'yuan'xing'hu'xi'kun'nan 心源性呼吸困难
-'xing'hu'xi'shuai'jie 型呼吸衰竭
 'xiong'bi'dou'dao 胸壁窦道
 'xiong'bi'e'xing'zhong'liu 胸壁恶性肿瘤
 'xiong'bi'ji'fa'e'xing'zhong'liu 胸壁继发恶性肿瘤

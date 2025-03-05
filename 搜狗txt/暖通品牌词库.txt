@@ -127,6 +127,7 @@
 'hua'chun 华春
 'hua'di 华帝
 'hua'lei 华雷
+'hua'ling 华凌
 'hua'sheng 华声
 'hua'tian'cheng 华天成
 'hua'wen'dong'li 华文东力
@@ -137,8 +138,10 @@
 'huo'ni'wei'er 霍尼韦尔
 'huo'si'wei'de 霍斯维德
 'ji'de'man 基德曼
+'ji'ming'hao'nuan'qi'pian 冀明昊暖气片
 'ji'nuo'de 基诺德
 'ji'wei 积微
+'ji'ya'nuan'qi'pian 冀亚暖气片
 'jia'bao 佳宝
 'jia'fu'si 佳福斯
 'jia'pin 佳品
@@ -214,6 +217,7 @@
 'mei'guo'bang'deng'jing'shui 美国邦登净水
 'mei'ken 美肯
 'mei'shi'dun 美诗盾
+'mei'xu 美旭
 'mei'ye 美业
 'mi'ke 米珂
 'mi'lan'chun'tian 米兰春天
@@ -243,6 +247,7 @@
 'pu'lin'ai'er 普林艾尔
 'pu'rui'shi 普瑞氏
 'qi'ba'jiu 柒捌玖
+'qiang'hao 强昊
 'qiang'ye 强野
 'qiao'zhi'fei'xie'er 乔治费歇尔
 'qing'dong 庆东
@@ -336,6 +341,7 @@
 'xin'fan 鑫帆
 'xin'fei 新飞
 'xin'hu 新沪
+'xin'hua'xing 鑫华星
 'xin'jie 新界
 'xin'ke 新科
 'xin'lei 鑫磊
@@ -391,6 +397,7 @@
 'zhen'xin 真心
 'zhi'gao 志高
 'zhi'hui'an'quan'yong'dian'bao'hu'qi 智慧安全用电保护器
+'zhong'chun 中春
 'zhong'guang 中广
 'zhong'ji 中际
 'zhong'ke'lan'tian 中科蓝天
