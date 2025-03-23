@@ -23,6 +23,7 @@
 'bao'lei'bao'hu'qu 堡垒保护区
 'bao'lie'chong 爆裂铳
 'bao'ran'nu 爆燃弩
+'bao'wei'zhan'yi 保卫战役
 'bei'bao'zhan'lue'pei'bei 背包战略配备
 'bei'la'te'li'ke'si 贝拉特里克斯
 'bi'lin'xing 比邻星
@@ -43,6 +44,7 @@
 'chai'chu'zhuan'jia 拆除专家
 'chang'bing'lian 长柄镰
 'chao'ji'di'qiu 超级地球
+'chao'ji'gong'min 超级公民
 'chao'ji'huo'bi 超级货币
 'chong'feng'qiang 冲锋枪
 'chong'feng'shou'qiang 冲锋手枪
@@ -94,6 +96,7 @@
 'fen'li'er'san'shi 芬里尔三世
 'fen'mai'er 芬迈尔
 'feng'xi 缝隙
+'fo'li'zhu'xing 佛里主星
 'fu'en'si'ke'gu'er'er'shi 福恩斯科古尔二世
 'fu'wu'qi 副武器
 'gai'le'te'bu'men 盖勒特部门
@@ -121,7 +124,7 @@
 'hu'wei'quan 护卫犬
 'hu'wei'quan'man'you'che 护卫犬漫游车
 'hua'xing 滑行
-'hui'fu 回复
+'huo'er'te 霍尔特
 'huo'jian'chao 火箭巢
 'huo'jian'shao'jie'pao 火箭哨戒炮
 'huo'jin'qu 霍金区
@@ -171,6 +174,7 @@
 'ka'la'ka'tu 喀拉卡图
 'ka'la'mu'er 卡拉穆尔
 'ka'lv'pu'suo 卡吕普索
+'ka'rong'zhu'xing 卡戎主星
 'kai'de 凯德
 'kai'er'wen'shan'qu 开尔文扇区
 'kai'long'xiao'xing'xing 凯隆小行星
@@ -184,6 +188,7 @@
 'ke'la'sa 克拉萨
 'ke'la'zi 克拉兹
 'ke'lun'da'si'er'shi 克伦达斯二世
+'ke'luo'er 可洛尔
 'ke'luo'sang 科洛桑
 'ke'luo'si'xing 克洛斯星
 'ke'nei'si'gang 克内斯港
@@ -236,8 +241,10 @@
 'min'zhu'qi'bing 民主骑兵
 'ming'tuo'li'ya 明托利亚
 'mo'ge 莫格
+'mo'la'dai'shen 莫拉戴什
 'mo'la'de'shen 莫拉德什
 'mo'li'di'ya 墨里迪亚
+'mo'li'di'ya 默里迪亚
 'na'mi'ban'kuai 纳米板块
 'nai'li'qiang'hua 耐力强化
 'neng'liang'wu'qi 能量武器
@@ -245,6 +252,7 @@
 'niao'pen 鸟喷
 'niu'hei'wen 纽黑文
 'ou'mi'ga'kong'jian'zhan 欧米伽空间站
+'pa'er'shen 帕尔什
 'pan'duo'la 潘多拉
 'pen'huo'qi 喷火器
 'pen'she'bei'bao 喷射背包
@@ -259,6 +267,7 @@
 'qi'you'dan'da'ji 汽油弹打击
 'qian'shao 前哨
 'qiang'hua'tu'ji'bing 强化突击兵
+'qiang'xi'chong 强袭虫
 'qiao'he 乔赫
 'qiao'te'wan 乔特湾
 'qin'mian 勤勉
@@ -272,7 +281,6 @@
 'ren'min'han'wei'zhe 人民捍卫者
 'rou'chui 肉锤
 'rou'lin'zhe 蹂躏者
-'ru'xian 乳腺
 'rui'xi'ang'zhu'xing 瑞西昂主星
 'sa'gan'qu 萨甘区
 'sai'bo'si'tan 赛博斯坦
@@ -316,6 +324,7 @@
 'tian'lang'xing 天狼星
 'tian'shi'de'mao'xian 天使的冒险
 'tian'shi'tan'xian 天使探险
+'tian'shi'tou'zi 天使投资
 'tou'zhi'jia 投掷甲
 'tou'zhi'wu 投掷物
 'tu'fu 屠夫
@@ -327,6 +336,7 @@
 'wa'er'mo'ke'si 瓦尔莫克斯
 'wa'li'li'ya 瓦里利亚
 'wa'sa'te 瓦萨特
+'wang'ye'xing'xing 网页行星
 'wei'er'fu'de'zhan 威尔福德站
 'wei'jia'wan 维加湾
 'wei'lan'shan'qu 味醂扇区
@@ -351,6 +361,7 @@
 'xiao'hao'xing'fan'tan'ke'wu'qi 消耗性反坦克武器
 'xiao'zhang 小张
 'xie'er'te 谢尔特
+'xin'biao 信标
 'xin'ji'lv'na 新基律纳
 'xin'qi 新七
 'xin'si'de'ge'er'mo 新斯德哥尔摩
@@ -393,6 +404,7 @@
 'zhan'lue'pei'bei'wu'qi 战略配备武器
 'zhan'shu 战术
 'zhan'zheng'zhai'quan 战争债券
+'zhang'ren'yi'wan 丈人一湾
 'zhe'zhi 折枝
 'zhen'cha'jia 侦查甲
 'zhen'dang'jie'fang'zhe 震荡解放者
@@ -407,6 +419,8 @@
 'zhong'pao'shou 重炮手
 'zhong'xing'hu'jia 中型护甲
 'zhong'xing'hu'jia 重型护甲
+'zhu'ban'zhe 主办者
+'zhu'ban'zhe'jian'dui 主办者舰队
 'zhu'er'hai'mu 朱尔海姆
 'zhu'wu'qi 主武器
 'zhu'zai 主宰
@@ -415,4 +429,5 @@
 'zi'you'feng 自由峰
 'zi'you'jiu'xing 自由救星
 'zi'you'ling 自由岭
+'zui'su'yi 觜宿一
 'zuo'si'ma 佐斯玛
