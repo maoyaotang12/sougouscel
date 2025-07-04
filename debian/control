@@ -6,8 +6,6 @@ Uploaders: maoyaotang <maoyaotang@deepin.org>,
 Build-Depends:
  debhelper-compat (= 13), libime-bin
 Standards-Version: 4.7.0
-Vcs-Browser: https://github.com/maoyaotang12/sougouscel/
-Vcs-Git: https://github.com/maoyaotang12/sougouscel.git
 Homepage: https://pinyin.sogou.com/dict/
 Rules-Requires-Root: no
 
