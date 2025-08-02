@@ -19,9 +19,7 @@
 'bai'zhou'pi 白皱皮
 'bao'cun 保存
 'bian'yuan'qian'huang 扁圆浅黄
-'biao'pai'wu'xie'wei 标牌误写为
 'bo'pi 薄皮
-'bo'yang 博洋
 'bo'yang'jiu 博洋九
 'bu'kong'xin 不空心
 'bu'lie 不裂
@@ -42,8 +40,6 @@
 'dan'lv'pi'bian'hou 淡绿皮边厚
 'dan'lv'rou'cui'shuang'tian 淡绿肉脆爽甜
 'di'se'qian 底色浅
-'dong'bei'pin'zhong 东北品种
-'dong'fang'zheng'da'chu'pin 东方正大出品
 'duan'tuo'xi'hua 短椭细花
 'duo'zhi 多汁
 'fen'bie'xuan'chu'lai 分别选出来
@@ -63,8 +59,6 @@
 'fen'rou'su'tian'lue'mian 粉肉酥甜略绵
 'fen'rou'su'xi'song'ruan 粉肉酥细松软
 'fen'rou'xi'su'shuang'kou 粉肉细酥爽口
-'fu'jia'lei 付佳磊
-'fu'yun'lai'lei 福运来类
 'gan'qiang 干腔
 'gao'yuan 高圆
 'gao'yuan'hua 高圆花
@@ -81,8 +75,6 @@
 'guo'shao'da 果稍大
 'guo'shu'zi'qiang'qi'pi 过熟籽腔起皮
 'guo'xiao 果小
-'hai'nan'fu'you'chu'pin 海南富友出品
-'he'jian'xia 贺剑霞
 'he'zi 褐籽
 'hei'he'zi 黑褐籽
 'hei'hua'zi 黑花籽
@@ -136,16 +128,13 @@
 'jia'pei 加配
 'jiao'kang 较抗
 'jin'ying'cui 紧硬脆
-'jing'yan'chu'pin 京研出品
 'kang'bing 抗病
-'ke'long'chu'pin 科龙出品
 'kong'xin 空心
 'kou'gan'hao 口感好
 'la'fen 腊粉
 'la'fen 蜡粉
 'la'fen'pi'bao 腊粉皮薄
 'la'fen'pi'bao'cui 蜡粉皮薄脆
-'lao'pu'ti'gong 老蒲提供
 'lie'kou 裂口
 'lie'kou'lie'guo 裂口裂果
 'lue'jin 略紧
@@ -177,8 +166,6 @@
 'nong'fen'rou'su'lue'song'tian 浓粉肉酥略松甜
 'nong'fen'rou'su'tian 浓粉肉酥甜
 'nong'fen'rou'xi'su'song 浓粉肉细酥松
-'nong'you'chu'pin 农友出品
-'nong'you'pin'zhong 农友品种
 'pi'bao 皮薄
 'pi'bao'cui 皮薄脆
 'pi'bao'hen'ren 皮薄很韧
@@ -212,7 +199,6 @@
 'rou'hong'su'tian'lue'mian 肉红酥甜略绵
 'rou'su 肉酥
 'sha'tian'mi 沙甜蜜
-'shan'dong'wen'ze'chu'pin 山东汶泽出品
 'shang'tang'zao 上糖早
 'shang'wang 上网
 'shang'xi'wang 上稀网
@@ -224,7 +210,6 @@
 'shen'hong'rou'su'sha 深红肉酥沙
 'sheng'gua'lie'guo 生瓜裂果
 'shi'he'qiu'ji'zhi'gen 适合秋季直根
-'shi'nong'gong'si 世农公司
 'shi'qiang 湿腔
 'shu'hou'yi'zhou'cai'ce 熟后一周采测
 'si'mu'ben 似母本
@@ -234,12 +219,8 @@
 'su'cui 酥脆
 'suan'tian 酸甜
 'tang'du'gao 糖度高
-'tang'zong'ti'gong 唐总提供
 'tao'hong'rou'su'song 桃红肉酥松
 'ti'gong 提供
-'tian'wang 甜王
-'tian'wang'lei 甜王类
-'tian'wang'lei'pin'zhong 甜王类品种
 'tiao'dai'xi'zheng'qi 条带细整齐
 'tuo'hua 椭花
 'tuo'hua'pi'ying'ren 椭花皮硬韧
@@ -252,7 +233,6 @@
 'tuo'yuan'hei'pi 椭圆黑皮
 'tuo'yuan'mo'lv'an'hua 椭圆墨绿暗花
 'wan'shu 晚熟
-'wang'gen'hong 王根红
 'wang'gou 网购
 'wang'gou'pin'zhong 网购品种
 'wang'xi 网稀
@@ -264,7 +244,6 @@
 'xiang'tian 香甜
 'xiao'he'zi 小褐籽
 'xiao'hei'zi 小黑籽
-'xin'man'cang 辛满仓
 'xing'bao'man 形饱满
 'xing'hao 形好
 'xing'shun 形顺
@@ -298,8 +277,6 @@
 'zao'shu 早熟
 'zao'shu'xiao'guo 早熟小果
 'zhang'shi'qiang 长势强
-'zhang'wei'dong 张卫东
-'zhe'jiang'mei'zhi'ao'zhong'ye 浙江美之奥种业
 'zhong'dian 重点
 'zhuan'huan'wan 转换晚
 'zi'qiang'da 籽腔大

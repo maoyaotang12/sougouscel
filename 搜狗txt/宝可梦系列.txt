@@ -327,6 +327,7 @@
 'du'jiao'chong 独角虫
 'du'jiao'xi'niu 独角犀牛
 'du'ku'wa 毒骷蛙
+'du'kui'lei 毒傀儡
 'du'lan'xiong 堵拦熊
 'du'liao 毒疗
 'du'man'di 毒满地
@@ -416,6 +417,7 @@
 'gai'nuo'sai'ke'te 盖诺赛克特
 'gai'ou'ka 盖欧卡
 'gan'jin 干劲
+'gan'lu'zhi'mi 甘露之蜜
 'gan'zao'pi'fu 干燥皮肤
 'gang'kai'ya 钢铠鸦
 'gang'long 钢龙
@@ -469,6 +471,7 @@
 'gui'chan 鬼蝉
 'gui'jiao'jiao 龟脚脚
 'gui'jiao'lu 诡角鹿
+'gui'ling'hua'jing 归零化境
 'gui'si 鬼斯
 'gui'si'tong 鬼斯通
 'gui'tai'jing 鬼太晶
@@ -702,6 +705,7 @@
 'kua'ke'chong'neng 夸克充能
 'kuai'long 快龙
 'kuai'quan'lang 快拳郎
+'kuan'dai 款待
 'kuang'huan'lang'wu'ya 狂欢浪舞鸭
 'kuang'wu'dan'qun 矿物蛋群
 'kui'jia'niao 盔甲鸟
@@ -714,6 +718,7 @@
 'la'lu'la'si 拉鲁拉丝
 'la'pu'la'si 拉普拉斯
 'lai'bei'cha 来悲茶
+'lai'bei'cu'cha 来悲粗茶
 'lai'dian'wang 来电汪
 'lai'xi'la'mu 莱希拉姆
 'lan'chan'chu 蓝蟾蜍
@@ -853,6 +858,7 @@
 'mi'bu'li'mu 迷布莉姆
 'mi'chun'jie 迷唇姐
 'mi'chun'wa 迷唇娃
+'mi'ji'da'she 蜜集大蛇
 'mi'le'dun 密勒顿
 'mi'li'long 米立龙
 'mi'ni'bing 迷你冰
@@ -863,6 +869,7 @@
 'mian'mian'pao'fu 绵绵泡芙
 'mian'xu 棉絮
 'mian'yi 免疫
+'mian'ying'hui'ying 面影辉映
 'miao'miao 喵喵
 'miao'miao 妙喵
 'miao'tou'mu 喵头目
@@ -970,6 +977,7 @@
 'ping'guo'long 苹裹龙
 'po'ge 破格
 'po'ke 破壳
+'po'kong'yan 破空焰
 'po'pi'dai 破批带
 'po'po'dai 破破袋
 'po'po'duo'lun 破破舵轮
@@ -1151,6 +1159,7 @@
 'tai'gu'yu'chong 太古羽虫
 'tai'jing'bai'gei 太晶白给
 'tai'jing'bao'zha 太晶爆炸
+'tai'jing'bian'xing 太晶变形
 'tai'jing'bing 太晶冰
 'tai'jing'cao 太晶草
 'tai'jing'chao 太晶超
@@ -1165,6 +1174,7 @@
 'tai'jing'gui 太晶鬼
 'tai'jing'hua 太晶化
 'tai'jing'huo 太晶火
+'tai'jing'jia'qiao 太晶甲壳
 'tai'jing'long 太晶龙
 'tai'jing'shui 太晶水
 'tai'jing'xian 太晶仙
@@ -1181,6 +1191,7 @@
 'tan'tan'shu 探探鼠
 'tan'xiao'shi 炭小侍
 'tan'xin'li'shu 贪心栗鼠
+'tao'dai'lang 桃歹郎
 'tao'pao 逃跑
 'te'dun 特盾
 'te'gong'shou 特攻手
@@ -1217,6 +1228,7 @@
 'tie'jing'ji 铁荆棘
 'tie'ke'yong 铁壳蛹
 'tie'mian'ren'zhe 铁面忍者
+'tie'pan'yan 铁磐岩
 'tie'pao'yu 铁炮鱼
 'tie'quan 铁拳
 'tie'tou'ke 铁头壳
@@ -1348,6 +1360,7 @@
 'xin'ling'gan'ying 心灵感应
 'xin'qing'bu'ding 心情不定
 'xin'shi'niao 信使鸟
+'xin'yan 心眼
 'xin'ye'miao 新叶喵
 'xing'fu'dan 幸福蛋
 'xiong'bao'bao 熊宝宝

@@ -1,0 +1,721 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta content="搜狗输入法下载,搜狗输入法,搜狗拼音输入法,Sogou输入法" name="keywords"/>
+<link rel="Shortcut Icon" href="//pinyin.sogou.com/favicon.ico?v=1.0" type="image/x-icon" />
+<title>搜狗细胞词库_词库下载_词典_输入法字典</title>
+<link href="/dict/dict_new_static/css/reset.css" type="text/css" rel="stylesheet" />
+<link href="//imedl.sogoucdn.com/index/2.0/login.css" type="text/css" rel="stylesheet" />
+<script language="javascript" src="//imedl.sogoucdn.com/index/js/jquery-1.7.2.min.js"></script>
+<script language="javascript" src="/dict/dict_new_static/js/facybox.js"></script>
+<script language="javascript" src="/dict/dict_new_static/js/global.js"></script>
+<script language="javascript" src="/dict/dict_new_static/js/urlencode.js"></script>
+<link rel="stylesheet" type="text/css" href="/dict/dict_new_static/css/css4catenav.css" />
+<script language="javascript">
+    var n = new Date().getTime(); 
+	</script> 
+<script language="javascript" src="/dict/dict_new_static/js/index/pv.js"></script>
+</head>
+<style>
+#wrapper{ width:100%; height:135px;margin-bottom:22px; position:relative; z-index:20; background:url(//imedl.sogoucdn.com/index/header/wrapper_bg.png) repeat-x;}
+#header{ width:1000px; height:135px; margin:0 auto; position:relative;}
+
+#product{ width:1000px; height:30px; float:left;}
+#topnav{ width:800px; height:30px; float:left;}
+#topnav ul li{ float:left;  }
+#topnav ul li div{ float:left;}
+.topnav_name a{ float:left; height:16px;font-size:12px; color:#7a7a7a;font-family:'宋体';margin-top:7px; margin-top:9px\9;}
+.topnav_name a:hover{color:#ff8049;}
+.separator{ width:25px; height:25px; float:left; background:url(//imedl.sogoucdn.com/index/header/separator.png) center 2px no-repeat;}
+.separator.last{ background:none;}
+
+#user_info{ width:200px; height:30px; float:left;}
+#user_info ul li{ float:right;}
+#user_info ul li div{ float:left;}
+/*#user_info ul li div a{float:left; display:block; font-size:12px; color:#7a7a7a;margin-top:7px;cursor:pointer;margin-top:9px\9;white-space:nowrap;overflow:hidden;text-overflow: ellipsis;}*/
+#user_info ul li div a{max-width:100px;float:left; display:block; font-size:12px; color:#7a7a7a;margin-top:7px;cursor:pointer;
+overflow:hidden;text-align: right;overflow:hidden;white-space:nowrap;text-overflow: ellipsis;margin-top:9px\9;}
+#user_info ul li div a:hover{color:#ff8049;text-decoration:none;}
+
+#logo a{ width:193px; height:40px; float:left; background:url(//imedl.sogoucdn.com/index/header/logo.png) no-repeat; margin-top:15px;}
+
+#search_input{width:325px;height:32px;background:url(//imedl.sogoucdn.com/index/header/search_box.png) no-repeat;padding: 8px 0 0 3px;position:absolute;top:50px;left:675px;overflow:hidden;}
+#search_input.focus{background:url(//imedl.sogoucdn.com/index/header/search_box_focus.png) no-repeat;}
+#search_btn{width:32px;height:32px; position:absolute;left:968px;top:50px;}
+#search_btn a{display:block;width:100%;height:100%;}
+#searchTip{border: medium none;outline: 0 none;margin:0px 0 0 6px;padding:0;height: 16px;width: 270px;line-height:16px; _display:inline;}
+#search_keyword_list{ width:323px;position:absolute;left:675px;top:82px;border:1px solid #e3e3e3;border-top:0px;background:#FFF;z-index:100;display:none;}
+#search_keyword_list ul li{width:325px;height:13px;float:left;margin:10px 0 0 10px;}
+#search_keyword_list ul li a{width:100%;height:13px;float:left;}
+#search_keyword_list ul li img{ float:left;}
+#search_keyword_list ul li div{ float:left;font-size:14px;margin:-3px 0 0 10px; color:#999999;}
+#search_list_btm{float:left;width:180px;height:10px;}
+
+#nav_list{ width:1000px; height:35px; float:left; margin-top:15px;}
+#nav_list ul li{ height:35px; float:left; margin-right:30px;_display:inline; _display:inline;}
+#nav_list ul li a{ height:35px; float:left;}
+#nav_list ul li a:hover{ background:#e94f0d;}
+#nav_list ul li a.current{ background:#e94f0d;}
+.nav_name{float:left; margin:5px 21px 0; _display:inline;color:#ffffff; font-size:18px;font-family: "Microsoft Yahei","微软雅黑",Tahoma,Arial,Helvetica,STHeiti;cursor:pointer;}
+#nav_list ul li.nav_list_last{ margin-right:0px;}
+#zmeit{position:relative;}
+#zmeit_new{position:absolute;background:url(//imedl.sogoucdn.com/index/2.0/new.png) no-repeat 0px 0px;width:26px;height:14px;top:-16px;left:143px;}
+
+</style>
+<!-- wrapper start -->
+<div id="wrapper">
+	<div id="header">
+    	<!-- product start -->
+    	<div id="product">
+        	<div id="topnav">
+            	<ul>
+					                	<li>
+                    	<div class="topnav_name"><a href="//shouji.sogou.com/?r=pinyin">输入法手机版</a></div>
+                        <div class="separator 1"></div>
+                    </li>
+					                	<li>
+                    	<div class="topnav_name"><a href="//pinyin.sogou.com/mac/?r=pinyin">输入法Mac版</a></div>
+                        <div class="separator 2"></div>
+                    </li>
+					                	<li>
+                    	<div class="topnav_name"><a href="https://pinyin.sogou.com/linux/business/">输入法企业版</a></div>
+                        <div class="separator 9"></div>
+                    </li>
+					                	<li>
+                    	<div class="topnav_name"><a href="//pinyin.sogou.com/linux/?r=pinyin">输入法Linux版</a></div>
+                        <div class="separator 3"></div>
+                    </li>
+					                	<li>
+                    	<div class="topnav_name"><a href="//wubi.sogou.com/?r=pinyin">五笔输入法</a></div>
+                        <div class="separator 4"></div>
+                    </li>
+					                </ul>
+            </div>
+			            <div id="user_info">
+            	<ul>
+				                    <li><div><a href="//pinyin.sogou.com/user/signup.php">注册</a></div></li>
+                    <li><div><a onclick="javascript:jQuery.facybox({ajax:'/dict/user/login_box'});">登录</a></div><div class="separator"></div></li>
+				                </ul>
+            </div>
+			        </div>
+        <!-- product end -->
+        <div id="logo">
+        	<h1>
+            	<a href="/" title="搜狗输入法"></a>
+            </h1>
+        </div>
+        <!-- search start -->
+        <div id="search_input">
+        	 <form onsubmit="return false;" id="searchForm" method="get" action="/search/search_list/">
+                <input type="text" name="word" value="网络流行新词" id="searchTip" autocomplete="off"  onkeydown="enterSubmit(event);"  />
+                <input type="hidden" id="tycur" value="0">
+                <input type="hidden" id="kwcur" value="">
+              </form>
+        </div>
+        <div id="search_btn"><a href="javascript:checkSubmit();"></a></div>
+        <!-- search end -->
+        <div id="nav_list">
+        	<ul>
+            	<li>
+                	<a href="/windows/?r=mac&t=pinyin"><div class="nav_name">首页</div></a>
+                </li>
+                <li>
+                	<a href="//pinyin.sogou.com/skins/"><div class="nav_name">皮肤</div></a>
+                </li>
+                <li>
+                	<a class='current' href="//pinyin.sogou.com/dict/"><div class="nav_name ">词库</div></a>
+                </li>
+				<li id="zmeit">
+                    <a href="http://open.shouji.sogou.com/?f=dict"><div class="nav_name ">皮肤表情开放平台</div></a>
+					<span id="zmeit_new"></span>
+				</li>
+                <!--
+                <li>
+					<a href="http://pinyin.sogou.com/zimeiti/"><div class="nav_name ">字媒体</div></a>
+				</li>	
+                -->			
+                <li>
+                	<a href="//pinyin.sogou.com/help.php"><div class="nav_name">帮助</div></a>
+                </li>
+                <li>
+                	<a href="//pinyin.sogou.com/changelog.php"><div class="nav_name">升级日志</div></a>
+                </li>
+                <!--
+                <li class="nav_list_last">
+                	<a href="http://pinyin.sogou.com/bbs/forum.php?gid=3" target="_blank"><div class="nav_name">论坛</div></a>
+                </li>
+                -->
+				<!--
+				                <li class="nav_list_last">
+					                	<a href="javascript:jQuery.facybox({ajax:'/skins/user/login_box'});"><div class="nav_name">个人中心</div></a>
+					                </li>
+								-->
+            </ul>
+        </div>
+    </div>
+</div>
+<!-- wrapper end -->
+
+<script>
+	
+jQuery("#searchTip").focus(function(){
+		jQuery('#search_input').addClass('focus');
+});
+jQuery("#searchTip").blur(function(event){
+		jQuery('#search_input').removeClass('focus');
+});
+$("textarea,input").focus(function(){
+	if($(this).val()==this.defaultValue){
+		$(this).val("");
+    }   
+}).focusout(function(){
+    if($(this).val()==""){
+		$(this).val(this.defaultValue);
+    }   
+}); 
+
+
+//init_keyword(); 
+</script>
+<body>
+<script language="javascript" src="/dict/dict_new_static/js/index/dict.js"></script>
+<script language="javascript" src="/dict/dict_new_static/js/index/highcharts.js"></script>
+<script language="javascript" src="/dict/dict_new_static/js/index/setcharts.js"></script>
+<script language="javascript" src="/dict/dict_new_static/js/infinitecarousel/jquery.infinitecarousel3.js"></script>
+<script language="javascript" src="/dict/dict_new_static/js/easing.js"></script>
+<!--
+<script language="javascript" src="/dict/dict_new_static/js/responsiveSlides/responsiveslides.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/dict/dict_new_static/js/responsiveSlides/responsiveslides.css" />
+<link rel="stylesheet" type="text/css" href="/dict/dict_new_static/js/responsiveSlides/custom.css" />
+-->
+<link rel="stylesheet" type="text/css" href="/dict/dict_new_static/css/index/index2.css?v=4" />
+<div id="content">
+	<!-- main_1 start -->
+	<div id="dict_main_1">
+    	<div id="newdict_show">
+						<ul id="slider">
+												<li><a href="https://pinyin.sogou.com/dict/detail/index/154343?rf=dictindex&pos=slidebanner" onclick='count_banner(227);' target="_blank"><img src="/dict/dict_new_static/imageUpload/2022/10/202210148401.png" /></a></li>
+																<li><a href="https://pinyin.sogou.com/dict/detail/index/80958?rf=dictindex&pos=slidebanner" onclick='count_banner(229);' target="_blank"><img src="/dict/dict_new_static/imageUpload/2022/10/202210146358.jpg" /></a></li>
+																<li><a href="https://pinyin.sogou.com/dict/detail/index/79158/?rf=dictindex&pos=slidebanner" onclick='count_banner(215);' target="_blank"><img src="/dict/dict_new_static/imageUpload/2018/07/201807062330.jpg" /></a></li>
+																<li><a href="https://pinyin.sogou.com/dict/detail/index/72884/?rf=dictindex&pos=slidebanner" onclick='count_banner(207);' target="_blank"><img src="/dict/dict_new_static/imageUpload/2018/06/201806155194.jpg" /></a></li>
+																<li><a href="https://pinyin.sogou.com/dict/detail/index/75228/?rf=dictindex&pos=slidebanner" onclick='count_banner(199);' target="_blank"><img src="/dict/dict_new_static/imageUpload/2018/05/201805107134.jpg" /></a></li>
+											</ul>
+			        </div>
+        <div id="side_banner_right">
+        	<div id="newdict_theme" onclick='count_banner(1);'><a href="/dict/banner.php?rf=dictindex&pos=rightbanner" target="_blank"></a></div>
+            <div id="ywz_theme" onclick='count_banner(3);'><a href="/dict/detail/index/6?rf=dictindex&pos=rightbanner" target="_blank"></a></div>
+        </div>
+    </div>
+    <!-- main_1 end -->
+    <!-- main_2 start -->
+    <div id="dict_main_2">
+		<div id="hot_word_show">
+			<!-- 	hot_word_show_tag start -->
+	        <div id="hot_word_show_tag">
+		    	<ul>
+		            <li id="tag_1" class="hot_tag cur">全部</li>
+			    	<li id="tag_2" class="hot_tag">社会</li>
+				    <li id="tag_3" class="hot_tag">娱乐</li>
+			        <li id="tag_4" class="hot_tag">人物</li>
+			    </ul>
+			</div>
+	        <!-- 	hot_word_show_tag end -->        
+			<script>
+var mydata = new Array();
+mydata[1] = new Array();
+mydata[2] = new Array();
+mydata[3] = new Array();
+mydata[4] = new Array();
+var xTime = ['06.27','07.03','07.09','07.15','07.21','07.27','08.02']
+mydata[1][0] = [694,599,274,297,264,669,1757985];
+mydata[1][1] = [333,965,742,290,652,277,1467431];
+mydata[1][2] = [728,662,128,282,125,563,444030];
+mydata[1][3] = [288,884,721,371,802,865,264227];
+mydata[1][4] = [725,621,276,195,432,237,230648];
+mydata[1][5] = [460,125,737,634,322,901,52174];
+mydata[1][6] = [303,556,866,946,746,517,36313];
+mydata[1][7] = [222,474,178,250,656,204,1728];
+mydata[1][8] = [714,845,988,434,216,789,1653];
+mydata[2][0] = [299,842,410,475,937,742,63625];
+mydata[2][1] = [612,397,768,349,932,991,32956];
+mydata[2][2] = [249,234,546,115,179,292,20724];
+mydata[2][3] = [532,302,666,611,453,321,6761];
+mydata[2][4] = [715,167,166,703,502,282,2227];
+mydata[2][5] = [492,701,123,803,175,961,1673];
+mydata[2][6] = [545,688,358,312,938,289,792];
+mydata[2][7] = [302,186,424,749,202,503,210];
+mydata[2][8] = [941,634,706,606,245,158,209];
+mydata[3][0] = [828,860,225,894,563,627,33627];
+mydata[3][1] = [176,955,328,200,757,404,6147];
+mydata[3][2] = [160,301,992,419,513,930,4440];
+mydata[3][3] = [608,716,116,932,465,218,1322];
+mydata[3][4] = [435,405,752,140,911,897,1255];
+mydata[3][5] = [198,738,757,324,632,319,871];
+mydata[3][6] = [851,709,273,178,809,931,213];
+mydata[3][7] = [482,870,231,474,288,645,153];
+mydata[3][8] = [404,796,361,420,728,726,107];
+mydata[4][0] = [538,162,130,290,202,942,25650];
+mydata[4][1] = [186,301,680,844,525,311,8263];
+mydata[4][2] = [163,376,920,336,455,729,6475];
+mydata[4][3] = [267,838,598,398,312,786,6389];
+mydata[4][4] = [944,616,582,304,936,309,2552];
+mydata[4][5] = [930,473,372,961,663,475,2323];
+mydata[4][6] = [902,750,676,581,594,200,841];
+mydata[4][7] = [793,657,477,713,894,832,834];
+mydata[4][8] = [441,160,669,940,458,881,184];
+</script>
+<div id="hot_word_show_left">
+    <div id="hot_word_title">
+	    <span class="exponent">输入指数</span>词条名称
+				    </div>
+					    <div id="hot_word_list">
+ 
+		<ul class='hot_tag_1'>
+			<li id="w_id_117922457"><a href='/dict/sogou_search.php?query=%BF%EC%C0%D6&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">1757985</span>快乐</a></li>
+			<li id="w_id_103995062"><a href='/dict/sogou_search.php?query=%D5%E6%BA%C3&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">1467431</span>真好</a></li>
+			<li id="w_id_104217106"><a href='/dict/sogou_search.php?query=%C6%F0%B4%B2&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">444030</span>起床</a></li>
+			<li id="w_id_103981702"><a href='/dict/sogou_search.php?query=%CA%AE%D2%BB&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">264227</span>十一</a></li>
+			<li id="w_id_104221850"><a href='/dict/sogou_search.php?query=%B6%AC%CC%EC&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">230648</span>冬天</a></li>
+			<li id="w_id_103954692"><a href='/dict/sogou_search.php?query=%F3%A6%D0%B7&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">52174</span>螃蟹</a></li>
+			<li id="w_id_111695737"><a href='/dict/sogou_search.php?query=%B9%FD%BD%DA&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">36313</span>过节</a></li>
+			<li id="w_id_109985602"><a href='/dict/sogou_search.php?query=%CE%E2%D0%E3%B2%A8&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">1728</span>吴秀波</a></li>
+			<li id="w_id_113263685"><a href='/dict/sogou_search.php?query=%B9%E2%B9%F7%BD%DA&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">1653</span>光棍节</a></li>
+		</ul>
+ 
+		<ul class='hot_tag_2'>
+			<li id="w_id_112539051"><a href='/dict/sogou_search.php?query=%B9%FA%C7%EC&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">63625</span>国庆</a></li>
+			<li id="w_id_119247559"><a href='/dict/sogou_search.php?query=%C7%E9%C8%CB%BD%DA&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">32956</span>情人节</a></li>
+			<li id="w_id_111986899"><a href='/dict/sogou_search.php?query=%D4%C2%B1%FD&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">20724</span>月饼</a></li>
+			<li id="w_id_120068099"><a href='/dict/sogou_search.php?query=%C9%A8%C4%B9&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">6761</span>扫墓</a></li>
+			<li id="w_id_120527717"><a href='/dict/sogou_search.php?query=%BD%CC%CA%A6%BD%DA&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">2227</span>教师节</a></li>
+			<li id="w_id_118999349"><a href='/dict/sogou_search.php?query=%BF%AA%D1%A7%B5%DA%D2%BB%BF%CE&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">1673</span>开学第一课</a></li>
+			<li id="w_id_119035987"><a href='/dict/sogou_search.php?query=%BF%AA%D1%A7%B5%E4%C0%F1&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">792</span>开学典礼</a></li>
+			<li id="w_id_119011883"><a href='/dict/sogou_search.php?query=%B8%B5%D3%A8&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">210</span>傅莹</a></li>
+			<li id="w_id_110824632"><a href='/dict/sogou_search.php?query=%CA%CD%D3%C0%D0%C5&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">209</span>释永信</a></li>
+		</ul>
+ 
+		<ul class='hot_tag_3'>
+			<li id="w_id_110770458"><a href='/dict/sogou_search.php?query=%CC%EC%CC%EC%CF%F2%C9%CF&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">33627</span>天天向上</a></li>
+			<li id="w_id_110617432"><a href='/dict/sogou_search.php?query=%D6%D0%B9%FA%BA%C3%C9%F9%D2%F4&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">6147</span>中国好声音</a></li>
+			<li id="w_id_118469037"><a href='/dict/sogou_search.php?query=%B9%C5%BD%A3%C6%E6%CC%B7&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">4440</span>古剑奇谭</a></li>
+			<li id="w_id_104828374"><a href='/dict/sogou_search.php?query=%B7%D6%CA%D6%B4%F3%CA%A6&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">1322</span>分手大师</a></li>
+			<li id="w_id_120534045"><a href='/dict/sogou_search.php?query=%C7%D8%EA%BB&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">1255</span>秦昊</a></li>
+			<li id="w_id_110609044"><a href='/dict/sogou_search.php?query=%D0%C2%B8%E8%C9%F9&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">871</span>新歌声</a></li>
+			<li id="w_id_101857097"><a href='/dict/sogou_search.php?query=%D6%D2%BC%E9%C8%CB&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">213</span>忠奸人</a></li>
+			<li id="w_id_103069150"><a href='/dict/sogou_search.php?query=%B1%B1%C6%BD%CE%DE%D5%BD%CA%C2&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">153</span>北平无战事</a></li>
+			<li id="w_id_103025716"><a href='/dict/sogou_search.php?query=%BC%C3%B9%AB%BB%EE%B7%F0&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">107</span>济公活佛</a></li>
+		</ul>
+ 
+		<ul class='hot_tag_4'>
+			<li id="w_id_120530845"><a href='/dict/sogou_search.php?query=%BB%C6%BE%B0%E8%A4&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">25650</span>黄景瑜</a></li>
+			<li id="w_id_108865320"><a href='/dict/sogou_search.php?query=%C3%C0%B9%FA%B6%D3%B3%A4&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">8263</span>美国队长</a></li>
+			<li id="w_id_109261116"><a href='/dict/sogou_search.php?query=%C3%C0%B6%D3&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">6475</span>美队</a></li>
+			<li id="w_id_119002789"><a href='/dict/sogou_search.php?query=%D0%EC%BC%D1%D3%A8&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">6389</span>徐佳莹</a></li>
+			<li id="w_id_112880541"><a href='/dict/sogou_search.php?query=%CD%C0%DF%CF%DF%CF&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">2552</span>屠呦呦</a></li>
+			<li id="w_id_108840542"><a href='/dict/sogou_search.php?query=%C1%F5%C7%BF%B6%AB&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">2323</span>刘强东</a></li>
+			<li id="w_id_120538783"><a href='/dict/sogou_search.php?query=%D1%EE%E7%AD&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">841</span>杨绛</a></li>
+			<li id="w_id_104215684"><a href='/dict/sogou_search.php?query=%B3%C2%C5%B7&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">834</span>陈欧</a></li>
+			<li id="w_id_119027159"><a href='/dict/sogou_search.php?query=%B3%C2%C0%D6%BB%F9&_asf=pinyin.sogou.com&_ast=1754082003' target="_blank"><span class="exponent">184</span>陈乐基</a></li>
+		</ul>
+	</div>
+</div>	
+			<!-- hot_word_show_right start -->
+			<div id="hot_word_show_right">
+				<div id="hot_word_trend_title"></div>
+				<div id="hot_word_trend_container"></div>
+			</div>
+			<!-- hot_word_show_right end -->    
+		</div>
+        <!-- dict_rcmd_show start -->
+        <div id="dict_rcmd_show">
+        	<div id="dict_rcmd_list">
+            	                <ul>
+                	                    <li>
+                    	<div id="rcmd_pic_1" class="rcmd_pic">
+                            <a href="/dict/detail/index/87994/?rf=dictindex&pos=dict_rcmd" target="_blank">
+                                <img src="//img02.sogoucdn.com/app/a/11130001/dictrec_2xiaomod.jpg"  />
+                            </a>
+                        </div>
+                    	<div class="rcmd_title" ><a href="/dict/detail/index/87994/?rf=dictindex&pos=dict_rcmd">魔道祖师</a></div>
+                    </li>
+                                        <li>
+                    	<div id="rcmd_pic_2" class="rcmd_pic">
+                            <a href="/dict/detail/index/83729/?rf=dictindex&pos=dict_rcmd" target="_blank">
+                                <img src="//img04.sogoucdn.com/app/a/11130001/dictrec_2xiaocaiwu.gif"  />
+                            </a>
+                        </div>
+                    	<div class="rcmd_title" ><a href="/dict/detail/index/83729/?rf=dictindex&pos=dict_rcmd">财务专用</a></div>
+                    </li>
+                                        <li>
+                    	<div id="rcmd_pic_3" class="rcmd_pic">
+                            <a href="/dict/detail/index/79970/?rf=dictindex&pos=dict_rcmd" target="_blank">
+                                <img src="//img01.sogoucdn.com/app/a/11130001/dictrec_2xfs.jpg"  />
+                            </a>
+                        </div>
+                    	<div class="rcmd_title" ><a href="/dict/detail/index/79970/?rf=dictindex&pos=dict_rcmd">TFBOYS粉丝专用</a></div>
+                    </li>
+                                        <li>
+                    	<div id="rcmd_pic_4" class="rcmd_pic">
+                            <a href="/dict/detail/index/80958/?rf=dictindex&pos=dict_rcmd" target="_blank">
+                                <img src="//img01.sogoucdn.com/app/a/11130001/dictrec_2xiaoliuliu.jpg"  />
+                            </a>
+                        </div>
+                    	<div class="rcmd_title" ><a href="/dict/detail/index/80958/?rf=dictindex&pos=dict_rcmd">柳宗元诗词</a></div>
+                    </li>
+                                    </ul>
+                            </div>
+            <div id="dict_sum">
+				<span class='mark_blue'>19520</span> 个网友创建了 <span class='mark_blue'>27695</span> 个词库<br /> 共 <span class='mark_blue'>48482247</span> 个词条</span>	
+			</div>
+            <div id="dict_btn">
+            	<div id="make_dict_btn">
+											<a href="javascript:jQuery.facybox({ajax:'/dict/user/login_box'});" onclick="count_create_dict(1);"></a>
+									</div>
+            	<div id="report_dict_btn" style="display:none;"><a href="http://pinyin.sogou.com/bbs/viewthread.php?tid=460162" onclick="count_create_dict(2);"></a></div>
+            </div>
+   
+        </div>
+        <!-- dict_rcmd_show end -->
+    </div>
+    <!-- main_2 end -->
+    <!-- main_3 start -->
+    <div id="dict_main_3">
+    	<div id="dict_category_title"></div>
+    	<div id="dict_category_show">
+        	<div class="dict_category_list dict_list_left">
+				<div style='clear:both;'></div>
+            	<div class="dict_category_list_title "><a href='/dict/cate/index/167?rf=dictindex&pos=dict_rcmd' target="_blank" >城市信息大全</a></div>
+                <div class="catewords">
+                	<a href="/dict/cate/index/360?rf=dictindex" target="_blank" >全国</a>
+                    <a href="/dict/cate/index/198?rf=dictindex" target="_blank" >广东</a>
+                    <a href="/dict/cate/index/180?rf=dictindex" target="_blank" >北京</a>
+                    <a href="/dict/cate/index/306?rf=dictindex" target="_blank" >上海</a>
+                    <a href="/dict/cate/index/342?rf=dictindex" target="_blank" >云南</a>
+                    <a href="/dict/cate/index/168?rf=dictindex" target="_blank" >安徽</a>
+                    <a href="/dict/cate/index/312?rf=dictindex" target="_blank" >四川</a>
+                    <a href="/dict/cate/index/258?rf=dictindex" target="_blank" >江苏</a>
+                    <a href="/dict/cate/index/270?rf=dictindex" target="_blank" >辽宁</a>
+                    <a href="/dict/cate/index/366?rf=dictindex" target="_blank" >国外地名</a>
+                </div>
+								<div class='cate_down'>
+					<div id="user_site">你所在的城市:浙江省温州市</div>
+		            <div class="catedetail" style="height:30px;_height:20px;">
+								        	<a href="/dict/detail/index/19502?rf=dictindex" target="_blank">江门市城市信息精选</a>
+								        	<a href="/dict/detail/index/37278?rf=dictindex" target="_blank">江门市公交站名</a>
+								        	<a href="/dict/detail/index/19787?rf=dictindex" target="_blank">温州市城市信息精选</a>
+								        	<a href="/dict/detail/index/37387?rf=dictindex" target="_blank">温州市公交站名</a>
+										</div>
+				</div>
+				            </div>
+            <div class="dict_category_list">
+            	<div class="dict_category_list_title"><a href='/dict/cate/index/436?rf=dictindex' target="_blank">电子游戏</a></div>
+                <div class="catewords">
+					<a href="/dict/cate/index/437?rf=dictindex" target="_blank" >单机游戏</a>
+                	<a href="/dict/cate/index/461?rf=dictindex" target="_blank" >网络游戏</a>
+					<a href="/dict/cate/index/437?rf=dictindex" target="_blank" >网页游戏</a>
+                </div>
+				<div class='cate_down'>
+					<div class="catedetail">
+                        <a href="/dict/detail/index/73918?rf=dictindex"  target="_blank">王者荣耀</a>
+                        <a href="/dict/detail/index/53593?rf=dictindex"  target="_blank">英雄联盟</a>
+                        <a href="/dict/detail/index/15235?rf=dictindex"  target="_blank">梦幻西游</a>
+                        <a href="/dict/detail/index/15233?rf=dictindex"  target="_blank">魔兽世界</a>
+                		<a href="/dict/detail/index/66902?rf=dictindex"  target="_blank">阴阳师</a>
+                		<a href="/dict/detail/index/54030?rf=dictindex"  target="_blank">剑网3</a>
+                	    <a href="/dict/detail/index/71744?rf=dictindex" target="_blank">龙之谷</a>
+                	</div>
+				</div>
+            </div>
+			<div class='dict_category_list '>
+<div class='dict_category_list_title'><a href='/dict/cate/index/1?rf=dictindex' target="_blank">自然科学</a></div>
+ <div class='catewords'><a href="/dict/cate/index/14?rf=dictindex" target="_blank">生物</a>
+<a href="/dict/cate/index/13?rf=dictindex" target="_blank">化学</a>
+<a href="/dict/cate/index/2?rf=dictindex" target="_blank">数学</a>
+<a href="/dict/cate/index/3?rf=dictindex" target="_blank">物理</a>
+<a href="/dict/cate/index/30?rf=dictindex" target="_blank">其它</a>
+<a href="/dict/cate/index/29?rf=dictindex" target="_blank">天文学</a>
+<a href="/dict/cate/index/28?rf=dictindex" target="_blank">气象学</a>
+<a href="/dict/cate/index/27?rf=dictindex" target="_blank">海洋学</a>
+<a href="/dict/cate/index/26?rf=dictindex" target="_blank">地理地质</a>
+ </div><div class='cate_down'><div class='catedetail'>
+<a href="/dict/detail/index/15206?rf=dictindex" target="_blank">动物词汇大全</a>
+<a href="/dict/detail/index/15124?rf=dictindex" target="_blank">生物词汇大全</a>
+<a href="/dict/detail/index/15208?rf=dictindex" target="_blank">地理地质词汇大全</a>
+<a href="/dict/detail/index/15203?rf=dictindex" target="_blank">物理词汇大全</a>
+<a href="/dict/detail/index/15205?rf=dictindex" target="_blank">化学化工词汇大全</a>
+<a href="/dict/detail/index/15207?rf=dictindex" target="_blank">植物词汇大全</a>
+ </div></div></div>
+<div class='dict_category_list dict_list_right '>
+<div class='dict_category_list_title'><a href='/dict/cate/index/31?rf=dictindex' target="_blank">人文科学</a></div>
+ <div class='catewords'><a href="/dict/cate/index/53?rf=dictindex" target="_blank">语言</a>
+<a href="/dict/cate/index/38?rf=dictindex" target="_blank">文学</a>
+<a href="/dict/cate/index/66?rf=dictindex" target="_blank">宗教</a>
+<a href="/dict/cate/index/32?rf=dictindex" target="_blank">历史</a>
+<a href="/dict/cate/index/61?rf=dictindex" target="_blank">哲学</a>
+<a href="/dict/cate/index/74?rf=dictindex" target="_blank">神学</a>
+<a href="/dict/cate/index/71?rf=dictindex" target="_blank">考古</a>
+<a href="/dict/cate/index/75?rf=dictindex" target="_blank">其它</a>
+<a href="/dict/cate/index/72?rf=dictindex" target="_blank">伦理学</a>
+ </div><div class='cate_down'><div class='catedetail'>
+<a href="/dict/detail/index/4?rf=dictindex" target="_blank">网络流行新词</a>
+<a href="/dict/detail/index/3?rf=dictindex" target="_blank">宋词精选</a>
+<a href="/dict/detail/index/15097?rf=dictindex" target="_blank">成语俗语</a>
+<a href="/dict/detail/index/1?rf=dictindex" target="_blank">唐诗300首</a>
+<a href="/dict/detail/index/2?rf=dictindex" target="_blank">古诗词名句</a>
+<a href="/dict/detail/index/15146?rf=dictindex" target="_blank">道教词汇大全</a>
+ </div></div></div>
+<div style='clear:both;'></div><div class='dict_category_list dict_list_left '>
+<div class='dict_category_list_title'><a href='/dict/cate/index/76?rf=dictindex' target="_blank">社会科学</a></div>
+ <div class='catewords'><a href="/dict/cate/index/85?rf=dictindex" target="_blank">法律</a>
+<a href="/dict/cate/index/93?rf=dictindex" target="_blank">军事</a>
+<a href="/dict/cate/index/95?rf=dictindex" target="_blank">其它</a>
+<a href="/dict/cate/index/90?rf=dictindex" target="_blank">心理学</a>
+<a href="/dict/cate/index/91?rf=dictindex" target="_blank">政治学</a>
+<a href="/dict/cate/index/94?rf=dictindex" target="_blank">房地产</a>
+<a href="/dict/cate/index/89?rf=dictindex" target="_blank">社会学</a>
+<a href="/dict/cate/index/88?rf=dictindex" target="_blank">伦理学</a>
+<a href="/dict/cate/index/92?rf=dictindex" target="_blank">档案学</a>
+ </div><div class='cate_down'><div class='catedetail'>
+<a href="/dict/detail/index/15128?rf=dictindex" target="_blank">法律词汇大全</a>
+<a href="/dict/detail/index/15127?rf=dictindex" target="_blank">财经金融词汇大全</a>
+<a href="/dict/detail/index/15129?rf=dictindex" target="_blank">心理学词汇大全</a>
+<a href="/dict/detail/index/20659?rf=dictindex" target="_blank">财务会计 财会词汇大全</a>
+<a href="/dict/detail/index/20661?rf=dictindex" target="_blank">房地产词汇大全</a>
+<a href="/dict/detail/index/15119?rf=dictindex" target="_blank">军事词汇大全</a>
+ </div></div></div>
+<div class='dict_category_list '>
+<div class='dict_category_list_title'><a href='/dict/cate/index/96?rf=dictindex' target="_blank">工程与应用科学</a></div>
+ <div class='catewords'><a href="/dict/cate/index/113?rf=dictindex" target="_blank">建筑</a>
+<a href="/dict/cate/index/109?rf=dictindex" target="_blank">化工</a>
+<a href="/dict/cate/index/126?rf=dictindex" target="_blank">其它</a>
+<a href="/dict/cate/index/121?rf=dictindex" target="_blank">造纸</a>
+<a href="/dict/cate/index/124?rf=dictindex" target="_blank">包装</a>
+<a href="/dict/cate/index/97?rf=dictindex" target="_blank">计算机</a>
+<a href="/dict/cate/index/112?rf=dictindex" target="_blank">机械工程</a>
+<a href="/dict/cate/index/104?rf=dictindex" target="_blank">电子工程</a>
+<a href="/dict/cate/index/107?rf=dictindex" target="_blank">钢铁冶金</a>
+ </div><div class='cate_down'><div class='catedetail'>
+<a href="/dict/detail/index/15117?rf=dictindex" target="_blank">计算机词汇大全</a>
+<a href="/dict/detail/index/15118?rf=dictindex" target="_blank">建筑词汇大全</a>
+<a href="/dict/detail/index/15121?rf=dictindex" target="_blank">电力词汇大全</a>
+<a href="/dict/detail/index/15152?rf=dictindex" target="_blank">船舶港口词汇大全</a>
+<a href="/dict/detail/index/15122?rf=dictindex" target="_blank">电子词汇大全</a>
+<a href="/dict/detail/index/15123?rf=dictindex" target="_blank">水利词汇大全</a>
+ </div></div></div>
+<div class='dict_category_list '>
+<div class='dict_category_list_title'><a href='/dict/cate/index/127?rf=dictindex' target="_blank">农林渔畜</a></div>
+ <div class='catewords'><a href="/dict/cate/index/129?rf=dictindex" target="_blank">农业</a>
+<a href="/dict/cate/index/128?rf=dictindex" target="_blank">林业</a>
+<a href="/dict/cate/index/131?rf=dictindex" target="_blank">渔业</a>
+<a href="/dict/cate/index/130?rf=dictindex" target="_blank">畜牧业</a>
+ </div><div class='cate_down'><div class='catedetail'>
+<a href="/dict/detail/index/15149?rf=dictindex" target="_blank">农业词汇大全</a>
+<a href="/dict/detail/index/1345?rf=dictindex" target="_blank">林业树种名词库</a>
+<a href="/dict/detail/index/623?rf=dictindex" target="_blank">农学</a>
+<a href="/dict/detail/index/321?rf=dictindex" target="_blank">土壤学名词</a>
+<a href="/dict/detail/index/6920?rf=dictindex" target="_blank">水产及饲料行业词库（最全）</a>
+<a href="/dict/detail/index/5615?rf=dictindex" target="_blank">林业</a>
+ </div></div></div>
+<div class='dict_category_list dict_list_right '>
+<div class='dict_category_list_title'><a href='/dict/cate/index/132?rf=dictindex' target="_blank">医学</a></div>
+ <div class='catewords'><a href="/dict/cate/index/135?rf=dictindex" target="_blank">中医</a>
+<a href="/dict/cate/index/138?rf=dictindex" target="_blank">疾病</a>
+<a href="/dict/cate/index/136?rf=dictindex" target="_blank">中药</a>
+<a href="/dict/cate/index/152?rf=dictindex" target="_blank">医疗</a>
+<a href="/dict/cate/index/153?rf=dictindex" target="_blank">其它</a>
+<a href="/dict/cate/index/550?rf=dictindex" target="_blank">外科</a>
+<a href="/dict/cate/index/147?rf=dictindex" target="_blank">兽医</a>
+<a href="/dict/cate/index/137?rf=dictindex" target="_blank">针灸</a>
+<a href="/dict/cate/index/134?rf=dictindex" target="_blank">西药学</a>
+ </div><div class='cate_down'><div class='catedetail'>
+<a href="/dict/detail/index/15125?rf=dictindex" target="_blank">医学词汇大全</a>
+<a href="/dict/detail/index/20664?rf=dictindex" target="_blank">中医中药大全</a>
+<a href="/dict/detail/index/20666?rf=dictindex" target="_blank">中外药品名称大全</a>
+<a href="/dict/detail/index/22419?rf=dictindex" target="_blank">医疗器械大全</a>
+<a href="/dict/detail/index/1074?rf=dictindex" target="_blank">药企和国外药企</a>
+<a href="/dict/detail/index/281?rf=dictindex" target="_blank">药学词库</a>
+<a href="/dict/detail/index/4886?rf=dictindex" target="_blank">药品产地</a>
+ </div></div></div>
+<div style='clear:both;'></div><div class='dict_category_list dict_list_left '>
+<div class='dict_category_list_title'><a href='/dict/cate/index/154?rf=dictindex' target="_blank">艺术</a></div>
+ <div class='catewords'><a href="/dict/cate/index/159?rf=dictindex" target="_blank">绘画</a>
+<a href="/dict/cate/index/160?rf=dictindex" target="_blank">曲艺</a>
+<a href="/dict/cate/index/164?rf=dictindex" target="_blank">音乐</a>
+<a href="/dict/cate/index/161?rf=dictindex" target="_blank">摄影</a>
+<a href="/dict/cate/index/163?rf=dictindex" target="_blank">舞蹈</a>
+<a href="/dict/cate/index/162?rf=dictindex" target="_blank">陶瓷</a>
+<a href="/dict/cate/index/158?rf=dictindex" target="_blank">雕塑</a>
+<a href="/dict/cate/index/157?rf=dictindex" target="_blank">书法篆刻</a>
+<a href="/dict/cate/index/155?rf=dictindex" target="_blank">刺绣织染</a>
+ </div><div class='cate_down'><div class='catedetail'>
+<a href="/dict/detail/index/15141?rf=dictindex" target="_blank">绘画美术词汇大全</a>
+<a href="/dict/detail/index/15143?rf=dictindex" target="_blank">书法词汇大全</a>
+<a href="/dict/detail/index/15144?rf=dictindex" target="_blank">戏剧戏曲词汇大全</a>
+<a href="/dict/detail/index/15142?rf=dictindex" target="_blank">二人转词汇大全</a>
+<a href="/dict/detail/index/20649?rf=dictindex" target="_blank">摄影大全</a>
+<a href="/dict/detail/index/3394?rf=dictindex" target="_blank">颜色名称</a>
+ </div></div></div>
+<div class='dict_category_list '>
+<div class='dict_category_list_title'><a href='/dict/cate/index/367?rf=dictindex' target="_blank">运动休闲</a></div>
+ <div class='catewords'><a href="/dict/cate/index/368?rf=dictindex" target="_blank">球类</a>
+<a href="/dict/cate/index/382?rf=dictindex" target="_blank">武术</a>
+<a href="/dict/cate/index/388?rf=dictindex" target="_blank">其它</a>
+<a href="/dict/cate/index/384?rf=dictindex" target="_blank">垂钓</a>
+<a href="/dict/cate/index/383?rf=dictindex" target="_blank">奥运</a>
+<a href="/dict/cate/index/381?rf=dictindex" target="_blank">气功</a>
+<a href="/dict/cate/index/385?rf=dictindex" target="_blank">轮滑</a>
+<a href="/dict/cate/index/373?rf=dictindex" target="_blank">棋牌类</a>
+<a href="/dict/cate/index/380?rf=dictindex" target="_blank">太极拳</a>
+ </div><div class='cate_down'><div class='catedetail'>
+<a href="/dict/detail/index/15197?rf=dictindex" target="_blank">象棋</a>
+<a href="/dict/detail/index/15191?rf=dictindex" target="_blank">篮球</a>
+<a href="/dict/detail/index/15194?rf=dictindex" target="_blank">太极拳</a>
+<a href="/dict/detail/index/20657?rf=dictindex" target="_blank">羽毛球</a>
+<a href="/dict/detail/index/15188?rf=dictindex" target="_blank">足球</a>
+<a href="/dict/detail/index/15193?rf=dictindex" target="_blank">F1赛车</a>
+ </div></div></div>
+<div class='dict_category_list '>
+<div class='dict_category_list_title'><a href='/dict/cate/index/389?rf=dictindex' target="_blank">生活</a></div>
+ <div class='catewords'><a href="/dict/cate/index/390?rf=dictindex" target="_blank">理财</a>
+<a href="/dict/cate/index/402?rf=dictindex" target="_blank">饮食</a>
+<a href="/dict/cate/index/399?rf=dictindex" target="_blank">旅游</a>
+<a href="/dict/cate/index/396?rf=dictindex" target="_blank">习俗</a>
+<a href="/dict/cate/index/400?rf=dictindex" target="_blank">日常</a>
+<a href="/dict/cate/index/397?rf=dictindex" target="_blank">服饰</a>
+<a href="/dict/cate/index/398?rf=dictindex" target="_blank">礼品</a>
+<a href="/dict/cate/index/551?rf=dictindex" target="_blank">美发</a>
+<a href="/dict/cate/index/401?rf=dictindex" target="_blank">办公文教</a>
+ </div><div class='cate_down'><div class='catedetail'>
+<a href="/dict/detail/index/6?rf=dictindex" target="_blank">股票基金</a>
+<a href="/dict/detail/index/15182?rf=dictindex" target="_blank">家居装修词汇大全</a>
+<a href="/dict/detail/index/15201?rf=dictindex" target="_blank">饮食大全</a>
+<a href="/dict/detail/index/15183?rf=dictindex" target="_blank">旅游词汇大全</a>
+<a href="/dict/detail/index/15185?rf=dictindex" target="_blank">手机词汇大全</a>
+<a href="/dict/detail/index/15187?rf=dictindex" target="_blank">美容词汇大全</a>
+ </div></div></div>
+<div class='dict_category_list dict_list_right '>
+<div class='dict_category_list_title'><a href='/dict/cate/index/403?rf=dictindex' target="_blank">娱乐</a></div>
+ <div class='catewords'><a href="/dict/cate/index/404?rf=dictindex" target="_blank">动漫</a>
+<a href="/dict/cate/index/429?rf=dictindex" target="_blank">明星</a>
+<a href="/dict/cate/index/432?rf=dictindex" target="_blank">汽车</a>
+<a href="/dict/cate/index/420?rf=dictindex" target="_blank">收藏</a>
+<a href="/dict/cate/index/433?rf=dictindex" target="_blank">烟草</a>
+<a href="/dict/cate/index/434?rf=dictindex" target="_blank">宠物</a>
+<a href="/dict/cate/index/435?rf=dictindex" target="_blank">其它</a>
+<a href="/dict/cate/index/431?rf=dictindex" target="_blank">魔术</a>
+<a href="/dict/cate/index/430?rf=dictindex" target="_blank">模型</a>
+ </div><div class='cate_down'><div class='catedetail'>
+<a href="/dict/detail/index/20656?rf=dictindex" target="_blank">日剧、动漫大全</a>
+<a href="/dict/detail/index/15153?rf=dictindex" target="_blank">汽车词汇大全</a>
+<a href="/dict/detail/index/20658?rf=dictindex" target="_blank">歌手人名大全</a>
+<a href="/dict/detail/index/20652?rf=dictindex" target="_blank">热门电影大全</a>
+ </div></div></div>	
+        </div>
+    </div>
+    <!-- main_3 end -->
+</div>
+
+<div style="clear:both;"></div>
+<div id="footer">
+<style>
+#footer { text-align:center; margin:62px auto 0;_display:inline; color:#666666;height:200px;background:#f5f5f5;width:100%;}
+.ftbox {                                                                                                          
+width:100%;                                                                                                       
+line-height:24px;                                                                                                 
+padding:20px 0 0px 0;                                                                                            
+text-align:center;                                                                                                
+ font-size:12px;                                                                                                  
+ position:relative;                                                                                               
+ font-family:Arial, Helvetica, sans-serif;                                                                        
+}                                                                                                                 
+.ftbox a {                                                                                                        
+color:#666666;                                                                                                    
+text-decoration:none;                                                                                             
+}                                                                                                                 
+.ftbox a:hover{                                                                                                   
+text-decoration: underline;                                                                                       
+}
+.feedback{
+	background: url("//pinyin.sogou.com/skins/pinyin_static/images/feedback.jpg") no-repeat scroll -3px -1px;
+	height: 118px;
+	position: fixed;
+	right: 142px;
+	top: 518px;
+	width: 31px;
+	z-index:30;
+}
+.feedback:hover{
+	background: url("//pinyin.sogou.com/skins/pinyin_static/images/feedback.jpg") no-repeat scroll -46px -1px;
+}
+.face_cooper{
+	width:560px;
+	height:23px;
+	margin:0 auto;
+	padding-top:40px;
+}
+.face_cooper_i{
+    width: 18px;
+    height: 14px;
+    background: url("//imedl.sogoucdn.com/index/skin_icon.png") no-repeat 0 0;
+    display: inline-block;
+    margin-right: 7px;
+    margin-top: 5px;
+	float:left;
+}
+.face_cooper_w{
+    font-size: 16.24px;
+    color: #64696f;
+    font-family: "微软雅黑";
+    height: 23px;
+	float:left;
+}
+.face_cooper_w a{
+    font-size: 16.24px;
+    color: #64696f;
+    font-family: "微软雅黑";
+    height: 23px;
+}
+</style>
+	<div class="face_cooper">
+		<div class="face_cooper_i"></div>
+		<span class="face_cooper_w">皮肤表情词库合作、品牌合作、输入法合作 邮箱：<a href="mailto:hci_bd@tencent.com">hci_bd@tencent.com</a></span>
+	</div>
+	<div class="face_cooper" style="padding-top:10px;width:450px">
+		<div class="face_cooper_i"></div>
+		<div class="face_cooper_w">使用问题用户反馈 邮箱：<a href="mailto:IMETS@tencent.com">IMETS@tencent.com</a></div>
+	</div>
+	<div class="ftbox">&copy; 
+	2025 
+	SOGOU.COM <a href="https://beian.miit.gov.cn/" rel="external nofollow" target="_blank">京ICP备11001839号-1</a>
+		<a href="http://www.sogou.com/docs/terms.htm" rel="external nofollow" target="_blank">免责声明</a>
+		<a href="http://rule.tencent.com/rule/preview/b692b40e-97b9-4e28-8b55-7f08d598ecec" rel="external nofollow" target="_blank">隐私政策</a>
+    </div>
+	<script language="javascript" src="/dict/dict_new_static/js/main.js"></script>
+	<script language="javascript" src="/dict/dict_new_static/js/pb.js"></script>
+	<div style="display:none"><script src="//s23.cnzz.com/z_stat.php?id=1253526839&web_id=1253526839" language="JavaScript"></script></div>
+	<!--zly--></div>
+<script src="/dict/dict_new_static/js/index/count.js"></script>
+<script type="text/javascript">
+$('#slider').infiniteCarousel({
+		imagePath: '/dict/dict_new_static/js/infinitecarousel/images/',
+		transitionSpeed:400,
+		displayTime: 3000,
+		displayProgressRing: false,
+		customClass: 'myCarousel',
+		progressRingColorOpacity: '0,0,0,.9',
+		progressRingBackgroundOn: false,
+		progressRingBackgroundColorOpacity: '255,255,255,.5',
+		easeLeft: 'easeOutExpo',
+		easeRight:'easeOutQuart',
+		inView: 1,
+		advance: 1,
+		autoPilot: true,
+		prevNextInternal: true,
+		autoHideCaptions: true,
+		showControls:false,
+		autoHideDirection:false,
+		thumbnailType:'none'
+});
+</script>
+</body>

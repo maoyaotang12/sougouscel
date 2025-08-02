@@ -112,6 +112,7 @@
 'du'bian'mei'sui 渡邉美穂
 'du'bian'mi'li'ai 渡边米丽爱
 'fan'xia 帆夏
+'fei'na'nai 妃那乃
 'fei'niao 飞鸟
 'fu'li 富里
 'fu'li'nai'yang 冨里奈央
@@ -130,6 +131,8 @@
 'gang'tian'sheng 岡田昇
 'gao'ben 高本
 'gao'ben'cai'hua 高本彩花
+'gao'jing 高井
+'gao'jing'li'xiang 高井俐香
 'gao'lai 高濑
 'gao'lai'ai'nai 高濑爱奈
 'gao'lai'ai'nai 高瀬愛奈
@@ -241,6 +244,7 @@
 'li'nai 丽乃
 'li'nai 丽奈
 'li'nai 莉奈
+'li'xiang 俐香
 'li'xin 丽心
 'li'yang 理央
 'li'zi 理子
@@ -339,6 +343,7 @@
 'ruo'lin'zheng'gong 若林正恭
 'ruo'yue 若月
 'ruo'yue'you'mei 若月佑美
+'san'dian'de'nv'zhu'jue 三点的女主角
 'san'li'yin 三莉音
 'san'ming'zhi'ren 三明治人
 'sen'ben 森本
@@ -420,6 +425,8 @@
 'song'tian'li'nai 松田里奈
 'song'wei 松尾
 'song'wei'mei'you 松尾美佑
+'song'wei'ying 松尾桜
+'song'wei'ying 松尾樱
 'song'yin'si 松阴寺
 'song'yin'si'tai'yong 松阴寺太勇
 'song'yin'si'tai'yong 松陰寺太勇
@@ -537,6 +544,7 @@
 'ye'liu'hua 叶留花
 'ye'yue 叶月
 'yi'da'gan'sheng 伊达干生
+'yi'lv'bo 伊吕波
 'yi'teng 伊藤
 'yi'teng'chun'nai 伊藤純奈
 'yi'teng'chun'nai 伊藤纯奈
@@ -587,6 +595,8 @@
 'yuan'tian'ma'you 原田麻友
 'yuan'tian'zhen'you 原田真由
 'zai'jian'ba'qing'chun'zhi'guang 再见吧青春之光
+'zang'sheng 蔵盛
+'zang'sheng'fei'na'nai 蔵盛妃那乃
 'zao'chuan 早川
 'zao'chuan'sheng'lai 早川圣来
 'zao'chuan'sheng'lai 早川聖来

@@ -35,7 +35,7 @@
 'bao'mi'ti'zhi 保密体制
 'bao'qiang'kong'jian 胞腔空间
 'bao'qiang'shang'tong'tiao'qun 胞腔上同调群
-'bao'qiang'tong'tiao'qun 胞腔同调群
+'bao'qiang'tong'diao'qun 胞腔同调群
 'bao'xu'ying'she 保序映射
 'bei'cheng'shu 被乘数
 'bei'ke'long'bian'huan 贝克隆变换
@@ -121,8 +121,8 @@
 'cha'cuo'lv 差错率
 'cha'dai'shu 差代数
 'cha'fen'biao 差分表
-'cha'ji 差集
 'cha'ji 差积
+'cha'ji 差集
 'cha'zhi'bi'jin 插值逼近
 'cha'zhi'ou 插值偶
 'cha'zhi'xing'zhi 插值性质
@@ -320,7 +320,6 @@
 'duo'yi'lin'zheng'gui'xing 多伊林正规形
 'duo'yuan'shi'jian'xu'lie 多元时间序列
 'duo'yuan'zong'ti 多元总体
-'er'chong'dian 二重点
 'er'chong'gen 二重根
 'er'chong'ji'fen 二重积分
 'er'chong'ji'shu 二重级数
@@ -337,10 +336,11 @@
 'er'jin'shu'qun 二进数群
 'er'xiang'shi 二项式
 'er'zhi'shi'jian'xu'lie 二值时间序列
+'er'zhong'dian 二重点
 'fa'han'shu'fa 罚函数法
 'fa'ping'mian 法平面
 'fan'chang'dui'ce 反常对策
-'fan'chen'shuang'xian'xing'xing 反称双线性型
+'fan'cheng'shuang'xian'xing'xing 反称双线性型
 'fan'chou'luo'ji 范畴逻辑
 'fan'de'meng'de'hang'lie'shi 范德蒙德行列式
 'fan'fu'die'qun 泛覆叠群
@@ -433,7 +433,7 @@
 'gai'lv'ju'li 概率距离
 'gai'lv'yi'ma 概率译码
 'gai'lv'zuo'biao'zhi 概率坐标纸
-'gai'xing'de'zhan'he 概形的粘合
+'gai'xing'de'nian'he 概形的粘合
 'gai'xing'shang'de'she'ying'kong'jian 概形上的射影空间
 'gai'xing'tong'gou 概形同构
 'gao'jie'cha'fen 高阶差分
@@ -461,7 +461,7 @@
 'gong'e'zhou 共轭轴
 'gong'fen'mu 公分母
 'gong'gong'xin'dao 公共信道
-'gong'kai'mi'yao 公开密钥
+'gong'kai'mi'yue 公开密钥
 'gong'li'hua'li'lun 公理化理论
 'gong'li'xue 公理学
 'gong'shi 公式
@@ -574,7 +574,6 @@
 'jian'yan'han'shu 检验函数
 'jiang'lian'tiao'jian 降链条件
 'jiang'wei'fa 降维法
-'jiao'a'dai'shu 交换代数
 'jiao'cuo'dai'shu 交错代数
 'jiao'cuo'hua'zi 交错化子
 'jiao'de'dui'bian 角的对边
@@ -821,6 +820,7 @@
 'ni'ying'she 逆映射
 'ni'yuan 逆元
 'ni'zheng'ze'yuan 拟正则元
+'nian'xing'xiao'shi'fa 粘性消失法
 'niu'dun'wei'shi 牛顿位势
 'niu'dun'xie'lv 牛顿斜率
 'niu'qu'ceng 扭曲层
@@ -958,7 +958,7 @@
 'she'ru 舍入
 'she'ying'bian'huan'qun 射影变换群
 'she'ying'dui'ying 射影对应
-'she'ying'kong'jian'de'shang'tong'tiao 射影空间的上同调
+'she'ying'kong'jian'de'shang'tong'diao 射影空间的上同调
 'she'ying'you'qun 射影酉群
 'she'ying'zhi'xian 射影直线
 'sheng'cheng'yuan 生成元
@@ -1049,6 +1049,8 @@
 'ting'ji'wen'ti 停机问题
 'tong'chang'tiao'jian 通常条件
 'tong'dao 通道
+'tong'diao'dai'shu 同调代数
+'tong'diao'qun 同调群
 'tong'gou 同构
 'tong'ji'jia'she 统计假设
 'tong'ji'tong'xin'li'lun 统计通信理论
@@ -1058,9 +1060,7 @@
 'tong'lun'qun 同伦群
 'tong'tai'de'he 同态的核
 'tong'tai'de'tong'yu'he 同态的同余核
-'tong'tiao'dai'shu 同调代数
-'tong'tiao'qun 同调群
-'tong'xin'mi'yao 通信密钥
+'tong'xin'mi'yue 通信密钥
 'tong'yu'ke'huan'dai'shu 同余可换代数
 'tong'yu'shi 同余式
 'tong'yuan'de 同源的
@@ -1202,8 +1202,8 @@
 'xiu'zheng'dan'chun'xing'fa 修正单纯形法
 'xu'gen 虚根
 'xu'guan'gu'ji 序贯估计
-'xu'shu 虚数
 'xu'shu 序数
+'xu'shu 虚数
 'xu'shu'ji'hao 序数记号
 'xu'shu'ke'ding'yi'de 序数可定义的
 'xu'yu 序域
@@ -1257,8 +1257,8 @@
 'you'dao'shu 右导数
 'you'duan'can'shu'wen'ti 右端参数问题
 'you'jie'de 有界的
-'you'ju'zhen 酉矩阵
 'you'ju'zhen 友矩阵
+'you'ju'zhen 酉矩阵
 'you'kong'jian 酉空间
 'you'li'deng'jia 有理等价
 'you'li'fen'shi 有理分式
@@ -1309,7 +1309,6 @@
 'zeng'sheng'suan'zi 增生算子
 'zeng'suan'zi 增算子
 'zeng'zhang'xing 增长性
-'zhan'xing'xiao'shi'fa 粘性消失法
 'zhang'liang'dai'shu 张量代数
 'zhang'liang'fen'xi 张量分析
 'zhang'liang'ji 张量积
@@ -1399,7 +1398,7 @@
 'zhui'zong'qu'xian 追踪曲线
 'zhun'su'fen'jie 准素分解
 'zhun'su'huan 准素环
-'zhun'su'zi'mo 准素子模
+'zhun'su'zi'mu 准素子模
 'zhun'xian 准线
 'zi 字
 'zi'ban'wei'fen'suan'zi 自伴微分算子
@@ -1411,7 +1410,7 @@
 'zi'gong'e'li'xiang'lei 自共轭理想类
 'zi'ji 子集
 'zi'jiao'zheng'kong'zhi'qi 自校正控制器
-'zi'mo 子模
+'zi'mu 子模
 'zi'mu'ma 字母码
 'zi'qun'de'zhi'shu 子群的指数
 'zi'ran'deng'jia 自然等价
