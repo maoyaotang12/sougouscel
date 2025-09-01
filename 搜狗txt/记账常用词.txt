@@ -1,0 +1,8 @@
+'bao'xiao 报销
+'huan'kuan 还款
+'jie'kuan 借款
+'shou'ru 收入
+'ying'fu 应付
+'ying'shou 应收
+'zhi'chu 支出
+'zhuan'zhang 转账
