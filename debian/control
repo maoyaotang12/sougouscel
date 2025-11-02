@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Yaotang Mao <maoyaotang@163.com>
 Uploaders: maoyaotang <maoyaotang@163.com>,
 Build-Depends:
- debhelper-compat (= 13), libime-bin
+ debhelper-compat (= 13), libime-bin, fcitx5-chinese-addons-bin
 Standards-Version: 4.7.0
 Homepage: https://pinyin.sogou.com/dict/
 Rules-Requires-Root: no
