@@ -1,8 +1,8 @@
 Source: sougouscel-git
 Section: utils
 Priority: optional
-Maintainer: Yaotang Mao <maoyaotang@debian.org>
-Uploaders: maoyaotang <maoyaotang@deepin.org>,
+Maintainer: Yaotang Mao <maoyaotang@163.com>
+Uploaders: maoyaotang <maoyaotang@163.com>,
 Build-Depends:
  debhelper-compat (= 13), libime-bin
 Standards-Version: 4.7.0
